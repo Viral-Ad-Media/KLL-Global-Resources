@@ -1,0 +1,94 @@
+{
+  "redirects": [
+    {
+      "source": "/services/assurance/risk-assurance",
+      "destination": "/services/consulting/risk-management/",
+      "permanent": true
+    },
+    {
+      "source": "/services/assurance/risk-assurance/",
+      "destination": "/services/consulting/risk-management/",
+      "permanent": true
+    },
+    {
+      "source": "/services/assurance/assurance-for-drilling-operators",
+      "destination": "/services/consulting/drilling-integrity/",
+      "permanent": true
+    },
+    {
+      "source": "/services/assurance/assurance-for-drilling-operators/",
+      "destination": "/services/consulting/drilling-integrity/",
+      "permanent": true
+    },
+    {
+      "source": "/services/inspection/pressure-vessels-boilers-and-accessories",
+      "destination": "/sectors/manufacturing/pressure-vessels-and-boilers/",
+      "permanent": true
+    },
+    {
+      "source": "/services/inspection/pressure-vessels-boilers-and-accessories/",
+      "destination": "/sectors/manufacturing/pressure-vessels-and-boilers/",
+      "permanent": true
+    },
+    {
+      "source": "/services/inspection/nuclear",
+      "destination": "/sectors/clean-energy/nuclear-power/",
+      "permanent": true
+    },
+    {
+      "source": "/services/inspection/nuclear/",
+      "destination": "/sectors/clean-energy/nuclear-power/",
+      "permanent": true
+    },
+    {
+      "source": "/services/digital-and-software/vendor-passport",
+      "destination": "/supply-chain-inspection/supplhi-and-the-vendor-passport/",
+      "permanent": true
+    },
+    {
+      "source": "/services/digital-and-software/vendor-passport/",
+      "destination": "/supply-chain-inspection/supplhi-and-the-vendor-passport/",
+      "permanent": true
+    },
+    {
+      "source": "/solutions/safe-decommissioning-of-assets",
+      "destination": "/services/consulting/decommissioning/",
+      "permanent": true
+    },
+    {
+      "source": "/solutions/safe-decommissioning-of-assets/",
+      "destination": "/services/consulting/decommissioning/",
+      "permanent": true
+    },
+    {
+      "source": "/solutions/business-improvement-lean-operations",
+      "destination": "/services/assurance/customised-assurance/",
+      "permanent": true
+    },
+    {
+      "source": "/solutions/business-improvement-lean-operations/",
+      "destination": "/services/assurance/customised-assurance/",
+      "permanent": true
+    },
+    {
+      "source": "/services/inspection/cranes-lifting-equipment",
+      "destination": "/sectors/manufacturing/cranes-and-lifting-equipment/",
+      "permanent": true
+    },
+    {
+      "source": "/services/inspection/cranes-lifting-equipment/",
+      "destination": "/sectors/manufacturing/cranes-and-lifting-equipment/",
+      "permanent": true
+    },
+    {
+      "source": "/services/inspection/marine",
+      "destination": "/sectors/manufacturing/components-and-systems-for-vessels/",
+      "permanent": true
+    },
+    {
+      "source": "/services/inspection/marine/",
+      "destination": "/sectors/manufacturing/components-and-systems-for-vessels/",
+      "permanent": true
+    }
+  ]
+}

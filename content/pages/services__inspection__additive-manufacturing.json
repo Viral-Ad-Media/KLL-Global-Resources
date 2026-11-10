@@ -1,0 +1,54 @@
+{
+ "elementorId": "1631",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "1c2b7876",
+   "ids": {
+    "card": "42798bce",
+    "side": "791853f",
+    "eyebrow": "4c1bb39f",
+    "title": "56d3fbdb",
+    "intro": "79d13a1c"
+   },
+   "eyebrow": "ADDITIVE MANUFACTURING",
+   "title": "With additive manufacturing, we go beyond R&amp;D",
+   "intro": "Our practical approach brings third-party assurance to your AM processes.",
+   "image": "/wp-content/uploads/2020/05/science-in-hd-qAxEJ0ClFfQ-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "1430e70b",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "18778d9c",
+     "size": "100",
+     "elements": [
+      {
+       "type": "tabs",
+       "id": "a2b6925",
+       "classes": [
+        "elementor-tabs-view-horizontal"
+       ],
+       "tabIdBase": "170",
+       "tabs": [
+        {
+         "title": "Additive Manufacturing",
+         "html": "<div class=\"row\"><div class=\"block base12\"><section class=\"component rich-text\"><h4 class=\"desktop-center\" style=\"text-align: center;\">We can help you move additive manufacturing from theory to reality, with our path to market for certified parts.</h4><p class=\"desktop-center\" style=\"text-align: center;\">Only recently has the practice of metal additive manufacturing become a more viable technique for making components in industrial manufacturing. Part of the reason is that it’s hard to come up with a process that’s consistently good – and safe.</p><p class=\"desktop-center\" style=\"text-align: center;\">With our deep history in manufacturing, we’re working with industry partners to help companies provide proof of their AM parts’ integrity through third-party certification and inspection.</p><h4 class=\"desktop-center\" style=\"text-align: center;\">Grow and protect your reputation.</h4><p class=\"desktop-center\" style=\"text-align: center;\">LR can provide both certification services for AM parts as well as certification for quality management systems, with an eye toward the unique nature of additive manufacturing processes. The LR name comes with a reputation built on more than 250 years of independence and a commitment to safety and technical excellence.</p></section></div></div><div class=\"row\"><div class=\"block base12\"><section class=\"component rich-text\"><table border=\"1\"><tbody><tr><td style=\"text-align: center;\"> </td><td style=\"text-align: center;\"><a href=\"https://www.lr.org/en/inspection-services/\"><img alt=\"\" decoding=\"async\" height=\"34\" loading=\"lazy\" src=\"https://www.lr.org/49fb6e/globalassets/_shared-images/non-standard-social-tab-alt-opengraph-image-with-caption-alt-desktopmobile-rich-text-inline/inspection-services/is-kmrl-single-line.jpg\" width=\"500\"/></a></td><td style=\"text-align: center;\"> </td></tr></tbody></table></section></div></div>"
+        },
+        {
+         "title": "Resources",
+         "html": "<h4 class=\"desktop-center\" style=\"text-align: center;\">We’re helping organisations understand the value of independent assurance for additive manufacturing.</h4><p class=\"desktop-center\" style=\"text-align: center;\">From our additive manufacturing certification framework for marine, industrial manufacturing, and oil and gas (the first in the industry) to information about our joint industry projects, explore these areas and get in touch to discuss your challenges.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,241 @@
+{
+ "elementorId": "1108",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "527e4f9c",
+   "ids": {
+    "card": "3bffd2a0",
+    "side": "4db4aae5",
+    "eyebrow": "5a46e9eb",
+    "title": "18727bcc",
+    "intro": "174fb1fc"
+   },
+   "eyebrow": "SAFETY SOLUTIONS",
+   "title": "Making 'zero harm' a reality.",
+   "intro": "At KLL we are pioneering a holistic approach to safety with measurable results – we can help you achieve the same in your organisation.",
+   "image": "/wp-content/uploads/2020/04/solutions_1920.jpg"
+  },
+  {
+   "type": "section",
+   "id": "17841892",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "47c9ea56",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "41bd1188",
+       "tag": "h3",
+       "text": "Key challenges"
+      },
+      {
+       "type": "text",
+       "id": "607cf393",
+       "html": "<p>Optimising the performance of critical infrastructure assets is a major investment driver for our customers, who want to balance the three key requirements:</p>"
+      },
+      {
+       "type": "section",
+       "id": "17bd8176",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "6eb7bcf2",
+         "size": "33",
+         "elements": [
+          {
+           "type": "image-box",
+           "id": "75ae356d",
+           "classes": [
+            "elementor-position-top"
+           ],
+           "image": {
+            "alt": "One",
+            "class": "attachment-full size-full wp-image-97",
+            "decoding": "async",
+            "height": "75",
+            "loading": "lazy",
+            "src": "/wp-content/uploads/2017/08/law-icon06-1-free-img.png",
+            "width": "75"
+           },
+           "titleTag": "h3",
+           "title": "Failure becomes more costly",
+           "description": "We understand that the cost of failure in terms of government regulation and penalties for non-compliance is increasing rapidly. At the same time social norms and expectations are clearly pointing to more management responsibility to implement safety culture."
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "60260031",
+         "size": "33",
+         "elements": [
+          {
+           "type": "image-box",
+           "id": "1d523e1a",
+           "classes": [
+            "elementor-position-top"
+           ],
+           "image": {
+            "alt": "",
+            "class": "attachment-full size-full wp-image-913",
+            "decoding": "async",
+            "height": "75",
+            "loading": "lazy",
+            "src": "/wp-content/uploads/2020/04/law-icon07-1-free-img.png",
+            "width": "75"
+           },
+           "titleTag": "h3",
+           "title": "Pace is relentless",
+           "description": "The pace of work is changing – organisations are becoming more agile, and the complexity and pace of working is increasing. This puts new pressures on the workforce, giving rise to stress and fatigue which can be precursors to serious accidents at work."
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "2a308009",
+         "size": "33",
+         "elements": [
+          {
+           "type": "image-box",
+           "id": "7f174c22",
+           "classes": [
+            "elementor-position-top"
+           ],
+           "image": {
+            "alt": "Three",
+            "class": "attachment-full size-full wp-image-99",
+            "decoding": "async",
+            "height": "75",
+            "loading": "lazy",
+            "src": "/wp-content/uploads/2017/08/law-icon08-1-free-img.png",
+            "width": "75"
+           },
+           "titleTag": "h3",
+           "title": "Measure prevention",
+           "description": "More and more organisations are starting to focus on the absence of accidents – shifting the metrics into a territory where outcomes are not observed, but drivers are better understood through precursor and indicator models."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "21028574",
+   "columns": [
+    {
+     "type": "column",
+     "id": "27f79697",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "52c6228e",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "4e04d61",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "5744f53f",
+           "tag": "h3",
+           "text": "A truly holistic approach to safety"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "1983864c",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "67309089",
+           "html": "<p>At KLL,  the mission of ‘zero harm’ is far more than a slogan. We are really focusing on significant risks, seeking to understand and address the behavioural triggers, harnessing technology to improve risk control and continually learning from events and experiences.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "7568bc84",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "30bfa270",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "2a6ce59b",
+           "tag": "h3",
+           "text": "Areas we can help you"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "2f0649e9",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "71eb97e1",
+           "html": "<p>With our heritage in engineering and technical excellence, LR is in a prime position to help you develop a tailored approach to safety that is fit for purpose in your organisation. </p><p>Our consultants, engineers and technical experts can  engage with you on any of the following improvement levers:</p><p><strong>Simplicity – </strong> crafting fit for purpose processes and deploying agile and risk-based techniques</p><p><strong>Engagement</strong> – enhancing collaboration, culture and behaviours are at the heart of successful safety outcomes</p><p><strong>Data science –</strong> moving from tracking incidents to measuring predicted prevention through data points</p><p><strong>Resilience</strong> – developing a learning safety culture that is open for change and flexibility</p><p><strong>Re-thinking risk</strong> – bring new ideas and technology to existing problems</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "afefe9c",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "75b40bf",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "e011967",
+           "tag": "h3",
+           "text": "This is how we do it"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "990a5a1",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "74125e1",
+           "html": "<div class=\"component content-block\"><div class=\"row\"><div class=\"pane base8 ml12\"><section class=\"component rich-text\"><p>We start with a ‘top down’ leadership approach where the vision is provided from the top and set as an example. From there, our safety culture cascades through the organisation – becomes a way of developing managers – and is enshrined in our values.  As a result, our whole culture is now centred on safety; every person in KLL has a safety related element in their personal objectives. </p><p>On the way to better safety performance, changing the behaviour of staff and managers is key. We do this with a mature behavioural framework where we measure and provide training,  carry out gap assessments, give coaching and develop tutorials where we bring safety to live. We also remove any barrier for employees raising potential safety issues. When carrying out dangerous tasks, our staff are trained to say “stop” where appropriate.</p><p>As a professional services organisation providing quality and safety assurance to clients, you’d expect LR to focus on robust systems and processes for safety.  But we go beyond process definition and implementation – having learned that the key success lies in the simplicity of process, meaning that we have long banished 500 page rule sets in favour of simple, graphical instructions and procedures that are more likely to be remembered by staff. </p><p>Finally, with the help of our many technical experts across the organisation, we are proud to be at the forefront of harnessing emerging technology to drive safety improvements and failure prevention. Together with the LR Foundation, we push for innovation and co-development around safety technology, fatigue monitoring and predictive data modelling. </p></section></div></div></div>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

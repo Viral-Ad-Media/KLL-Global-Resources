@@ -1,0 +1,130 @@
+{
+ "elementorId": "1649",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "561200d6",
+   "ids": {
+    "card": "2ae5b5ad",
+    "side": "4b363110",
+    "eyebrow": "5b143d5b",
+    "title": "68982a23",
+    "intro": "528b499f"
+   },
+   "eyebrow": "ISO 3834 CERTIFICATION",
+   "title": "Prove your welding processes go beyond ISO 9001.",
+   "intro": "We help you demonstrate your welding competence, which can open new markets.",
+   "image": "/wp-content/uploads/2020/05/boostinjay-LvOGj1X2jHE-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "c5c7c69",
+   "columns": [
+    {
+     "type": "column",
+     "id": "648d32bf",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "4889c1cb",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "4498c6f8",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "2e376ba2",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "707af826",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "473b7db4",
+           "html": "<p>ISO 3834 is the international standard for quality requirements for the fusion welding of metallic materials. ISO 9001 states that, where necessary, special processes shall be identified, and the ISO 3834 standard is an excellent way to meet this requirement. </p><p>Because the quality of welding is manufactured into the product – not inspected – having an ISO 3834 certificate demonstrates their competence in fusion welding processes, assessed independently.</p><p>Compliance with ISO 3834 Parts 2, 3 or 4 as appropriate, is now mandatory in many EN pressure vessel and construction standards.</p><p>The ISO 3834 certification process follows five steps:</p><ol><li><strong>System examination:</strong> An examination of the company’s welding quality management system helps identify areas which require attention and correction.</li><li><strong>Questionnaire:</strong> The scheme requires you to complete a detailed questionnaire about the capabilities of your facility. This includes qualifications and experience of the nominated welding coordination personnel.</li><li><strong>Self-audit:</strong> In the third step, you conduct a self-audit against the ISO 3834-2 audit checklist.</li><li><strong>Implementation and confirmation:</strong> The audit is a two-stage process. Stage 1 identifies the areas within the welding quality management system which require attention. Stage 2 is implementation confirmation, where the assessment team will examine specific contracts to assess compliance with customers’ expectations.</li><li><strong>Validity:</strong> Once issued, the ISO 3834 certificate is valid for five years. An annual surveillance audit by a qualified assessor is required to maintain the approval.</li></ol>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "766bf7d3",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "4b69c062",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "75c6b10d",
+           "tag": "h3",
+           "text": "Need help with ISO 3834 certification?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "468243b5",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "2dc7708e",
+           "html": "<p>KLL GLOBAL is a globally accredited certification body for ISO 3834. For fabricators , having an ISO 3834 certification from LR provides an authoritative, globally recognized reference of commercial value. That value lies in our long history of certifying welders, welding operations and welding quality procedures according to several international standards.</p><p>We can certify your company to Parts 2, 3, and 4 of the ISO 3834 standard:</p><ul><li>Part 2 – Comprehensive Quality Requirements</li><li>Part 3 – Standard Quality Requirements</li><li>Part 4 – Elementary Quality Requirements</li></ul>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "1717cba",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "396f42f",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "d4f595f",
+           "tag": "h3",
+           "text": "Why work with us?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "39ee37a",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "d4fd387",
+           "html": "<div class=\"component content-block\"><div class=\"row\"><div class=\"pane base8 ml12\"><section class=\"component rich-text\"><h4>Client-focused and safety driven</h4><p>We strive to be your number one choice for welding certification services. Our passion is to deliver a service of quality, integrity and a safety ethos, coupled with a technical wealth of experience, knowledge and professional academics; which in turn provides confidence for you and your stakeholders throughout the whole service.</p><h4>Technical expertise</h4><p>KLL’s technical experts can provide first-hand insights into the requirements of ISO 3834 and the logic behind them. Our surveyors are chosen for their sector-specific knowledge and expertise, which means you can be confident that they’ll understand the manufacturing challenges you face.</p><p>Our expert assessment teams take a collaborative approach that understands the importance of a fast, efficient appraisal with minimal disruption to your business. </p><h4>Your business helps KLL to help others</h4><p>The profits we generate fund the KLL GLOBAL Foundation, a charity which supports science and engineering-related research, education and public engagement around everything we do. All of this helps us stand by the purpose that drives us every single day: Working together for a safer world.</p></section></div></div></div><div class=\"row\"><div class=\"block base12\"><section class=\"component rich-text\"><table border=\"1\"><tbody><tr><td> </td><td><a href=\"https://www.lr.org/en/inspection-services/\"><img alt=\"\" decoding=\"async\" height=\"34\" loading=\"lazy\" src=\"https://www.lr.org/49fb6e/globalassets/_shared-images/non-standard-social-tab-alt-opengraph-image-with-caption-alt-desktopmobile-rich-text-inline/inspection-services/is-kmrl-single-line.jpg\" width=\"500\"/></a></td></tr></tbody></table></section></div></div>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

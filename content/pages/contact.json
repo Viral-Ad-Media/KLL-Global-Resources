@@ -1,0 +1,187 @@
+{
+ "elementorId": "2040",
+ "blocks": [
+  {
+   "type": "section",
+   "id": "2fb90cb9",
+   "overlay": true,
+   "columns": [
+    {
+     "type": "column",
+     "id": "46fd8ef3",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "454804b9",
+       "inner": true,
+       "background": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "725bb579",
+         "size": "100",
+         "elements": [
+          {
+           "type": "text",
+           "id": "4a2de3e8",
+           "html": "<p>KLL GLOBAL RESOURCES, LLC</p>"
+          },
+          {
+           "type": "heading",
+           "id": "2ba72101",
+           "tag": "h2",
+           "text": "We'd love to hear from you"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "spacer",
+       "id": "1337230d"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "233a9399",
+   "background": true,
+   "columns": [
+    {
+     "type": "column",
+     "id": "56892ef5",
+     "size": "66",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "55f826fb",
+       "tag": "h4",
+       "text": "Please Fill The Information"
+      },
+      {
+       "type": "html",
+       "id": "adebad6",
+       "html": "<iframe frameborder=\"0\" height=\"400\" loading=\"lazy\" scrolling=\"no\" src=\"https://news.aplusmarketer.com/index.php/lists/ok7310ady4a4d/subscribe?output=embed&amp;width=400&amp;height=400\" width=\"400\"></iframe>"
+      }
+     ]
+    },
+    {
+     "type": "column",
+     "id": "890f47e",
+     "size": "33",
+     "elements": [
+      {
+       "type": "icon-box",
+       "id": "1f09bea7",
+       "classes": [
+        "elementor-view-default",
+        "elementor-position-top",
+        "elementor-mobile-position-top"
+       ],
+       "icon": "far fa-clock",
+       "titleTag": "h5",
+       "title": "Saves Your Time",
+       "description": "Many people make the mistake of saving money by wasting time"
+      },
+      {
+       "type": "icon-box",
+       "id": "43fff3a6",
+       "classes": [
+        "elementor-view-default",
+        "elementor-position-top",
+        "elementor-mobile-position-top"
+       ],
+       "icon": "fas fa-comments",
+       "titleTag": "h5",
+       "title": "Seamless Communication",
+       "description": "The most important thing in communication is to hear what isn't being said"
+      },
+      {
+       "type": "icon-box",
+       "id": "13b3293e",
+       "classes": [
+        "elementor-view-default",
+        "elementor-position-top",
+        "elementor-mobile-position-top"
+       ],
+       "icon": "fab fa-cc-visa",
+       "titleTag": "h5",
+       "title": "Cash Free Payment",
+       "description": "We deserve this payment by all stretches of how one would calculate it."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "28c6989",
+   "background": true,
+   "columns": [
+    {
+     "type": "column",
+     "id": "4ae56c2",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "5e4a7064",
+       "tag": "h3",
+       "text": "Call Us! We're The Dust Busters!"
+      },
+      {
+       "type": "heading",
+       "id": "40576562",
+       "tag": "h2",
+       "text": "+18776464339"
+      },
+      {
+       "type": "section",
+       "id": "12db41ac",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "3158f923",
+         "size": "50",
+         "elements": [
+          {
+           "type": "image-box",
+           "id": "2dbe24ec",
+           "classes": [
+            "elementor-vertical-align-top"
+           ],
+           "titleTag": "h5",
+           "title": "Address",
+           "description": "1700 South highway 6 #240 \nHouston, Texas 77083"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "2cb42b84",
+         "size": "50",
+         "elements": [
+          {
+           "type": "image-box",
+           "id": "2d6a44f0",
+           "classes": [
+            "elementor-vertical-align-top"
+           ],
+           "titleTag": "h5",
+           "title": "Mail Us",
+           "description": "aziz@kllglobalresources.com"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

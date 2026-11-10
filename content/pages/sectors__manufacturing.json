@@ -1,0 +1,47 @@
+{
+ "elementorId": "1058",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "5abec320",
+   "ids": {
+    "card": "e4dc89f",
+    "side": "36eedf63",
+    "eyebrow": "3ce795a5",
+    "title": "6fcbdc62",
+    "intro": "62095cfe"
+   },
+   "eyebrow": "MANUFACTURING INDUSTRY",
+   "title": "Independent expertise at every manufacturing stage.",
+   "intro": "Manufacturers of safety critical industrial equipment face increasing demand that their products meet the right codes, standards, rules, or regulations. We give them the confidence to move ahead.",
+   "image": "/wp-content/uploads/2020/05/ant-rozetsky-io7dX_1EFCg-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "2afb47b3",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "26fb265c",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "33efea5",
+       "tag": "h3",
+       "text": "Decades of experience exceeding the needs of the industrial manufacturing sector."
+      },
+      {
+       "type": "text",
+       "id": "68171d11",
+       "html": "<p class=\"desktop-center\">KLL Global’s inspection and certification services are backed by decades of experience as a globally recognized mark of independence and technical expertise. We help our clients ensure the safety and quality of their products, giving them the confidence they need to sell to new markets around the globe.</p><p class=\"desktop-center\">With the advent of Industry 4.0, we’re looking to the near future of manufacturing techniques and helping make sure safety marches alongside innovation.</p>"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

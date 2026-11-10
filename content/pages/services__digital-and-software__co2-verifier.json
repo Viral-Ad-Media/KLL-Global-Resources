@@ -1,0 +1,162 @@
+{
+ "elementorId": "1316",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "2f4e5ab8",
+   "ids": {
+    "card": "5ce34446",
+    "side": "a969aa7",
+    "eyebrow": "4a38cb95",
+    "title": "1925c279",
+    "intro": "27ca7f51"
+   },
+   "eyebrow": "CO2 VERIFIER",
+   "title": "CO2 Verifier: One simple way to comply with two regulations.",
+   "intro": "Our solution saves you time and effort, enabling you to carry on with your day-to-day business.",
+   "image": "/wp-content/uploads/2020/05/adam-azim-Ed2Fq0VXsCA-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "ec62453",
+   "columns": [
+    {
+     "type": "column",
+     "id": "2116d620",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "77aaf192",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "65d78aa7",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "184bbe0c",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "723459ed",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "2a7ea5dc",
+           "html": "In order to reduce emissions from shipping, the European Union (EU) has introduced the shipping monitoring, reporting and verification (MRV) regulation, which is designed to gather data on CO2 emissions based on ships’ fuel consumption.\n\nIn parallel, the IMO has introduced a three-step approach, based on collecting and analysing fuel consumption data, before agreeing what further actions may be required to reduce GHG emissions from ships. The first stage of this journey is now implemented through amendments to MARPOL Annex VI, and is known as the IMO Data Collection System (DCS).\n\nImplementation of these regulations present a significant compliance challenge for shipowners and operators. Central to this is the regulatory requirement to undertake data collection and independent verification. There has been a call by industry to reduce any associated administrative burden and provide transparency of process. We’re here to make the compliance process as simple and transparent as possible."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "2763fa3a",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "1fa88a33",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "167dd0fe",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "38ae2863",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "52fd2f7c",
+           "html": "KLL is an accredited third-party verifier for EU MRV and a Recognised Organisation (RO) for IMO DCS. When you submit your data to us we can carry out the necessary checks and verification procedures and issue the respective certifications to keep onboard for inspection by Port State Control."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "91963b7",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "6347c73",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "82bfc0e",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "183931f",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "ff850cc",
+           "html": "<p>Our online verification service solution CO2 Verifier provides:</p><ul><li>Safe and secure cloud based application</li><li>One place to manage your fleet compliance</li><li>Streamlined data submission with quick multiple uploads</li><li>Direct contact with technical expert</li><li>Quick turnaround after submission of information</li><li>Data submission to regulator</li><li>Access to compliance documents</li><li>Online user support</li></ul>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "a03be84",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "d92d400",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "98f463c",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "a8e851d",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "70d2488",
+           "html": "<p>CO2 Verifier is a digital application designed and developed with you in mind. Our one stop compliance solution has been co-created and designed by ship managers and our technical experts offering you:</p><ul><li>Remote verification </li><li>Offering integration with your reporting system</li><li>Onboard access via the internet</li></ul>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

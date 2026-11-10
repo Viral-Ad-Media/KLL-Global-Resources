@@ -1,0 +1,192 @@
+{
+ "elementorId": "1333",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "plain",
+   "id": "11a8be45",
+   "ids": {
+    "card": "d76eb41",
+    "eyebrow": "671f5323",
+    "title": "4619affd",
+    "intro": "654b82d3"
+   },
+   "eyebrow": "ARGONAUT",
+   "title": "Fast, effective thickness measurement.",
+   "intro": "A key tool in the marine software portfolio"
+  },
+  {
+   "type": "section",
+   "id": "486b6174",
+   "columns": [
+    {
+     "type": "column",
+     "id": "7282a944",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "64dd2591",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "d7efad2",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "30f6555e",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "1512e394",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "263e249e",
+           "html": "Lloyd’s Register’s Argonaut Thickness Measurement Reporting Toolkit will help you carry out measurements more quickly and cost-effectively, to achieve compliance with a wide range of classification requirements. The software supports you at all stages of the process, as well as helping you plan hull inspections so you can increase ship operational maintainability and reduce dry-docking costs."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "681d83e4",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "c0d2692",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "27ef6b8f",
+           "tag": "h3",
+           "text": "Survey planning"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "702bd3eb",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "492b910",
+           "html": "The system supports the survey planning process by providing survey scope reports for the given ship and survey type in which the proposed structural locations can be captured."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "f4b2340",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "717b34f",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "734979e",
+           "tag": "h3",
+           "text": "Data entry and evaluation"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "78a866f",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "4f20fa8",
+           "html": "Data can be entered quickly and evaluated immediately with enhanced visual techniques. Colour coding will highlight areas of concern on the reported output. Longitudinal strength evaluation can be achieved for all ship types where transverse sections are recorded."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "4e3d76c",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "af67730",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "3ef343b",
+           "tag": "h3",
+           "text": "Report verification and approval"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "d749928",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "6104bd1",
+           "html": "Renewals, exception and verification reports ensure that the final condition of the ship is reflected in the report, avoiding unnecessary discrepancies between class survey reports and thickness measurement reports."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "8308a91",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "359501b",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "c71aa4e",
+           "tag": "h3",
+           "text": "Final report submission"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "7756b10",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "350c950",
+           "html": "The final thickness measurement (TM)  report is electronically signed and then  uploaded to Class Direct for the ship  under survey. A quick report submission  time nowadays is essential for any ship  to become compliant with class and  statutory requirements."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

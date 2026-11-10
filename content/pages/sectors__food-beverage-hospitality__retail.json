@@ -1,0 +1,47 @@
+{
+ "elementorId": "1226",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "50d05356",
+   "ids": {
+    "card": "2d9dee1e",
+    "side": "23aec0a2",
+    "eyebrow": "c5dbf8e",
+    "title": "2d798ae2",
+    "intro": "5631d6f"
+   },
+   "eyebrow": "RETAIL",
+   "title": "Tailored brand compliance for food retailers.",
+   "intro": "Helping ensure your staff, suppliers and sites meet your own high standards and customer expectations",
+   "image": "/wp-content/uploads/2020/05/fikri-rasyid-ezeC8-clZSs-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "563d351c",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "5a4c7614",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "7e23fcfb",
+       "tag": "h2",
+       "text": "We understand that your brand is more than just a logo, it's the way you do business."
+      },
+      {
+       "type": "text",
+       "id": "64d34aa7",
+       "html": "<p>While accredited auditing programmes offer you a range of options for improving the quality, consistency and safety of your sites and products, many are too generic to cover the key issues which face multi-site retail and hospitality businesses. KLL’s decades of experience working with some of the largest and most complex retailers, restaurant and hospitality chains, gives us the ability to develop specific programmes of work aimed at addressing the specific issues faced by our clients.</p><p>From sustainable and responsible sourcing, through to quality and customised assurance programmes, KLL can help your business achieve greater levels of insight and protection no matter which part of the supply chain you operate in.</p>"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

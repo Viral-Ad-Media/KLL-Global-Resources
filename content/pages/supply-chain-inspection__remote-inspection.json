@@ -1,0 +1,194 @@
+{
+ "elementorId": "1583",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "509a35d4",
+   "ids": {
+    "card": "739f7e36",
+    "side": "56e6f64",
+    "eyebrow": "2fb0ca0f",
+    "title": "7a466fdc",
+    "intro": "4d428d5f"
+   },
+   "eyebrow": "REMOTE INSPECTION",
+   "title": "Safety and quality assurance. Anytime. Anywhere.",
+   "intro": "Remove geographical boundaries and minimise disruption to your organisation.",
+   "image": "/wp-content/uploads/2020/05/linkedin-sales-navigator-UK1N66KUkMk-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "10dc2b86",
+   "columns": [
+    {
+     "type": "column",
+     "id": "7a7e623e",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "71910840",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "bdf48d7",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "639d0836",
+           "tag": "h3",
+           "text": "Introduction to Remote Inspection"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "303859c2",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "891e8aa",
+           "html": "<p>Our remote inspections are designed to provide you with the same level of technical expertise and insight in a safe, flexible and efficient way. With the ability to stream high-quality data with smart cameras, mobile technology or drones meaning that real-time collaboration is now possible – wherever and whenever you need us.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "296b5329",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "2ed37154",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "4d689ec4",
+           "tag": "h3",
+           "text": "How does it work?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "556a4eac",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "2eb0fb3d",
+           "html": "<p>Enabling smarter, safer and more sustainable solutions, our remote inspections can be delivered in a variety of ways including:</p><p><strong>Customer-operated:</strong></p><p>Our technical expert will guide you through the process while you operate the equipment and we will ensure that you have everything you need for the inspection.</p><p><strong>Co-witnessed:</strong></p><p>Our technical expert will live-stream the inspection directly to relevant parties within your organisation. Your own stakeholders can co-witness and interact during our inspection whilst keeping your travel costs to a minimum.</p><p>Whichever model of delivery you choose, the entire inspection can be documented via visual recording thereby delivering transparency. Pre-agreed data can also be sent to KLL for review and analysis at a later stage for both client-operated and co-witnessed inspections.</p><p>Our remote inspections are underpinned with our easy-to-use app, KLL Remote, which is downloadable free of charge from Google Play or the App Store. It can easily be installed across standard mobile devices and only needs internet connectivity either via WiFi or your local network provider (3/4G).</p><p>We can provide accredited remote inspections against the following:</p><table width=\"601\"><tbody><tr><td><p><strong>Standard</strong></p></td><td><p><strong>Remote Inspection?</strong></p></td><td><p><strong>Notes</strong></p></td></tr><tr><td><p><strong>LRV UKAS accreditation certification including:</strong></p><ul><li>Regulation (EU) No 305/2011 – Construction products CPR system 2+,</li><li>Pressure Equipment Directive 2014/68/EU – All quality modules</li><li>Machinery Directive 2006/42/EC Full Quality Assurance, Annex X</li><li>Marine Equipment Directive 2014/90/E Quality modules D &amp; E</li><li>TPED 2010/35/EU – All quality modules (inc. ADR/RID as applicable).</li><li>ISO 3834 – QMS Assessments &amp; 17065 Scheme Audits</li><li>IOD 2016/797, Module SG, SD, SH1</li></ul><p><strong> </strong></p></td><td><p>Yes for all, with restrictions</p></td><td><p>Short-term, with restrictions. Please contact KLL for further details.</p><p><strong> </strong></p></td></tr><tr><td><p>ASME</p></td><td><p>No</p></td><td><p>This is currently under review</p></td></tr><tr><td><p>ASME Inspection / Joint Reviews</p></td><td><p>No</p></td><td><p>In countries where travel restriction is in place, ASME and NB are accepting request for cancellations from manufacturers/repair organisations in view COVID-19 situation. Extensions are equally granted. Businesses need to approach ASME/NB and not KLL.</p></td></tr><tr><td><p>MYS – DOSH (Dept. of Safety and Health)</p></td><td><p>Yes </p></td><td><p>Temporary, with restrictions. Please contact KLL for further details.</p></td></tr><tr><td><p>Dutch in-service pressure equipment inspection regulations (WBDA)</p></td><td><p>Yes </p></td><td><p>With restrictions, please contact KLL Netherlands inspection department.</p></td></tr></tbody></table>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "e65ea8e",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "7d72c9a",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "5ab32b8",
+           "tag": "h3",
+           "text": "Applicability"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "3c155e3",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "b17a3fa",
+           "html": "Our remote inspections comply with relevant accreditation bodies requirements, giving you the confidence in our ability to provide expert guidance and support."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "dacc5f6",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "1493482",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "784a436",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "5e65aa6",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "8eff295",
+           "html": "<p><strong>Remove geographical boundaries </strong></p><p>Our remote service means that our inspections can easily be delivered directly to you, whatever the circumstance. We put our expertise where it’s needed at the right time – wherever you are in the world. </p><p><strong>Save time, money and travel</strong></p><p>Our range of real-time inspection services are delivered straight to your device thereby cutting any wait-times, increasing operational uptime and reducing the cost of travel.</p><p><strong>Reduce your organisational carbon footprint</strong></p><p>LR Remote enables you to reduce your organisational carbon footprint by reducing the need for travel in relation to your assessment programme.</p><p><strong>Identify and mitigate risk in real-time</strong></p><p>Real-time co-witnessed or customer operated inspections deliver immediate transparency to your operations worldwide. You can quickly adjust the scope to deep dive into any operational issues and manage the risk of sending workers to hazardous sites and locations, thereby mitigating any risk to your business.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "380a063",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "8f646e3",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "7d92079",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "7880eb1",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "9f28793",
+           "html": "<p><strong>Deep technical and industry knowledge</strong></p><p>We understand the potential in cutting-edge ideas and applying this pragmatically in ways which guarantee impact today and in the long-term. Our surveyors are industry experts who work with you to understand what helps your business operate at its optimum level.</p><p>They apply their deep technical expertise to create long-lasting value through collaboration, delivering a greater impact on your business, your people and your customers.</p><p><strong>Independence</strong></p><p>We’re committed to doing things the right way to reach the highest standards and best outcomes for all, giving our clients confidence in our decisions every time.</p><p><strong>Dedication to assurance</strong></p><p>We explore every problem thoroughly with exact, analytical precision. We leave no stone unturned and no questions unanswered, to draw accurate conclusions.</p><p><strong>Your business helps us to helps others</strong></p><p>The profits we generate fund the Lloyd’s Register Foundation, a charity which supports science and engineering-related research, education and public engagement around everything we do. All of this helps us stand by the purpose that drives us every single day: Working together for a safer world.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

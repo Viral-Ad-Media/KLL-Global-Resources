@@ -1,0 +1,162 @@
+{
+ "elementorId": "1405",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "d9c7cd8",
+   "ids": {
+    "card": "2772b99d",
+    "side": "6387633f",
+    "eyebrow": "13cfdb3c",
+    "title": "492a7982",
+    "intro": "123266e9"
+   },
+   "eyebrow": "RISK MANAGEMENT",
+   "title": "Take risk out of the equation.",
+   "intro": "We help you manage risks throughout the asset lifecycle, whether related to life and environment, asset performance, market, or to contractual or regulatory requirements.",
+   "image": "/wp-content/uploads/2020/05/loic-leray-fCzSfVIQlVY-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "525f1961",
+   "columns": [
+    {
+     "type": "column",
+     "id": "2f5337ed",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "5a1c2f1f",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "4af8b0b1",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "6993af05",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "50cde92d",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "2fa38c8d",
+           "html": "At KLL, we understand that risk straddles every element of your operation and that managing and reducing risk is crucial to maintaining safe and reliable operations.\n\nWe support owners, operators and supply chains of complex, high-risk and capital intensive assets throughout the entire life-cycle. By ensuring that the right solutions are in place to control organisational risk profiles and prepare for emergencies, we help safeguard operations, businesses and society at large."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "13d5e177",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "2c1cf1c0",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "7218c6ef",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "635f506e",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "4b9f4b0f",
+           "html": "<p>Our specialist expertise and practical guidance help you operate safely and profitably. Our solutions provide you with the assurance that assets and components are running to their optimal performance.</p><p>Our risk management assessments and studies help you to achieve safe operation with major hazard and risk control throughout design, construction, operation and decommissioning.   We do this by identifying geological, safety and environmental conditions, evaluating possible accidental events and major risks, including their causes and consequences, and providing a basis for emergency preparedness and land use planning.</p><p>We help you to develop optimum risk prevention and mitigation strategies and ensure optimum return from investments by combining assessments with cost-benefit analysis. </p><p>Our services include:</p><ul><li><p class=\"large\">Risk management:</p><ul><li>Management system risk reduction – HSSEQ (Health, Safety, Security, Environment and Quality) </li><li>Emergency preparedness</li><li>Safety case development</li><li>Maintenance management</li></ul></li><li>Risk analysis:<ul><li>Facilities quantitative risk assessment (QRA) </li><li>Hazard identification (HAZID) and hazard and operability study (HAZOP) studies</li><li>Probabilistic Safety Assessment (PSA)</li><li>Environmental risk assessment</li></ul></li><li>Consequence modelling<ul><li>Computational Fluid Dynamics (CFD) </li><li><p>Fire and explosion modelling</p></li><li><p>Gas dispersion modelling</p></li></ul></li><li>Human factors and working environment:<ul><li>Control room assessment and HMI</li><li>Safety critical tasks</li><li>Ergonomics</li><li>Health risk assessments</li></ul></li><li>Reliability and asset performance:<ul><li>Failure modes and effects and criticality analysis (FMECA) </li><li>Safety integrity level (SIL) assessments </li><li>Reliability, Availability and Maintainability (RAM) – regularity assessment</li><li>Asset performance and RCM</li></ul></li><li>Cyber Security:<ul><li>Cyber risk assessment</li><li>ISO 27001 Information security implementation </li><li>ISO 22301 Business continuity implementation </li></ul></li><li>Emergency Preparedness:<ul><li>Escape, Evacuation and Rescue Strategies (EERS)</li><li>Escape, Evacuation and Rescue Analyses (EERA)</li><li>Emergency Preparedness Analyses (EPA)</li><li>Emergency Response Plans (ERP)</li><li>Emergency Exercises and Training</li><li>Resilience Engineering Analyses (REA), including:<ul><li>Societal Impact Analysis (SIA)</li><li>Business Impact Analysis (BIA)</li></ul></li><li>Continuity Planning (BCP/SCP)</li><li>Crisis Management (CM)</li></ul></li></ul>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "5669810",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "a58007d",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "f3c1d60",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "b491ddc",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "a6c0cdc",
+           "html": "<ul><li>Identify and evaluate possible accidental events</li><li>Identify and assesses major risks</li><li>ALARP risk reduction</li><li>Determine critical dimensioning accidental loads (DAL)</li><li>Develop optimum risk prevention and mitigation strategies</li><li>Barrier strategies</li><li>Basis for emergency preparedness</li><li>Basis for land use planning</li><li>Regulatory compliance</li><li>Benchmarking</li></ul>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "dda4ab0",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "8b8e555",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "80cae1a",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "027eaa1",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "2141094",
+           "html": "<p>Our risk management services enhance your current internal effectiveness in support of your continual improvement commitment by identifying hazards and reducing risk. Our global risk management consultancy services have become the partner of choice for helping clients globally achieve their quality, health, safety, security, and environmental policy objectives.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

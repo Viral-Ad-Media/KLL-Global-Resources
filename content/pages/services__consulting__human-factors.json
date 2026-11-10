@@ -1,0 +1,162 @@
+{
+ "elementorId": "1431",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "16a91fa3",
+   "ids": {
+    "card": "2eb24350",
+    "side": "348dd60",
+    "eyebrow": "7374964f",
+    "title": "6115dae7",
+    "intro": "7734de18"
+   },
+   "eyebrow": "HUMAN FACTORS AND WORKING ENVIRONMENT SERVICES",
+   "title": "The human element.",
+   "intro": "We help enhance operational up-time and achieve regulatory compliance while minimising the potential for human error and adverse health effects.",
+   "image": "/wp-content/uploads/2020/05/alex-kotliarskyi-ourQHRTE2IM-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "5067c03f",
+   "columns": [
+    {
+     "type": "column",
+     "id": "445ede06",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "45231c09",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "3012bf7b",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "417f5a26",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "2b30c292",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "40297732",
+           "html": "<p>Combining expertise from ergonomics, psychology, physiology, sociology, anthropometrics and biomechanics our team provides both new build and in-service human factors support to enhance health, safety, usability, performance, and user experience. </p><p>From as early as the Concept and through to Disposal we provide: </p><p>​<strong>Design support and assurance </strong>(including assurance of the new human factors class rules), and </p><p><strong>Operational support </strong>– improving safety and performance through human-centred analysis.</p><p>With ever increasing focus on cost-efficiency, sophistication of complex systems and rapid developments in advanced automation and autonomous technologies, our human factors and working environment experts assist you to optimise health, safety, and human performance.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "2ef2b9c8",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "76a8cd58",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "e888e1a",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "486d7952",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "278427b0",
+           "html": "<p>Drawing on a strong network of dedicated specialists within the various disciplines of human factors  and working environment, we offer a broad range of services to all industries and sectors.</p><p>Services include:</p><p><strong>Human Factors</strong></p><ul><li>Safety Climate and Culture Assessments</li><li>Incident investigation</li><li>Organisational Integrity Assessment</li><li>Manning and Workload Assessment</li><li>Competency Management</li><li>Early Human Factors Assessment</li><li>Human Factors Integration</li><li>Safety Case Support</li><li>Human Reliability (Error) Assessment</li><li>Alarms Management</li><li>Control Room Analysis</li><li>Ergonomics</li><li>Human Machine Interface (HMI) Assessment</li><li>Safety Critical Task Analysis</li><li>Scenario Analysis /CRIOP</li><li>Usability Assessment</li><li>Operational Barrier Management</li><li>Leadership courses</li></ul><p><strong>Working Environment</strong></p><ul><li>Health Risk Assessments</li><li>Chemical  Health Risk Assessment</li><li>Job Hazard Analysis</li><li>Valve Criticality Analysis</li><li>Working Environment Inspections</li><li>Ergonomics/manual handling analysis</li><li>Material handling</li></ul>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "1d4fc0a",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "8122cc6",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "530c999",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "824eeca",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "bb3ae4d",
+           "html": "<ul><li>Assurance that systems, products and assets deliver continuously high levels of performance and safety in all conditions</li><li>Application of best practices for inclusive solutions</li><li>Ensuring compliance with regulatory bodies</li><li>Ensure systems are designed to minimise human error</li><li>Maintain a safe and effective working environment</li><li>Educate and facilitate a safe working culture</li></ul>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "5bac8ec",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "2863dbe",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "6c836a3",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "c373750",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "8f55784",
+           "html": "<p>Our human factors experts put the human first; ensuring focus is on the relationship between the human element and operating systems.  We’ve performed assessments worldwide, measuring and improving safety culture, helping improve design solutions, and increase operational uptime.  Our human factors consultancy services have become the partner of choice for helping clients globally achieve their quality, health, safety, security, environmental, and operational objectives.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

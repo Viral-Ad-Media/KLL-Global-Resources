@@ -1,0 +1,194 @@
+{
+ "elementorId": "1417",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "b17c57a",
+   "ids": {
+    "card": "7f0e15b0",
+    "side": "5c5bb835",
+    "eyebrow": "20ea46f0",
+    "title": "21f85283",
+    "intro": "4e9f77c6"
+   },
+   "eyebrow": "KLL GLOBAL SECTORS",
+   "title": "Avoid the failures and realise savings.",
+   "intro": "Our risk-based approach to asset integrity and maintenance helps you cost effectively and safely manage the integrity, maintenance and performance of facilities and assets.",
+   "image": "/wp-content/uploads/2020/05/zachary-theodore-guADzpF9pDI-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "61abe816",
+   "columns": [
+    {
+     "type": "column",
+     "id": "c662da6",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "5511cca3",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "478f7a03",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "7e18ea83",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "44967d46",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "1388e245",
+           "html": "<p>At KLL we understand the impact that asset integrity and maintenance can have on production, safety and ultimately your bottom line. A robust approach to integrity and maintenance is key to safely improving reliability, maintaining production, reducing cost and increasing profitability.</p><p>Equipment failures cost the U.S. refining industry over $4 billion per year alone. In the upstream sector, best-in-class operators deliver up to 30 per cent more value from producing assets, with facility reliability at 95-98 per cent.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "4562fd46",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "5b3c120",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "4b6632a2",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "124a8392",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "6d4fd7d4",
+           "html": "<p>Our asset integrity and maintenance optimisation solutions and associated software help you to cost effectively manage and improve the integrity, risk, performance and reliability of your equipment and assets.</p><p>We apply advanced risk-based techniques to help you determine the probability and consequences of equipment failure, prioritise activities and optimise inspection and maintenance schedules. By concentrating on what needs to be inspected and maintained, and eliminating activities that do not fulfil safety, production requirements or profit objectives, we help you realise efficiencies, reduce costs and enhance production.</p><p><img alt=\"\" decoding=\"async\" height=\"69\" loading=\"lazy\" src=\"https://www.lr.org/4a0c4c/globalassets/_shared-images/non-standard-social-tab-alt-opengraph-image-with-caption-alt-desktopmobile-rich-text-inline/oil-and-gas/aimo-stats.jpg\" title=\"LR Asset Integrity value statistics\" width=\"522\"/>Regardless of industry, we have you covered; we’re uniquely placed to deliver across all asset types. Our extensive track record covers upstream, midstream and downstream oil and gas operations from the integrity of wells, fixed and floating structures, floating production storage and offloading vessels (FPSOs), subsea and above ground pipelines to land rigs and refineries as well as chemical, petrochemical, renewables and power generation.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "0906189",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "971275b",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "79c8bdc",
+           "tag": "h3",
+           "text": "Service breakdown"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "5428ef7",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "c7c141d",
+           "html": "<h4>Integrity</h4><ul><li>Integrity management strategies and plans</li><li>Pipeline integrity management</li><li>Structural integrity management</li><li>Subsea inspection services</li><li>Lifting Integrity</li><li>Corrosion engineering</li><li>Materials engineering</li><li>Process engineering</li><li> Risk based inspection (RBI) studies</li></ul><h4>Maintenance</h4><ul><li>Asset maintenance management</li><li>Reliability centred maintenance (RCM)</li><li>Reliability assessments</li><li>Failure mode effect and criticality analysis (FMECA)</li></ul><h4>Asset Management</h4><ul><li>Benchmarking</li><li>Late life asset management</li><li>Life extension studies</li><li> Information systems consulting and technical advice</li><li>Reliability and asset management (RAM) performance analysis</li><li>Root cause analysis (RCA)</li><li>Asset Performance Management Health Check</li><li>Management of associated third party services.</li></ul>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "e5d6f4e",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "3086830",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "eeb34c7",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "7708e15",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "d02a949",
+           "html": "<ul>\n<li>Reduce and eliminate unnecessary inspection activities and costs</li>\n<li>Optimise your maintenance and inspection schedules</li>\n<li>Avoid unplanned downtime and increase availability</li>\n<li> Increase the frequency between turnarounds</li>\n<li> Ensure regulatory compliance</li>\n<li>Reduce lifecycle OPEX and CAPEX costs</li>\n</ul>\n "
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "ff1dc88",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "3c66a55",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "d870643",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "68e53f1",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "1de79f5",
+           "html": "<p>As experts in asset integrity and maintenance optimisation we’re committed to helping you exceed not only your safety objectives, but your operational and performance objectives. We’ve helped clients across both upstream and downstream operations achieve cost savings they couldn’t imagine, increase production above expectation and have helped extend the life of assets and maximise operability beyond what was thought possible. We’re proud to be considered the integrity management partner of choice for clients such as Maersk, EnQuest, HollyFrontier and Andeavor.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

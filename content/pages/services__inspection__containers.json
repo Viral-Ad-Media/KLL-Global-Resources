@@ -1,0 +1,47 @@
+{
+ "elementorId": "1685",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "1d93c10b",
+   "ids": {
+    "card": "4b1f3fa1",
+    "side": "7979abbd",
+    "eyebrow": "17282dc6",
+    "title": "2e7f3eb5",
+    "intro": "12d4fc92"
+   },
+   "eyebrow": "CONTAINER INSPECTION SERVICES",
+   "title": "Are your containers safe and compliant?",
+   "intro": "<p>No matter what the type, we can certify them.</p>",
+   "image": "/wp-content/uploads/2020/05/chuttersnap-xewrfLD8emE-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "1b21428e",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "1c7c7ca6",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "50a9f71d",
+       "tag": "h3",
+       "text": "We provide you with a global view on container inspection and certification."
+      },
+      {
+       "type": "text",
+       "id": "3d5242b0",
+       "html": "<p class=\"desktop-center\">KLL Global has been involved in making standards for container construction for more than 50 years. Today, millions of containers worldwide carry the KLL Global Container Certification Scheme approval mark to show they meet the correct standards and regulations.</p><p class=\"desktop-center\">We offer a full range of services to the container industry from new construction certification for all ISO and offshore container types to the approval of modifications and in-service inspection.</p><p class=\"desktop-center\">We have developed market-leading services in design appraisal, inspection, and certification for a wide range of container types.</p>"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

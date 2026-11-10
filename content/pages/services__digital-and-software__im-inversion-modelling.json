@@ -1,0 +1,160 @@
+{
+ "elementorId": "1366",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "plain",
+   "id": "fcf98ad",
+   "ids": {
+    "card": "2fe3fae9",
+    "eyebrow": "258c5d49",
+    "title": "30eb89b6",
+    "intro": "75a45158"
+   },
+   "eyebrow": "IM – INVERSION MODELLING SOFTWARE",
+   "title": "Enhance your data with Inversion Modelling for Resistivity and SP logs.",
+   "intro": "IM is a suite of software tools which allows for the enhancement of both vintage and modern log data prior to Petrophysical analysis."
+  },
+  {
+   "type": "section",
+   "id": "1de0dd40",
+   "columns": [
+    {
+     "type": "column",
+     "id": "38aa3ce0",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "11f85f01",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "7f24a996",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "dbf0c86",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "7ed859c5",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "7019bf38",
+           "html": "Todays E&amp;P professionals are faced with declining production, complex lithologies and even unconventional reservoirs. They are being asked to solve these complex problems with data which may be incomplete, poor quality and a mix of modern and vintage data. IM allows users to enhance the quality and completeness of this data prior to making their Petrophysical analysis, often resulting in the identification of additional reserves."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "601d1a61",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "7bf762d5",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "1627c19b",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "27e61529",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "423e0618",
+           "html": "<p>IM is a suite of software tools which allows for the enhancement of both vintage and modern log data prior to Petrophysical analysis.</p><p>One of its main strengths is its industry leading Inversion Modelling capabilities which can transform vintage, low-resolution resistivity curves into accurate, high resolution, formation resistivity data (Rt). It does this by correcting for bed shoulders, invasion, washouts and other environmental effects.</p><p>Next you may use this high resolution resistivity log as an input to the correction of Spontaneous Potential (SP) data. The module uses a similar but specially enhanced modelling technique to environmentally correct the SP log bringing it up to modern log data standards.</p><p>Another tool within the IM suite is Neural Networks which can be used to generate synthetic logs through areas of poor quality or missing data. There is also a variety of log data utilities such as depth shifting, re-scaling, splicing etc.</p><p>By utilizing all the tools within IM the user can construct a data set which is consistent, complete and of the highest vertical resolution possible prior to using it as input to their full Petrophysical Interpretation. This ultimately results in a more accurate calculation of petrophysical properties such as porosity, saturation and permeability. Because Rt is usually always under predicted by raw data (especially in thin beds), using this enhanced Rt usually always results in the calculation of higher reserves than was previously estimated.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "3e8ac81",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "328dcb3",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "0101541",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "c177f3e",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "874be08",
+           "html": "<ul><li>Add value to otherwise redundant vintage data by enhancing quality of SP and Rt logs.</li><li>The Rt modelling is one of the most accurate and efficient tools of its kind while our SP modelling is the only such product on the market.</li><li>Normalise mixed vintages of logs to allow for consistent field wide petrophysical analysis.</li><li>Improve the accuracy of your Petrophyical analysis by using the most consistent, high-resolution data set possible.</li><li>Modules are Fast, Accurate and Easy to Learn.</li><li>Increase reserves by identifying by-passed pay.</li></ul>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "19d1d89",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "50c2613",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "f9b7136",
+           "tag": "h3",
+           "text": "IM features"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "199ae96",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "8cb3d2d",
+           "html": "<p><strong>Resistivity modelling</strong><br/>Enhance the vertical resolution of recorded resistivity data using inversion modelling to correct for environmental effects.</p><p><strong>SP modelling</strong><br/>Exclusive modelling technique to enhance the quality of SP data.</p><p><strong>Fast Processing</strong><br/>Extremely fast in comparison to other inversion modelling processes (expect 100 ft of induction log in less than 30 seconds).</p><p><strong>Multi-Well Batch</strong><br/>Save time by batch processing RT and SP logs across multiple wells at once.</p><p><strong>Data Repair</strong><br/>Splice, Edit or Normalizes data to create a high quality data set which is consistent across multiple wells and logging runs.</p><p><strong>Rw calculation</strong><br/>Calculate Rw and Rock Quality indicator from SP logs.</p><p><strong>Synthetic Curve Prediction</strong><br/>Use Neural Networks to calculate synthetic data through intervals with missing or poor quality data.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

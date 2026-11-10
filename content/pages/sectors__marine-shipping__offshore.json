@@ -1,0 +1,76 @@
+{
+ "elementorId": "1279",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "5c6b0cdd",
+   "ids": {
+    "card": "48597bbe",
+    "side": "5b5656a7",
+    "eyebrow": "1396a648",
+    "title": "2489d9e4",
+    "intro": "787e9045"
+   },
+   "eyebrow": "OFFSHORE",
+   "title": "Flexible, capable and global solutions.",
+   "intro": "We have extensive experience in the conventional and renewable energy sectors, extending right through the supply chain and asset lifecycle.",
+   "image": "/wp-content/uploads/2020/05/zachary-theodore-guADzpF9pDI-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "3d72eff8",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "7f3b71ba",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "6a95e670",
+       "tag": "h3",
+       "text": "Why work with us"
+      },
+      {
+       "type": "text",
+       "id": "52889427",
+       "html": "At the top of your list is managing risk – to your assets, people, business, reputation and the environment – and complying with relevant local and international regulations. Then there are the commercial pressures: to minimise costs and downtime, maximise revenue, ensure consistent production and secure the best possible return on investment. Plus, you need to be constantly seeking out the new technologies, thinking and insights that enable you to future-proof your operations and identify and exploit new opportunities.\n\nOur multidisciplinary team combines marine knowledge, classification and verification expertise with process engineering skills and geotechnical capabilities to enable us to work with you in achieving all your goals. We provide compliance, performance and assurance services for a wide range of offshore assets – fixed, floating, semi-submersible and subsea – as well as associated land-based facilities. We have extensive experience in the conventional and renewable energy sectors, extending right through the supply chain and asset lifecycle."
+      },
+      {
+       "type": "spacer",
+       "id": "a0b84a3"
+      },
+      {
+       "type": "heading",
+       "id": "56ecf4f4",
+       "tag": "h3",
+       "text": "How we can help"
+      },
+      {
+       "type": "text",
+       "id": "20fd2e66",
+       "html": "We apply our expert solutions and independence to assure the integrity, reliability and success of every aspect of your operation. Helping maximise productivity and recovery, reduce operating costs, mitigate risk and demonstrate compliance with government regulations, industry codes and standards, many of which we have helped to develop."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "2d770006",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "6cbf1b0d",
+     "size": "100",
+     "elements": []
+    }
+   ]
+  }
+ ]
+}

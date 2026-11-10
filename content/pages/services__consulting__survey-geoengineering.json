@@ -1,0 +1,160 @@
+{
+ "elementorId": "1475",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "plain",
+   "id": "4b456ec7",
+   "ids": {
+    "card": "7cc87e1b",
+    "eyebrow": "4ad2d6b",
+    "title": "6bf95760",
+    "intro": "5c7d4bb0"
+   },
+   "eyebrow": "SURVEY AND GEOENGINEERING SERVICES",
+   "title": "Get to know your seabed.",
+   "intro": "<p>Our survey and geoengineering expertise helps you understand, and manage the seabed and sub-seabed, managing risk, and helping optimise development and operations, from concept to decommissioning.</p>"
+  },
+  {
+   "type": "section",
+   "id": "785e12f0",
+   "columns": [
+    {
+     "type": "column",
+     "id": "36882bea",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "1d72865b",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "6aac8d51",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "1400ac16",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "5a72d70c",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "512eb5e8",
+           "html": "<p>At KLL we understand that for offshore engineering developments or operations to run smoothly this must start at the seabed and in the shallow sub-seabed foundation zone. If seabed and shallow subsurface information is not accurate and comprehensive, or is not used effectively or efficiently, this can lead to huge delays in projects, or at worst, cancelled projects.</p><p>We apply a true understanding of the value of knowledge derived from seabed and subsurface surveys, and other geospatial data acquisition, and how best to process, interpret, use and share such data, ensuring your project team has a fully comprehensive knowledge of these key project factors, helping you to make the most informed decisions.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "8ee8855",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "65c21f07",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "4518d4bc",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "3c34e8af",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "552766f8",
+           "html": "<p>We provide a wide range of integrated services including technical assurance, engineering assessment and design, geohazard assessment, subsea inspection services, and as well as project management services for exploration and development well sites, wind farm sites, pipeline and cable routes and lay operations, subsea construction, inspection and rock placement.</p><p>We help optimise engineered solutions and maximise operational efficiency of offshore operations ensuring you gain maximum value and appropriate knowledge of your seabed and subsurface survey, geophysical and geotechnical data.</p><p>Expertise includes consultancy and project management for:</p><ul><li>Offshore survey and site investigation</li><li>Survey Project Management </li><li>Client representatives</li><li>Drilling rig site surveys</li><li>Rig positioning QC</li><li>Field development surveys</li><li>Wind farm sites</li><li>Cable route</li><li>Pipe-lay and offshore construction</li><li>Subsea facilities inspection</li><li>Decommissioning support</li><li>Drilling location assessment</li><li>Shallow hazard assessment</li><li>Geotechnical engineering</li><li>GIS web mapping services</li><li>Geohazard site risk assessment </li><li>Trenching risk assessments.</li></ul>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "f7652b7",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "51c97c2",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "5de48bf",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "8328e71",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "201dadf",
+           "html": "<ul><li>Control expensive contractors</li><li>Obtain data to match schedule and details requirements</li><li>Achieve on time, on schedule projects</li><li>Understand and mitigate your risks</li><li>Avoid the need for expensive in-house specialists</li><li>Prevent unneccessary work</li></ul>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "06894d1",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "c3dc6ed",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "18268bb",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "743c8b5",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "9aa313e",
+           "html": "<p>We at KLL are passionate about helping optimise engineered solutions offshore, by maximising knowledge and value from your seabed and subsurface data and investment.</p><p>Our holistic, strength in depth capability, with our integrated and co-sited team of, Surveyors, Engineering geologists, Geophysicists, Geotechnical engineers, Geomatics and GIS specialists ensures we can provide an effective solution across the whole project life cycle, and guarantees we always have the right specialised expertise to draw on, enabling the best-informed decisions.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,162 @@
+{
+ "elementorId": "1435",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "76661b95",
+   "ids": {
+    "card": "3014c611",
+    "side": "11e06837",
+    "eyebrow": "67f7a285",
+    "title": "75aab46c",
+    "intro": "681e222b"
+   },
+   "eyebrow": "SHIP EMERGENCY RESPONSE SERVICE (SERS)",
+   "title": "If the unexpected happens, are you prepared?",
+   "intro": "<p>When you’re under pressure to make the right decisions, you can be confident that you’ve got the world’s most experienced team on your side with KLL’s Ship Emergency Response Service (SERS).</p>",
+   "image": "/wp-content/uploads/2020/05/chris-pagan-sfjS-FglvU4-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "7060d9ab",
+   "columns": [
+    {
+     "type": "column",
+     "id": "55a29743",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "36d3f57f",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "79d40d6",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "548fa3a4",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "361deb99",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "420594f0",
+           "html": "<p>We understand that the probability of a serious incident happening to you may be low. But the impact could be catastrophic.</p><p>The outcome depends on your actions in the first critical hours and you will have complex challenges to face and questions to answer.</p><p>Your ability to meet these challenges, your choices, and the speed you do this, will determine the level of impact on you and your business.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "3e3ac1c9",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "1e4c44a8",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "640f0cb",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "3118019",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "5742ba3b",
+           "html": "<p>There are many challenges to be faced in preparing and responding to a ship emergency. Enrolment with SERS provides you with the solutions via preparedness and technical support, whatever casualty may occur.</p><p>SERS provides rapid, global 24/7 access to expert teams of naval architects, ex-mariners and specialists. Collaborating closely with your ship / shore staff our teams provide independent, proactive technical support and advice.</p><p>We combine specialised software and operators, pre-prepared quality assured ship models with state of the art communications to give timely and correct simulations, technical assessment and problem solving.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "709e0e5",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "676d73a",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "ab13437",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "0624819",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "705ffbb",
+           "html": "<p>Enrolling your ships with SERS helps you to make the correct decisions on the best course of action with confidence, quickly and safely, reducing the risks and impact of a casualty.</p><p>SERS provides you and your stakeholders with confidence in your contingency planning, while also demonstrating your commitment to safety and the environment.</p><p>There are many significant financial benefits.</p><p>In addition for applicable ship types, SERS exceeds all legal requirements, provides a very high certainty of meeting USCG NTV and other response timeframe requirements and are fully recognised by all relevant authorities.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "c8d0528",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "72b07e8",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "5237add",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "c1151bc",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "bb8d345",
+           "html": "<p>Drawing on over 5 years of support to all ship types worldwide, our world leading experience has resulted in the highest levels of readiness and dependable technical support when you need it most.</p><p>These give reassurance and peace of mind of finding the best solutions to even the most demanding ship casualties in the quickest time, safely. The risks to the environment, your reputation, passengers, crew, cargo and assets are kept to a minimum. </p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+{
+ "elementorId": "1362",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "boxed",
+   "id": "26716edd",
+   "ids": {
+    "column": "1cf25da6",
+    "inner": "546835c2",
+    "card": "23f91746",
+    "spacer": "1966b9d4",
+    "eyebrow": "6072c38e",
+    "title": "a196467",
+    "intro": "1b339902"
+   },
+   "eyebrow": "INTUITIVE, ACCURATE, ROBUST AND SCALABLE: IP FOR RESERVOIR PERFORMANCE",
+   "title": "Delivering precise answers to tough questions.",
+   "intro": "Intuitive, accurate, robust and scalable, IP helps you improve reservoir performance throughout the entire asset lifecycle.",
+   "image": "/wp-content/uploads/2020/05/ip-thinkstock-npa_092.jpg"
+  },
+  {
+   "type": "section",
+   "id": "6a634351",
+   "columns": [
+    {
+     "type": "column",
+     "id": "27070d7a",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "2f89bf54",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "72f93458",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "6bc95350",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "6daaacf9",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "15c75859",
+           "html": "How many hydrocarbons does a reservoir contain? What’s the porosity and water saturation? These are crucial questions in the oil and gas industry and our IP software suite helps you reach definitive answers – fast."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "1760417",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "814d499",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "7162f1c",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "3ca9079",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "2aba6ac",
+           "html": "IP has sophisticated interpretation tools within an intuitive interface, to help you maximise the value of your subsurface data. Its efficient workflows and robust analytical functions promote productivity, rapid analysis and confident decision-making."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "9dec316",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "a095db5",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "2cd9502",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "db8698a",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "f621540",
+           "html": "With pinpoint precision, IP hands you full control of your well data analysis and is the most mathematically accurate petrophysical analysis tool on the market. Its pre-built roadmaps help speed geomechanics and formation evaluation, with endless user customisation options.\n\nIP’s flexible, open storage ingests all data types with no need to re-format. Tackle tough-to-analyse NMR log data, multi-mineral formations, organic shales and thin beds. Apply rock-solid analytical techniques like stochastic and probabilistic modeling along with class-leading uncertainty analysis. Create synthetic seismograms that connect well logs to seismic data.\n\nFrom geosteering to cementing, put IP to work on live well data. Geologists, petrophysicists and reservoir engineers can combine production and wireline logs to refine their open hole analyses. With specialist training and 24/7 support, IP ensures analysts are well-equipped for industry-leading insight.\n\nIP can also work in partnership with our IC visualisation software."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "36caaec4",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "21f0c38c",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "5ffda113",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "5217ed4e",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "5fdff0e1",
+           "html": "Our oil and gas software is built on deep experience of every part of the industry. Every day, we apply our independent expertise to help clients increase performance from their upstream and downstream operations and assets. We’re constantly developing and innovating to deliver solutions to the most complex challenges."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

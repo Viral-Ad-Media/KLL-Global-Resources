@@ -1,0 +1,160 @@
+{
+ "elementorId": "1452",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "plain",
+   "id": "31b08be3",
+   "ids": {
+    "card": "18af5489",
+    "eyebrow": "3c3fbc90",
+    "title": "5339ae7a",
+    "intro": "31dea13b"
+   },
+   "eyebrow": "MARINE ENVIRONMENT REGULATORY COMPLIANCE",
+   "title": "Helping you comply with marine environmental regulations.",
+   "intro": "<p>We provide bespoke consultancy services to reduce the risk of non-compliance.</p>"
+  },
+  {
+   "type": "section",
+   "id": "73bd10a5",
+   "columns": [
+    {
+     "type": "column",
+     "id": "7266f9e9",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "6a281508",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "5350f51f",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "3c526d2b",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "2e59ab4c",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "4c1d86e6",
+           "html": "<p>Compliance with future and emerging regulation is one of the biggest challenges the marine industry faces. There are many different solutions available, all at different levels of technological maturity and involving different commercial risks. We can help you make the right choices for your operations, by providing an understanding of the issues and by helping you to develop a strategy, implement it and provide operational assurance.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "5f7cd750",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "1daa4821",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "52ecf2e",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "7cfb601",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "1f4ed79b",
+           "html": "<p>Whether you are engaged in a new-build programme or are already operating, your ships do not need to be classed with us to benefit from our expertise in providing solutions to comply with various challenging and complicated marine environmental regulations for your ships.</p><p>We will work with you to provide bespoke consultancy services to reduce the risk of non-compliance for current regulations and make sure you are ready for future requirements.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "7a5516b",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "b62c824",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "b23e72f",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "de81b7b",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "22c0489",
+           "html": "<p>We can help you make the right choices by providing an understanding of the challenges, combined with a deep knowledge of the regulatory and commercial issues that can affect practical solution deployment.</p><p>Our independent experts offer you the confidence that the solutions developed will ensure compliance; prepare you for the future and go beyond compliance.</p><p>Solutions are backed by KLL’s comprehensive network of engineers, naval architects and surveyors located around the world, so you are never far from a local and responsive service.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "98c0d26",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "5af32c9",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "9502fca",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "82f3329",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "5c353e9",
+           "html": "<ul><li>We understand the regulations</li><li>We understand your challenges and how they impact your business</li><li>We provide bespoke practical and simple solutions to reduce the impact they have on your business</li><li>We don’t comprise on safety and reputation</li><li>We are independent</li></ul>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

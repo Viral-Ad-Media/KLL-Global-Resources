@@ -1,5 +1,5 @@
 import seoJson from '@/content/seo.json';
-import { pages, type PageMeta } from '@/lib/content';
+import { pages, pageUrl, type PageMeta } from '@/lib/content';
 
 // Production address of the site. Canonical URLs, the sitemap, robots.txt and
 // structured data are all built from this, so change it here if the domain changes.
@@ -39,10 +39,6 @@ export function pageTitle(page: PageMeta): string {
 /** Meta description: from seo.json, falling back to the one carried over from WordPress. */
 export function pageDescription(page: PageMeta): string {
   return seo[page.path]?.description || page.description;
-}
-
-export function pageUrl(path: string): string {
-  return path ? `/${path}/` : '/';
 }
 
 export const absoluteUrl = (path: string) => `${SITE_URL}${pageUrl(path)}`;

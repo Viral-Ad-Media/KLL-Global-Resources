@@ -1,0 +1,439 @@
+{
+ "elementorId": "957",
+ "template": "full-width",
+ "blocks": [
+  {
+   "type": "section",
+   "id": "83432be",
+   "overlay": true,
+   "columns": [
+    {
+     "type": "column",
+     "id": "d561f15",
+     "size": "50",
+     "background": true,
+     "elements": [
+      {
+       "type": "text",
+       "id": "657dbc5",
+       "html": "<p>KLL GLOBAL SECTORS</p>"
+      },
+      {
+       "type": "heading",
+       "id": "6498590",
+       "tag": "h2",
+       "text": "Experts in your industry."
+      },
+      {
+       "type": "text",
+       "id": "cbe5893",
+       "html": "<p>Here to help your business grow without compromising safety or the environment</p>"
+      }
+     ]
+    },
+    {
+     "type": "column",
+     "id": "3712dec",
+     "size": "50",
+     "elements": []
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "3d75d22",
+   "columns": [
+    {
+     "type": "column",
+     "id": "cc44d1e",
+     "size": "100",
+     "elements": [
+      {
+       "type": "spacer",
+       "id": "8c03daf"
+      },
+      {
+       "type": "heading",
+       "id": "8358768",
+       "tag": "h2",
+       "text": "The sectors we work in"
+      },
+      {
+       "type": "text",
+       "id": "6124915",
+       "html": "<p style=\"text-align: center;\">Whether you are a large international organisation or a small national company, we are here to help you optimise your business to achieve your goals.</p>"
+      },
+      {
+       "type": "section",
+       "id": "93c43ce",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "95a9905",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "2ccbab6"
+          },
+          {
+           "type": "heading",
+           "id": "6096f5c",
+           "tag": "h5",
+           "text": "Aerospace &amp; Defense"
+          },
+          {
+           "type": "spacer",
+           "id": "f8ad0f6"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "283abce",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "e7e9ac6"
+          },
+          {
+           "type": "heading",
+           "id": "fc50a9c",
+           "tag": "h5",
+           "text": "Automotive &amp; Engineering"
+          },
+          {
+           "type": "spacer",
+           "id": "6d58aae"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "e1a98b2",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "8880143"
+          },
+          {
+           "type": "heading",
+           "id": "286b379",
+           "tag": "h5",
+           "text": "Construction Industry"
+          },
+          {
+           "type": "spacer",
+           "id": "ce07c4d"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "d79e9cc",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "687e2d8",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "1b047f4"
+          },
+          {
+           "type": "heading",
+           "id": "1c2322d",
+           "tag": "h5",
+           "text": "Energy"
+          },
+          {
+           "type": "spacer",
+           "id": "701722e"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "22bfea9",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "ba9bf7d"
+          },
+          {
+           "type": "heading",
+           "id": "482d79a",
+           "tag": "h5",
+           "text": "Financial &amp; Professional Services"
+          },
+          {
+           "type": "spacer",
+           "id": "c3b3a86"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "61d399d",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "f3d766a"
+          },
+          {
+           "type": "heading",
+           "id": "1d8d431",
+           "tag": "h5",
+           "text": "Food, Beverage &amp; Hospitality"
+          },
+          {
+           "type": "spacer",
+           "id": "e7b6ac1"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "c86367e",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "d449478",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "81c92b3"
+          },
+          {
+           "type": "heading",
+           "id": "19b75c9",
+           "tag": "h5",
+           "text": "Healthcare &amp; Medical"
+          },
+          {
+           "type": "spacer",
+           "id": "1f2f690"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "77e4a4e",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "32c8c8b"
+          },
+          {
+           "type": "heading",
+           "id": "aac5c7d",
+           "tag": "h5",
+           "text": "ICT &amp; Telecoms"
+          },
+          {
+           "type": "spacer",
+           "id": "d77a892"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "ce8d2bd",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "6605b0f"
+          },
+          {
+           "type": "heading",
+           "id": "34bd253",
+           "tag": "h5",
+           "text": "Manufacturing"
+          },
+          {
+           "type": "spacer",
+           "id": "d079490"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "d0d9a5a",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "dbacb5b",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "932b993"
+          },
+          {
+           "type": "heading",
+           "id": "ceed2d0",
+           "tag": "h5",
+           "text": "Marine &amp; Shipping"
+          },
+          {
+           "type": "spacer",
+           "id": "cdf62d2"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "47aef28",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "16f9253"
+          },
+          {
+           "type": "heading",
+           "id": "1bbad09",
+           "tag": "h5",
+           "text": "Oil &amp; Gas"
+          },
+          {
+           "type": "spacer",
+           "id": "e3357bd"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "b210929",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "cf63233"
+          },
+          {
+           "type": "heading",
+           "id": "1ee544c",
+           "tag": "h5",
+           "text": "Transportation &amp; Logistics"
+          },
+          {
+           "type": "spacer",
+           "id": "7675814"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "7ca6f1e",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "a2a69e4",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "7b22294"
+          },
+          {
+           "type": "heading",
+           "id": "7ba35f4",
+           "tag": "h5",
+           "text": "Utilities"
+          },
+          {
+           "type": "spacer",
+           "id": "782a24f"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "947cf32",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "d838d06"
+          },
+          {
+           "type": "spacer",
+           "id": "c3a63bc"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "0475be7",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "edff665"
+          },
+          {
+           "type": "spacer",
+           "id": "a815030"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "elementorId": "1275",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "6f1ff2a4",
+   "ids": {
+    "card": "d1ac1d4",
+    "side": "6feb75e5",
+    "eyebrow": "9b85ace",
+    "title": "f4c5f11",
+    "intro": "49c929ed"
+   },
+   "eyebrow": "SPECIALISED SHIPS",
+   "title": "Service as unique as your vessel.",
+   "intro": "Tailored expertise making us the right partner at every stage in your ship’s lifecycle.",
+   "image": "/wp-content/uploads/2020/05/olga-kononenko-44YVLRpuSeY-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "736bcd9b",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "361bc387",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "4988d387",
+       "tag": "h3",
+       "text": "Why work with us"
+      },
+      {
+       "type": "text",
+       "id": "198ece9d",
+       "html": "In the public mind, global shipping is all about the big vessels – oil tankers, bulk carriers, container ships, cruise liners, etc. What’s less appreciated is the vast and diverse array of other specialised vessels involved, each with a specific, vital role in the supply chains that the marine, offshore and connected industries depend on.\n\n\nThese specialised vessels are the tugs, dredgers, bunker barges, fishing boats, high-speed ferries, offshore support and supply vessels, workboats, research vessels and numerous other types. Our approach is based on truly understanding your requirements and applying the tailored support you need. Focusing on vessel specialisation really is critical for these markets. It’s this understanding, experience and flexibility that make us the right partner for you at every stage in your ship’s lifecycle."
+      },
+      {
+       "type": "spacer",
+       "id": "71c7de4"
+      },
+      {
+       "type": "heading",
+       "id": "4f467e8d",
+       "tag": "h3",
+       "text": "How we can help"
+      },
+      {
+       "type": "text",
+       "id": "23c8e792",
+       "html": "We apply our expert solutions and independence to assure the integrity, reliability and success of every aspect of your operation. Helping maximise productivity and recovery, reduce operating costs, mitigate risk and demonstrate compliance with government regulations, industry codes and standards, many of which we have helped to develop."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

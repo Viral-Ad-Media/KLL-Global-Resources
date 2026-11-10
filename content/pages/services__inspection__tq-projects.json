@@ -1,0 +1,162 @@
+{
+ "elementorId": "1626",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "1f30ecad",
+   "ids": {
+    "card": "456795b5",
+    "side": "4a91d21b",
+    "eyebrow": "70c3e202",
+    "title": "4da426e2",
+    "intro": "7911d0d"
+   },
+   "eyebrow": "TECHNOLOGY QUALIFICATION",
+   "title": "Accelerate your technology development from concept to deployment.",
+   "intro": "Even in a sector that is hungry for innovation, technology development can be difficult. We help you to quantify, qualify and communicate the deployment readiness of your novel technology, removing the barriers to acceptance.",
+   "image": "/wp-content/uploads/2020/05/alex-kotliarskyi-ourQHRTE2IM-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "77c3bb5e",
+   "columns": [
+    {
+     "type": "column",
+     "id": "30187a7",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "6803460b",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "35e6fa43",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "162f5f2",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "78ae8a8f",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "360cd86a",
+           "html": "<p>Innovation is driven by new technologies that involve novel designs, concepts or applications. But whilst the upsides can be commercially and strategically critical, the introduction of novel technologies can be high-risk and is often outside the scope of existing rules, standards and industry practices.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "62a6b6b3",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "2faa0b24",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "4046b6cd",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "5a3bc649",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "1357da56",
+           "html": "<p>KLL’s Technology Qualification is a goal-based approach to risk that can be applied to any technology. It follows a simple 3-stage process of assessing the technology maturity and its risks, planning for its qualification, and executing the plan.  The TQ process enables us to issue a certificate when it would otherwise be impossible – for example, for a technology that is still being refined or doesn’t entirely meet the existing published standards. TQ can provide independent confirmation of a technology’s performance claims – it can “certify” how good the technology is.  TQ can be applied at any stage of the technology development – there are advantages to early engagement but it can be applied retrospectively too.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "1425214",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "b027101",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "af6c0e1",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "7aa39cc",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "9454628",
+           "html": "<p>KLL’s Guidance Notes for Technology Qualification (TQ) is a robust methodology and systematic process for managing technology-related risks, providing evidence that your technology will achieve its objectives with an acceptable level of confidence.</p><p>This delivers a range of important outcomes for you:</p><ul><li>Optimises and accelerates your development programmes</li><li>Supports financial decision gates by assessing technology feasibility and maturity</li><li>Addresses all stakeholders’ uncertainties – including investors, regulators, and customers</li><li>Examines the potential impacts of combining novel and existing technologies</li><li>Delivers an LR certificate substantiating the performance claims of the technology – enhancing the credibility of your technology or new product</li><li>Reduces your risk exposure, both technical and commercial</li></ul>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "44717b5",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "7be1f68",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "64c492b",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "9ede910",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "5cab314",
+           "html": "<div class=\"component content-block\"><div class=\"row\"><div class=\"pane base8 ml12\"><section class=\"component rich-text\"><p>KLL is committed to safety and sustainability, so innovation is central to everything we do. Our revised Technology Qualification Guidance Notes represents a recommended practice with a goal-based approach to risk that can be applied to any technology, from marine and energy assets through to the renewables sector, and even new technologies such as automated aerial vehicles and additive manufacturing.</p></section></div></div></div><div class=\"row\"><div class=\"block base12\"><section class=\"component rich-text\"><table border=\"1\"><tbody><tr><td> </td><td><a href=\"https://www.lr.org/en/inspection-services/\"><img alt=\"\" decoding=\"async\" height=\"34\" loading=\"lazy\" src=\"https://www.lr.org/49fb6e/globalassets/_shared-images/non-standard-social-tab-alt-opengraph-image-with-caption-alt-desktopmobile-rich-text-inline/inspection-services/is-kmrl-single-line.jpg\" width=\"500\"/></a></td></tr></tbody></table></section></div></div>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

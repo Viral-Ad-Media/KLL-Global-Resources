@@ -1,0 +1,162 @@
+{
+ "elementorId": "1533",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "427710ac",
+   "ids": {
+    "card": "2bfe2b3b",
+    "side": "754fc475",
+    "eyebrow": "23cff7be",
+    "title": "440267d8",
+    "intro": "20b588b9"
+   },
+   "eyebrow": "ASSURANCE FOR RAILWAY OPERATORS",
+   "title": "Keep on the right tracks.",
+   "intro": "KLL provides the whole range of third party assurance services to the railway sector.",
+   "image": "/wp-content/uploads/2020/05/daniel-abadia-Njq3Nz6-5rQ-unsplash-scaled.jpg"
+  },
+  {
+   "type": "section",
+   "id": "1656b502",
+   "columns": [
+    {
+     "type": "column",
+     "id": "7080f1f6",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "2720240a",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "7bcd63b",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "3c906085",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "6c63b077",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "1bd16ec0",
+           "html": "KLL provide the whole range of third party assurance services to the railway sector. This includes Notified body (NoBo), Designated Body (DeBo), CSM RAE assessment Body (RAsBo) and independent assessor (ISA)."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "5a6b31a9",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "576cc49d",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "7679d28",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "12695876",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "187c35d2",
+           "html": "<p>The demand for assurance services are increasing as EU regulations and TSIs becomes mandatory in more and more projects. Our teams are closely monitoring the development of new standards and regulations to make sure our knowledge is at the forefront of industry trends.</p><p>This enables us to deliver certificates, intermediate statements of verifications (ISV), technical files and reports in line with customer needs and the demand of national and international authorities.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "231c257",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "bb40201",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "d5b3ce9",
+           "tag": "h3",
+           "text": "Who are we working with?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "796cae2",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "8082625",
+           "html": "We offer our services to Infrastructure managers, railway operators and manufacturers. Customers include Bane NOR and NSB in Norway, Trafikverket and Green Cargo in Sweden and railway manufacturer Bombardier."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "2279701",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "b0b8a2f",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "1509090",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "f364a2a",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "0ca8efd",
+           "html": "We take pride in delivering exactly what is demanded, not more, not less, to provide the most effective training package, ensuring high levels of customer satisfaction."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

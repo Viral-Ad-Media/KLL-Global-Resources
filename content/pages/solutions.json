@@ -1,0 +1,333 @@
+{
+ "elementorId": "965",
+ "blocks": [
+  {
+   "type": "section",
+   "id": "5c7b7cb",
+   "overlay": true,
+   "columns": [
+    {
+     "type": "column",
+     "id": "1738354",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "7f206e6",
+       "inner": true,
+       "background": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "5669c47",
+         "size": "100",
+         "elements": [
+          {
+           "type": "text",
+           "id": "718c0cb",
+           "html": "<p>SMART SOLUTIONS</p>"
+          },
+          {
+           "type": "heading",
+           "id": "c35b8e9",
+           "tag": "h2",
+           "text": "Tailored solutions for safer &amp; smarter businesses."
+          },
+          {
+           "type": "text",
+           "id": "ea8b851",
+           "html": "<p>We help you transform, adapt and grow in an increasingly connected world</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "spacer",
+       "id": "a7e2ebb"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "42a1ae27",
+   "columns": [
+    {
+     "type": "column",
+     "id": "40217e4c",
+     "size": "100",
+     "elements": [
+      {
+       "type": "spacer",
+       "id": "d56518f"
+      },
+      {
+       "type": "heading",
+       "id": "eb2babc",
+       "tag": "h3",
+       "text": "Our customers' challenges might be similar, but no solution is ever the same"
+      },
+      {
+       "type": "text",
+       "id": "e6ad366",
+       "html": "<p class=\"medium desktop-center\" style=\"text-align: center;\">By drawing on our extensive range of compliance, assurance, consulting and digital capabilities, LR can assemble the right set of services &amp; tools to address your challenge and deliver ROI. </p><p class=\"medium desktop-center\" style=\"text-align: center;\">Here is an overview of the issues we are frequently asked to help with:</p>"
+      },
+      {
+       "type": "spacer",
+       "id": "77d10625"
+      },
+      {
+       "type": "section",
+       "id": "d7ea685",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "2bb96d12",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "4642cdf2"
+          },
+          {
+           "type": "heading",
+           "id": "5af74472",
+           "tag": "h5",
+           "text": "Building trust in supply chains"
+          },
+          {
+           "type": "spacer",
+           "id": "f0c0959"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "25abc030",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "6444cf95"
+          },
+          {
+           "type": "heading",
+           "id": "2f14787c",
+           "tag": "h5",
+           "text": "Optimising asset performance"
+          },
+          {
+           "type": "spacer",
+           "id": "5b5ba414"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "5851035b",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "2c794a40"
+          },
+          {
+           "type": "heading",
+           "id": "3dd901a5",
+           "tag": "h5",
+           "text": "Bringing your data to life"
+          },
+          {
+           "type": "spacer",
+           "id": "2a4fc184"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "1d742550",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "5751b33f",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "185d6dd7"
+          },
+          {
+           "type": "heading",
+           "id": "3c4b2608",
+           "tag": "h5",
+           "text": "Establishing a 'zero harm' safety culture"
+          },
+          {
+           "type": "spacer",
+           "id": "5121f025"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "4c3bc069",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "644cec35"
+          },
+          {
+           "type": "heading",
+           "id": "550f7a5a",
+           "tag": "h5",
+           "text": "Providing cyber security for operational assets"
+          },
+          {
+           "type": "spacer",
+           "id": "224ac1e4"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "4bb14d4b",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "51e79719"
+          },
+          {
+           "type": "heading",
+           "id": "5ec428e9",
+           "tag": "h5",
+           "text": "Safe and efficient decommissioning of assets"
+          },
+          {
+           "type": "spacer",
+           "id": "434979ae"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "2fa3efb5",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "74918005",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "3814049a"
+          },
+          {
+           "type": "heading",
+           "id": "3649a3d0",
+           "tag": "h5",
+           "text": "Field development solutions"
+          },
+          {
+           "type": "spacer",
+           "id": "56325a30"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "3637d208",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "7edac223"
+          },
+          {
+           "type": "heading",
+           "id": "39c33adc",
+           "tag": "h5",
+           "text": "Pipeline solutions"
+          },
+          {
+           "type": "spacer",
+           "id": "7c11d8a4"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "14242719",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "2a91c7f1"
+          },
+          {
+           "type": "heading",
+           "id": "601e08af",
+           "tag": "h5",
+           "text": "Business improvement"
+          },
+          {
+           "type": "spacer",
+           "id": "1ede657"
+          },
+          {
+           "type": "spacer",
+           "id": "b6b1bb0"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "spacer",
+       "id": "7aa8cc1"
+      },
+      {
+       "type": "heading",
+       "id": "9665483",
+       "tag": "h3",
+       "text": "The KLL Global promise"
+      },
+      {
+       "type": "text",
+       "id": "a13df87",
+       "html": "<p style=\"text-align: center;\">Our independence means that we provide reliable, impartial and informed advice that you can trust, free from compromise, free from prejudice.</p>"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

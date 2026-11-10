@@ -1,0 +1,130 @@
+{
+ "elementorId": "1645",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "3a7e5f6a",
+   "ids": {
+    "card": "ef9e7d2",
+    "side": "49e787ec",
+    "eyebrow": "1bf3a696",
+    "title": "73b4a1c3",
+    "intro": "11ea3ffb"
+   },
+   "eyebrow": "WELDER AND WELDING OPERATOR QUALIFICATION",
+   "title": "Demonstrate your welders are competent.",
+   "intro": "Independent assurance, from KLL’s welding experts.",
+   "image": "/wp-content/uploads/2020/05/christopher-burns-Wiu3w-99tNg-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "73fc0d0f",
+   "columns": [
+    {
+     "type": "column",
+     "id": "6a59735d",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "6154a739",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "b7bb5a8",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "6decbee0",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "496cf6a6",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "5bad908c",
+           "html": "<p>The qualification of welders and welding operators by a third party organisation is required for most safety-critical, pressure-related manufacturing and fabrication.  </p><p>This is done through welder qualification tests. The tests allow welders to demonstrate their ability to follow verbal and written welding instructions according to a national code, standard or regulation.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "7c6e0be5",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "fe44efe",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "28cd16b6",
+           "tag": "h3",
+           "text": "Need help with your welder or welding operator qualification tests?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "14a97a15",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "5add74d",
+           "html": "<p>KLL provides independent, third-party witnessing of welder and operator qualification tests. We also endorse welder certification according to national, European and international recognised standards, including:</p><ul><li>EN ISO 9606</li><li>EN 287</li><li>ISO 14732</li><li>ASME IX</li><li>AWS</li></ul><p>KLL is able to provide this service in two ways:</p><ul><li>KLL attends the clients’ facilities directly</li><li>KLL attends the welding school</li></ul><h4>Looking for your Lloyd’s Register-issued welding certificate, or looking to renew your LR-endorsed certificate?</h4><p>LR does not provide copies of any welding certificates we endorse. These certificates are issued through academic centres or through companies’ internal welding qualification tests. These certificates can ONLY be re-issued through the original issuing organisation or company.</p><p>Please contact the company or organisation on your certificate to obtain a copy.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "89faa31",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "72cfbbf",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "155d85d",
+           "tag": "h3",
+           "text": "Why work with us?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "2cdc1e9",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "c74b57f",
+           "html": "<div class=\"component content-block\"><div class=\"row\"><div class=\"pane base8 ml12\"><section class=\"component rich-text\"><h4>Client-focused and safety driven</h4><p>We strive to be your number one choice for welding qualification services. Our passion is to deliver a service of quality, integrity and a safety ethos, coupled with a technical wealth of experience, knowledge and professional academics; which in turn provides confidence for you and your stakeholders throughout the whole service.</p><h4>Technical expertise</h4><p>KLL’s technical experts can provide first-hand insights into the complex world of welding requirements, codes, and standards and the logic behind them. Our surveyors are chosen for their sector-specific knowledge and expertise, which means you can be confident that they’ll understand the manufacturing challenges you face.</p><p>Our expert assessment teams take a collaborative approach that understands the importance of a fast, efficient appraisal with minimal disruption to your business. </p><h4>Your business helps LR to help others</h4><p>The profits we generate fund the Lloyd’s Register Foundation, a charity which supports science and engineering-related research, education and public engagement around everything we do. All of this helps us stand by the purpose that drives us every single day: Working together for a safer world.</p></section></div></div></div><div class=\"row\"><div class=\"block base12\"><section class=\"component rich-text\"><table border=\"1\"><tbody><tr><td> </td><td><a href=\"https://www.lr.org/en/inspection-services/\"><img alt=\"\" decoding=\"async\" height=\"34\" loading=\"lazy\" src=\"https://www.lr.org/49fb6e/globalassets/_shared-images/non-standard-social-tab-alt-opengraph-image-with-caption-alt-desktopmobile-rich-text-inline/inspection-services/is-kmrl-single-line.jpg\" width=\"500\"/></a></td><td> </td></tr></tbody></table></section></div></div>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

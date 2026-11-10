@@ -1,0 +1,162 @@
+{
+ "elementorId": "1487",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "95b71d4",
+   "ids": {
+    "card": "50561a6c",
+    "side": "15037a20",
+    "eyebrow": "7e908a4b",
+    "title": "2db21054",
+    "intro": "735e91f4"
+   },
+   "eyebrow": "DRILLING INTEGRITY SERVICES",
+   "title": "Don't let drilling integrity issues impact success.",
+   "intro": "We ensure the integrity, reliability and optimisation of your drilling, completions and Intervention equipment and campaigns.",
+   "image": "/wp-content/uploads/2020/05/zachary-theodore-guADzpF9pDI-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "1f2c8d2",
+   "columns": [
+    {
+     "type": "column",
+     "id": "4cab8681",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "66dd5952",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "20f26c66",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "6798c011",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "64106212",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "57f0eca9",
+           "html": "<p>At KLL we understand that for your drilling equipment and campaign to run smoothly and safely, you must avoid failure and mitigate factors that result in non-productive time.</p><p>Ensuring that your drilling equipment, systems and unit are operable, well maintained and comply with applicable standards and regulations is key to achieving cost efficient, reliable and safe operations.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "5019a373",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "423a40ba",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "7e44225e",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "7a1e37f9",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "472676e4",
+           "html": "<p>Our drilling integrity engineering and consultancy services provide you with enhanced equipment availability, reliability and maintainability along with improved asset integrity. Whether you’re a drilling contractor or an oil and gas operator, this gives you an immediate result in improved safety, efficiency and competitiveness of your drilling operations in any environment, both on and offshore.  Our comprehensive services for the drilling industry include:</p><ul><li>Rig inspections</li><li>Rig surveys and assessments</li><li>Asset integrity and maintenance</li><li>Compliance and verification</li><li>Rig intake &amp; selection </li><li>Rig reactivation </li><li>QHSE and risk management</li><li>Transaction advisory</li></ul>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "eb7f078",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "ba767a1",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "f3ef274",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "26baecd",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "19d4159",
+           "html": "<ul><li>Reduce risks</li><li>Ensure regulatory compliance</li><li>Enhance safety</li><li>Reduce and eliminate unnecessary inspection activities and costs</li><li>Reduce lifecycle costs – operating expenses (OPEX) and capital expenditure (CAPEX) optimisation</li><li>Avoid unplanned downtime and increase availability</li><li>Reduce non-productive time (NPT) of drill rigs</li><li>Increase the frequency between turnarounds while reducing the number of inspections</li></ul>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "2077460",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "2884e26",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "9f62932",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "39d03d1",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "1557076",
+           "html": "<p>Our goal is for you to exceed your drilling safety, operation and project objectives; cost effectively and safely. Following our acquisition of WEST Engineering Services (2012) and ModuSpec (2008), we offer the world’s most comprehensive suite of technical services to owners and operators of drilling rigs. Our world class services and support is recognised globally, with our reputation for technical excellence, safety and trust speaking for itself, having inspected over 80% of the world’s offshore oil rigs.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

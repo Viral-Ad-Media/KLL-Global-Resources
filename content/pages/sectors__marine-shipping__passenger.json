@@ -1,0 +1,62 @@
+{
+ "elementorId": "1261",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "489d6245",
+   "ids": {
+    "card": "5aa58df6",
+    "side": "5056f0d0",
+    "eyebrow": "20498f9e",
+    "title": "cdef1a2",
+    "intro": "4d9fbbf6"
+   },
+   "eyebrow": "PASSENGER SHIPS",
+   "title": "Ensuring a smooth journey.",
+   "intro": "Helping you achieve the best performance from your passenger ships.",
+   "image": "/wp-content/uploads/2020/05/vidar-nordli-mathisen-RRzTBKhZumc-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "5d8921a",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "4498261f",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "1b6b32f8",
+       "tag": "h3",
+       "text": "Why work with us"
+      },
+      {
+       "type": "text",
+       "id": "5e9a7ac4",
+       "html": "Today’s market is challenging. Complex regulations, rising energy costs and ever-present competition mean your ships must perform more efficiently than ever before. We help you design, build and operate safer, more sustainable ferries and cruise ships with our leading ropax and cruise-ferry classification services.\n\nWe can help you achieve the best from your ships. From approval of innovative risk-based designs to guidance on the latest green technologies, our services help you operate safely, sustainably and cost-effectively, now and through life."
+      },
+      {
+       "type": "spacer",
+       "id": "36e325a"
+      },
+      {
+       "type": "heading",
+       "id": "309a0494",
+       "tag": "h3",
+       "text": "How we can help"
+      },
+      {
+       "type": "text",
+       "id": "63980633",
+       "html": "<p>We apply our expert solutions and independence to assure the integrity, reliability and success of every aspect of your operation. Helping maximise productivity and recovery, reduce operating costs, mitigate risk and demonstrate compliance with government regulations, industry codes and standards, many of which we have helped to develop.</p>"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

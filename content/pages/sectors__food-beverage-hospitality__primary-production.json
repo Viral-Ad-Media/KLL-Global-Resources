@@ -1,0 +1,62 @@
+{
+ "elementorId": "1218",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "52102264",
+   "ids": {
+    "card": "4cc2219a",
+    "side": "31829df",
+    "eyebrow": "1f16ff13",
+    "title": "4c0ac96d",
+    "intro": "42273e6"
+   },
+   "eyebrow": "PRIMARY PRODUCTION",
+   "title": "Safe &amp; sustainable agriculture, farming &amp; fishing.",
+   "intro": "Assurance to the animal feed, agriculture, farming and fishing sector helps drive the safe supply of food and contributes significantly to the sustainability agenda and economic growth.",
+   "image": "/wp-content/uploads/2020/05/dan-meyers-IQVFVH0ajag-unsplash-1.jpg"
+  },
+  {
+   "type": "section",
+   "id": "5982ad4e",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "50fcd6ad",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "75d57327",
+       "tag": "h2",
+       "text": "Independent assurance; helping you manage food safety and sustainability risks."
+      },
+      {
+       "type": "text",
+       "id": "77174400",
+       "html": "With over 30 years’ experience of working across the supply chain, LR has specialists able to assist dairies, livestock farmers, aquaculture sites, fisheries or crop producers with assurance requirements.\n\nOur wide range of services covers everything from animal welfare to sustainability and environmental responsibility, giving you a complete range of assurance services."
+      },
+      {
+       "type": "spacer",
+       "id": "3bfb337"
+      },
+      {
+       "type": "heading",
+       "id": "720c2fc7",
+       "tag": "h2",
+       "text": "How we can help"
+      },
+      {
+       "type": "text",
+       "id": "19cd852f",
+       "html": "We apply our expert solutions and independence to assure the integrity, reliability and success of every aspect of your operation. Helping maximise productivity and recovery, reduce operating costs, mitigate risk and demonstrate compliance with government regulations, industry codes and standards, many of which we have helped to develop."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

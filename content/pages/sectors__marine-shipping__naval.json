@@ -1,0 +1,62 @@
+{
+ "elementorId": "1271",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "1c4c81f4",
+   "ids": {
+    "card": "10eb107f",
+    "side": "43537ef6",
+    "eyebrow": "540c5b67",
+    "title": "3c6f8b62",
+    "intro": "3a6e0822"
+   },
+   "eyebrow": "NAVAL SHIPS",
+   "title": "Flying the flag around the world.",
+   "intro": "Providing classification and consultancy services to the world’s navies.",
+   "image": "/wp-content/uploads/2020/05/1920x500-naval-banner.jpg"
+  },
+  {
+   "type": "section",
+   "id": "49b1c128",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "1152d198",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "35ef450",
+       "tag": "h3",
+       "text": "Why work with us"
+      },
+      {
+       "type": "text",
+       "id": "7a86628c",
+       "html": "Our services for naval, military and auxiliary vessels start at the conceptual design stage of a newbuild project and extend to design approvals, classification rules and other prescribed requirements, such as safety and pollution."
+      },
+      {
+       "type": "spacer",
+       "id": "d3cd332"
+      },
+      {
+       "type": "heading",
+       "id": "54f893d1",
+       "tag": "h3",
+       "text": "How we can help"
+      },
+      {
+       "type": "text",
+       "id": "3f76410",
+       "html": "We apply our expert solutions and independence to assure the integrity, reliability and success of every aspect of your operation. Helping maximise productivity and recovery, reduce operating costs, mitigate risk and demonstrate compliance with government regulations, industry codes and standards, many of which we have helped to develop."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+{
+ "elementorId": "1370",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "boxed",
+   "id": "319e86c4",
+   "ids": {
+    "column": "3f6ee9cd",
+    "inner": "544243f",
+    "card": "4ebbb294",
+    "spacer": "724a468a",
+    "eyebrow": "3df2d3f1",
+    "title": "309e97a2",
+    "intro": "58182dc9"
+   },
+   "eyebrow": "WELLSCOPE",
+   "title": "The virtual test track for well engineering.",
+   "intro": "Employing our patented Computational Fluid Dynamics (CFD) modelling to accurately predict fluid flow in reservoirs, wells and completions, Wellscope brings an additional level of confidence.",
+   "image": "/wp-content/uploads/2020/05/wellscope-thinkstock-77744854.jpg"
+  },
+  {
+   "type": "section",
+   "id": "29d57c35",
+   "columns": [
+    {
+     "type": "column",
+     "id": "31d7b0d4",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "4eea8657",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "54e46c08",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "7fd283c8",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "10cc22d0",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "16dabfa8",
+           "html": "Every oil and gas well has unique characteristics, which deepens the challenge of designing the ideal completion for each one. Wellscope is a perfectionist that focuses on maximising production and escaping costly engineering errors. It helps you build wells that precisely fit your reservoir and your business needs."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "7a90c5c8",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "1ace843a",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "43ce4d29",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "29007f74",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "745cea78",
+           "html": "Based on all your well data, it creates an exact three-dimensional digital model that includes everything from sand screens and packers to rock porosity and fractures. Unlike conventional methods, it runs CFD to predict pressure and flow, then checks how each design works in simulated scenarios."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "5bfe1fc",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "37de91f",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "aafd198",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "4461ffb",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "c0caee5",
+           "html": "<p>While other CFD tools might model a reservoir or well, Wellscope employs fifth-generation High Performance Computing to do both simultaneously. No guesstimates, just a robust and precise picture of fluid behaviour.</p><p>By test-driving ideas in advance, engineers can choose designs and dimensions with confidence. Measure turbulence and spot potential erosion sites. Or pick the most productive perforation strategies. If reservoir conditions change, Wellscope helps judge whether to re-complete or drill a new well.</p><p>In these major decisions, better prediction means better production. Used in over 30 projects in the last five years, Wellscope has helped our clients save millions of dollars.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "78dd3e9",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "e6d294d",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "734d0dd",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "287cab7",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "06ea82b",
+           "html": "Our oil and gas software is built on deep experience of every part of the industry. Every day, we apply our independent expertise to help clients increase performance from their upstream and downstream operations and assets. We’re constantly developing and innovating to deliver solutions to the most complex challenges."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

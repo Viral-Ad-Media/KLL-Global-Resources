@@ -1,0 +1,52 @@
+{
+ "elementorId": "1135",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "455739f9",
+   "ids": {
+    "card": "3d8d8c0f",
+    "side": "7e07325c",
+    "eyebrow": "2bcbecf2",
+    "title": "4f566803",
+    "intro": "79be8f36"
+   },
+   "eyebrow": "CONSULTING, ANALYSIS &amp; ADVISORY SERVICES",
+   "title": "Evidence based advice you can trust.",
+   "intro": "Expert advice  to make sure your investments tick all the boxes",
+   "image": "/wp-content/uploads/2020/05/scott-blake-x-ghf9LjrVg-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "7f161de4",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "354ff6ec",
+     "size": "100",
+     "elements": [
+      {
+       "type": "text",
+       "id": "42912119",
+       "html": "<p>KLL Global has been supplying consulting services to many industries for 200 years. We have a reputation for ensuring assets and processes are optimised appropriately, often exceeding regulatory requirements, giving all stakeholders the advice and evidence needed to make the right decisions. </p>"
+      },
+      {
+       "type": "heading",
+       "id": "c5c5f91",
+       "tag": "h3",
+       "text": "How we can help"
+      },
+      {
+       "type": "text",
+       "id": "bd0f5fc",
+       "html": "<p>We help our clients in lots of different ways. And no matter what service you need us to partner you on, we’re with you every step of the way. Here are just some of our most frequently requested products and services</p>"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
