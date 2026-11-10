@@ -13,7 +13,7 @@ import { Heading, RichText, Spacer } from './widgets';
 export function PageHero({ layout, id, ids, eyebrow, title, intro, image }: HeroBlock) {
   const text = (
     <>
-      <RichText type="text" id={ids.eyebrow} html={eyebrow} />
+      <RichText type="text" id={ids.eyebrow} html={eyebrow} as="h1" />
       <Heading type="heading" id={ids.title} tag="h2" text={title} />
       {intro != null && ids.intro && <RichText type="text" id={ids.intro} html={intro} />}
     </>

@@ -98,6 +98,9 @@ The list is in `content/redirects.json`. On hosts other than Vercel the old URL 
   Bump `LAST_MODIFIED` in `app/sitemap.ts` when content changes.
 - The site address lives in `SITE_URL` in `lib/seo.ts`.
 - Link previews use `public/og-image.png` (1200x630); the favicon is `public/icon.png`.
+- Each page has one `<h1>`: the small uppercase page name at the top (the hero `eyebrow`, or a `text`
+  block with `"as": "h1"` on pages without a hero). It keeps the eyebrow's look through `.kll-page-title`.
+- Give every meaningful image an `alt` in the page JSON; use `"alt": ""` only for decorative icons.
 - After launch, add the site to Google Search Console and Bing Webmaster Tools (verify through DNS)
   and submit `https://kllglobalresources.com/sitemap.xml`. Do not reuse the Google verification files
   from the old WordPress backup: they were planted when that site was compromised.

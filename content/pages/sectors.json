@@ -16,7 +16,8 @@
       {
        "type": "text",
        "id": "657dbc5",
-       "html": "<p>KLL GLOBAL SECTORS</p>"
+       "html": "<p>KLL GLOBAL SECTORS</p>",
+       "as": "h1"
       },
       {
        "type": "heading",

@@ -25,7 +25,8 @@
           {
            "type": "text",
            "id": "4a2de3e8",
-           "html": "<p>KLL GLOBAL RESOURCES, LLC</p>"
+           "html": "<p>KLL GLOBAL RESOURCES, LLC</p>",
+           "as": "h1"
           },
           {
            "type": "heading",

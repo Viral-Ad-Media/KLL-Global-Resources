@@ -22,7 +22,7 @@ export function Heading({ id, classes, tag, size = 'default', text }: HeadingBlo
   );
 }
 
-export function RichText({ id, classes, html }: TextBlock) {
+export function RichText({ id, classes, html, as }: TextBlock) {
   return (
     <div
       className={['elementor-element', `elementor-element-${id}`, ...(classes ?? []), 'elementor-widget elementor-widget-text-editor'].join(' ')}
@@ -30,7 +30,12 @@ export function RichText({ id, classes, html }: TextBlock) {
       data-element_type="widget"
       data-widget_type="text-editor.default"
     >
-      <Html className="elementor-widget-container" html={html} />
+      {as === 'h1' ? (
+        // The page's main heading. Same look as the plain eyebrow text (see .kll-page-title in site.css).
+        <Html as="h1" className="elementor-widget-container kll-page-title" html={html} />
+      ) : (
+        <Html className="elementor-widget-container" html={html} />
+      )}
     </div>
   );
 }

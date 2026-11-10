@@ -24,7 +24,8 @@ type Base = { id: string; classes?: string[] };
 export type HeadingTag = 'h1' | 'h2' | 'h3' | 'h4' | 'h5' | 'h6';
 
 export type HeadingBlock = Base & { type: 'heading'; tag: HeadingTag; size?: string; text: string };
-export type TextBlock = Base & { type: 'text'; html: string };
+// `as: 'h1'` marks the page-name eyebrow at the top of a page as its main heading.
+export type TextBlock = Base & { type: 'text'; html: string; as?: 'h1' };
 export type SpacerBlock = Base & { type: 'spacer' };
 export type HtmlBlock = Base & { type: 'html'; html: string };
 export type ButtonBlock = Base & { type: 'button'; text: string; href: string; size: string };

@@ -25,7 +25,8 @@
           {
            "type": "text",
            "id": "718c0cb",
-           "html": "<p>SMART SOLUTIONS</p>"
+           "html": "<p>SMART SOLUTIONS</p>",
+           "as": "h1"
           },
           {
            "type": "heading",

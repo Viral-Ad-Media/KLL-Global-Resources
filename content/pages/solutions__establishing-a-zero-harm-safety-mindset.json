@@ -56,7 +56,7 @@
             "elementor-position-top"
            ],
            "image": {
-            "alt": "One",
+            "alt": "",
             "class": "attachment-full size-full wp-image-97",
             "decoding": "async",
             "height": "75",
@@ -108,7 +108,7 @@
             "elementor-position-top"
            ],
            "image": {
-            "alt": "Three",
+            "alt": "",
             "class": "attachment-full size-full wp-image-99",
             "decoding": "async",
             "height": "75",

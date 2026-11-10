@@ -15,7 +15,8 @@
       {
        "type": "text",
        "id": "1c6b2de4",
-       "html": "SERVICES"
+       "html": "SERVICES",
+       "as": "h1"
       },
       {
        "type": "heading",
