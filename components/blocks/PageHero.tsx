@@ -20,10 +20,11 @@ export function PageHero({ layout, id, ids, eyebrow, title, intro, image }: Hero
   );
   const photo = layout !== 'plain';
   const style = image ? { backgroundImage: `url(${image})` } : undefined;
+  const className = `kll-hero kll-hero-${layout}`;
 
   if (layout === 'split') {
     return (
-      <Section id={id} background overlay style={style}>
+      <Section id={id} className={className} background overlay style={style}>
         <Column id={ids.card} size="50" background>
           {text}
         </Column>
@@ -33,7 +34,7 @@ export function PageHero({ layout, id, ids, eyebrow, title, intro, image }: Hero
   }
   if (layout === 'boxed') {
     return (
-      <Section id={id} background overlay style={style}>
+      <Section id={id} className={className} background overlay style={style}>
         <Column id={ids.column!} size="100">
           <Section id={ids.inner!} inner background>
             <Column id={ids.card} size="100" inner>
@@ -46,7 +47,7 @@ export function PageHero({ layout, id, ids, eyebrow, title, intro, image }: Hero
     );
   }
   return (
-    <Section id={id} background={photo} style={style}>
+    <Section id={id} className={className} background={photo} style={style}>
       <Column id={ids.card} size="100">
         {text}
       </Column>

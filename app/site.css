@@ -128,3 +128,23 @@ iframe.elementor-video { width: 100%; aspect-ratio: 16 / 9; height: auto; border
   margin: 0;
   padding: 0;
 }
+
+/* ---------- Tablets and phones ----------
+   Spacing and font sizes in the page styles are scaled down per page by lib/responsive.ts.
+   These are the shared fixes. */
+@media (max-width: 767px) {
+  /* Keep text off the screen edges where a column has no side padding of its own. */
+  .elementor-top-section:not(.kll-hero) > .elementor-container { padding-left: 10px; padding-right: 10px; }
+
+  /* Page banner (a white card over a photo): show a frame of the photo around the card instead
+     of hiding it. The second selector covers the few pages whose banner is a plain section. */
+  .elementor .kll-hero-split, .elementor .kll-hero-boxed,
+  .elementor > .elementor-top-section:first-child:has(> .elementor-background-overlay) { padding: 48px 16px !important; }
+  .kll-hero-split > .elementor-container > .elementor-column:not(:has(.elementor-widget)) { display: none; }
+
+  /* Tall portrait photos are cropped instead of filling several screens. */
+  .elementor-widget-image img { max-height: 360px; object-fit: cover; }
+
+  /* Wide tables scroll sideways inside the page instead of widening it. */
+  .elementor-widget-text-editor table { display: block; max-width: 100%; overflow-x: auto; }
+}
