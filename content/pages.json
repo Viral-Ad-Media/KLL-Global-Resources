@@ -1,0 +1,842 @@
+[
+ {
+  "path": "contact",
+  "key": "contact",
+  "title": "Contact | KLL Global Resources, LLC",
+  "description": "Contact | KLL GLOBAL RESOURCES, LLC We'd love to hear from you Please Fill The Information Saves Your Time Many people make the mistake of saving money by wasting time Seamless Communication The most important thing in communication is to hear what isn't being said Cash Free Payment We deserve this payment by all stretches of how",
+  "css": true,
+  "elementorId": "2040"
+ },
+ {
+  "path": "",
+  "key": "home",
+  "title": "KLL Global Resources, LLC",
+  "description": "Home | KLL GLOBAL RESOURCE, LLC KLL Remote Solutions. We’re here to help you Keeping global supply chains moving, during challenging times. Get in touch What we offer We've been helping our customers succeed for over 8 years. We believe it all starts with focusing on the little details, leaving no stone unturned, and then implementing the",
+  "css": true,
+  "elementorId": "1165"
+ },
+ {
+  "path": "partners",
+  "key": "partners",
+  "title": "Partners | KLL Global Resources, LLC",
+  "description": "Partners | OUR PARTNERS Co-creation and collaboration with industry Group companies and Joint Ventures Schlumberger Lloyd's Register Houston Metro Viral Ad Media",
+  "css": true,
+  "elementorId": "994"
+ },
+ {
+  "path": "procurement",
+  "key": "procurement",
+  "title": "Procurement | KLL Global Resources, LLC",
+  "description": "Procurement | PROCURMENT Procurement and Supply of Materials and Equipment for Oil and Gas Industries We provide an equipment and material procurement and supply service to the oil and gas industry throughout Africa and the rest of the world. Our role is to find and supply all the manufactured goods associated with the exploration and delivery of",
+  "css": true,
+  "elementorId": "2033"
+ },
+ {
+  "path": "sectors/aerospace-defence",
+  "key": "sectors__aerospace-defence",
+  "title": "Aerospace & Defence | KLL Global Resources, LLC",
+  "description": "Aerospace & Defence | AEROSPACE & DEFENCE Taking quality to new heights. In the highly regulated aerospace and defence sectors, assurance demonstrates a unilateral commitment to quality across global supply chains. Independent assurance helps us rely on the aerospace and defence industries to keep us safe With certification systems in place, we know that when we take an aeroplane",
+  "css": true,
+  "elementorId": "1023"
+ },
+ {
+  "path": "sectors/automotive-engineering",
+  "key": "sectors__automotive-engineering",
+  "title": "Automotive & Engineering | KLL Global Resources, LLC",
+  "description": "Automotive & Engineering | AUTOMOTIVE & ENGINEERING Fine-tune your supply chain. Today’s vehicles are safer and more technologically advanced than ever before. However, as technology continues to develop, new risks emerge which must be addressed through effective systems that focus on continual improvement. Independent assurance allows us to rely on the automotive and engineering industries to keep us safe.",
+  "css": true,
+  "elementorId": "1028"
+ },
+ {
+  "path": "sectors/clean-energy/energy-storage",
+  "key": "sectors__clean-energy__energy-storage",
+  "title": "Energy storage | KLL Global Resources, LLC",
+  "description": "Energy storage | ENERGY STORAGE Stored potential for low carbon energy. World class services to advance your project As communities, businesses and organisations increasingly recognise and act on the urgent need to decarbonise economies, low carbon energy technologies are maturing. But unlocking the true potential depends on energy storage technologies We have helped to shape and grow the",
+  "css": true,
+  "elementorId": "1205"
+ },
+ {
+  "path": "sectors/clean-energy",
+  "key": "sectors__clean-energy",
+  "title": "Clean energy | KLL Global Resources, LLC",
+  "description": "Clean energy | CLEAN ENERGY Powering the growth of low carbon energy. We have expertise across the sector, including nuclear power, offshore wind, onshore wind, solar, wave & tidal and energy storage. World class services across the lifecycle of your project We are uniquely placed to support your energy project. Along with our marine industry heritage, we draw",
+  "css": true,
+  "elementorId": "1034"
+ },
+ {
+  "path": "sectors/clean-energy/nuclear-power",
+  "key": "sectors__clean-energy__nuclear-power",
+  "title": "Nuclear power | KLL Global Resources, LLC",
+  "description": "Nuclear power | NUCLEAR POWER Safe and sound. We have supported the growth of safe and productive nuclear facilities from the beginning of civil nuclear power, developing a global footprint across more than 1000 projects. World class services across the lifecycle of your project With our extensive safety, licensing and regulatory expertise, we support facility owners, operators, vendors",
+  "css": true,
+  "elementorId": "1209"
+ },
+ {
+  "path": "sectors/clean-energy/offshore-wind",
+  "key": "sectors__clean-energy__offshore-wind",
+  "title": "Offshore wind | KLL Global Resources, LLC",
+  "description": "Offshore wind | OFFSHORE WIND Transformation is in the wind. There is no single answer to our global energy, efficiency and environmental needs. But what is inarguable is the urgent need to accelerate our transition into a low carbon world. Why KLL GLOBAL? Offshore wind has seen dramatic growth in recent years – and will continue to be",
+  "css": true,
+  "elementorId": "1172"
+ },
+ {
+  "path": "sectors/clean-energy/onshore-wind",
+  "key": "sectors__clean-energy__onshore-wind",
+  "title": "Onshore wind | KLL Global Resources, LLC",
+  "description": "Onshore wind | ONSHORE WIND Transforming energy across the land. We solve complex problems for onshore wind investors, developers and operators of onshore wind farms. World class services across the lifecycle of your project Onshore wind has proven itself to be a clean and productive source of energy generation. LR supports the development and operation of onshore wind",
+  "css": true,
+  "elementorId": "1190"
+ },
+ {
+  "path": "sectors/clean-energy/solar",
+  "key": "sectors__clean-energy__solar",
+  "title": "Solar | KLL Global Resources, LLC",
+  "description": "Solar | SOLAR Powered by sunshine. Clean, abundant and growing more productive and cost-effective every year. World class expertise to advance your project Solar power is one of the most mature and fast-growing renewable energy technologies, and a critical part of the global energy mix. It is clean and abundant and growing more productive and cost-effective every",
+  "css": true,
+  "elementorId": "1195"
+ },
+ {
+  "path": "sectors/clean-energy/wave-tidal",
+  "key": "sectors__clean-energy__wave-tidal",
+  "title": "Wave & tidal | KLL Global Resources, LLC",
+  "description": "Wave & tidal | WAVE & TIDAL Harnessing power from the sea. We've been actively involved in developing and deploying some of the sector’s most innovative projects World class expertise to advance your project Wave and tidal energy technologies have great potential, and benefit from abundance and predictability. Although much of the technology has not yet matured, a number",
+  "css": true,
+  "elementorId": "1199"
+ },
+ {
+  "path": "sectors/construction-industry",
+  "key": "sectors__construction-industry",
+  "title": "Construction industry | KLL Global Resources, LLC",
+  "description": "Construction industry | KLL GLOBAL SECTORS Building confidence in construction. Here to help your business grow without compromising safety or the environment From the realm of digital construction to a very real-world housing crisis, we're helping the industry advance. For new technologies to be adopted, often they need the assurance of a third-party. We saw this need in",
+  "css": true,
+  "elementorId": "1031"
+ },
+ {
+  "path": "sectors/financial-professional-services",
+  "key": "sectors__financial-professional-services",
+  "title": "Financial & Professional Services | KLL Global Resources, LLC",
+  "description": "Financial & Professional Services | FINANCIAL AND PROFESSIONAL SERVICES Translating technology and transparency into trust. Open Banking, Blockchain and Cybersecurity are all contributing to unprecedented levels of both risk and opportunity within the financial services landscape. Reduce your exposure to information security threats Cyber security is the greatest risk facing the financial services industry and cyber crime continues to be",
+  "css": true,
+  "elementorId": "1037"
+ },
+ {
+  "path": "sectors/food-beverage-hospitality",
+  "key": "sectors__food-beverage-hospitality",
+  "title": "Food, Beverage & Hospitality | KLL Global Resources, LLC",
+  "description": "Food, Beverage & Hospitality | FOOD, BEVERAGE & HOSPITALITY Supply chain assurance from food sector specialists. The food industry faces increasing environmental and social responsibility demands, tougher stakeholder and government requirements and rising food safety and traceability scrutiny as well as challenges in managing brand reputation and addressing profitability concerns. Independent assurance; helping you manage food safety and sustainability risks.",
+  "css": true,
+  "elementorId": "1045"
+ },
+ {
+  "path": "sectors/food-beverage-hospitality/primary-production",
+  "key": "sectors__food-beverage-hospitality__primary-production",
+  "title": "Primary Production | KLL Global Resources, LLC",
+  "description": "Primary Production | PRIMARY PRODUCTION Safe & sustainable agriculture, farming & fishing. Assurance to the animal feed, agriculture, farming and fishing sector helps drive the safe supply of food and contributes significantly to the sustainability agenda and economic growth. Independent assurance; helping you manage food safety and sustainability risks. With over 30 years’ experience of working across the",
+  "css": true,
+  "elementorId": "1218"
+ },
+ {
+  "path": "sectors/food-beverage-hospitality/processors",
+  "key": "sectors__food-beverage-hospitality__processors",
+  "title": "Processors | KLL Global Resources, LLC",
+  "description": "Processors | PROCESSORS Customised assurance & brand protection for processors. With consumer and retailer demands for safe, high quality food produced in a sustainable and ethical way driving change across the supply chain, ensuring your business has the right compliance partner is more important than ever. Your food supply chain is only as strong as its weakest",
+  "css": true,
+  "elementorId": "1222"
+ },
+ {
+  "path": "sectors/food-beverage-hospitality/retail",
+  "key": "sectors__food-beverage-hospitality__retail",
+  "title": "Retail | KLL Global Resources, LLC",
+  "description": "Retail | RETAIL Tailored brand compliance for food retailers. Helping ensure your staff, suppliers and sites meet your own high standards and customer expectations We understand that your brand is more than just a logo, it's the way you do business. While accredited auditing programmes offer you a range of options for improving the quality, consistency and",
+  "css": true,
+  "elementorId": "1226"
+ },
+ {
+  "path": "sectors/healthcare-and-medical",
+  "key": "sectors__healthcare-and-medical",
+  "title": "Healthcare and Medical | KLL Global Resources, LLC",
+  "description": "Healthcare and Medical | HEALTHCARE & MEDICAL Patient safety starts with compliance. With significant regulatory changes and a number of environmental risks, compliance is more challenging and important than ever. Stringent requirements need an experienced partner. The complex healthcare and medical landscape is adapting and changing constantly. The welcome introduction of new medical device regulations indicates one of the",
+  "css": true,
+  "elementorId": "1052"
+ },
+ {
+  "path": "sectors/ict-telecoms",
+  "key": "sectors__ict-telecoms",
+  "title": "ICT & Telecoms | KLL Global Resources, LLC",
+  "description": "ICT & Telecoms | ICT & TELECOMS Making the connection. Keeping up with rapid pace of change both in terms of customers and technology is a key challenge faced by the ICT and Telecoms sector. Helping you deliver customer satisfaction in an evolving marketplace. Increasing complexity and technological leaps can make it difficult to ensure your people have the",
+  "css": true,
+  "elementorId": "1055"
+ },
+ {
+  "path": "sectors",
+  "key": "sectors",
+  "title": "Sectors | KLL Global Resources, LLC",
+  "description": "Sectors | KLL GLOBAL SECTORS Experts in your industry. Here to help your business grow without compromising safety or the environment The sectors we work in Whether you are a large international organisation or a small national company, we are here to help you optimise your business to achieve your goals. Aerospace & Defense Automotive & Engineering",
+  "css": true,
+  "elementorId": "957"
+ },
+ {
+  "path": "sectors/manufacturing/components-and-systems-for-vessels",
+  "key": "sectors__manufacturing__components-and-systems-for-vessels",
+  "title": "Components and systems for vessels | KLL Global Resources, LLC",
+  "description": "Components and systems for vessels | COMPONENTS AND SYSTEMS FOR VESSELS Meeting the requirements for Class and beyond. We not only help manufacturers produce equipment for KLL Classed vessels, we also provide design assurance for innovative technology. Product and design assurance for KLL Classification. Manufacturers whose products will be used on board a vessel classed with KLL Global must get their",
+  "css": true,
+  "elementorId": "1233"
+ },
+ {
+  "path": "sectors/manufacturing/cranes-and-lifting-equipment",
+  "key": "sectors__manufacturing__cranes-and-lifting-equipment",
+  "title": "Cranes and lifting equipment | KLL Global Resources, LLC",
+  "description": "Cranes and lifting equipment | CRANES AND LIFTING EQUIPMENT Elevate your crane quality. Use our years of experience with port cranes and lifting equipment to help make your project a success. Port cranes and lifting equipment have critical jobs in the shipping and logistics industry. We help make sure they're built correctly and safely. Lloyd’s Register has dedicated teams for",
+  "css": true,
+  "elementorId": "1238"
+ },
+ {
+  "path": "sectors/manufacturing",
+  "key": "sectors__manufacturing",
+  "title": "Manufacturing | KLL Global Resources, LLC",
+  "description": "Manufacturing | MANUFACTURING INDUSTRY Independent expertise at every manufacturing stage. Manufacturers of safety critical industrial equipment face increasing demand that their products meet the right codes, standards, rules, or regulations. We give them the confidence to move ahead. Decades of experience exceeding the needs of the industrial manufacturing sector. KLL Global's inspection and certification services are backed",
+  "css": true,
+  "elementorId": "1058"
+ },
+ {
+  "path": "sectors/manufacturing/metals-fabrication-and-components",
+  "key": "sectors__manufacturing__metals-fabrication-and-components",
+  "title": "Metals, fabrication and components | KLL Global Resources, LLC",
+  "description": "Metals, fabrication and components | METALS, FABRICATION AND COMPONENTS Our assurance starts at the beginning. When your customers demand traceability, trust the experts in material assessment and inspection. Traceability of material used in critical components is an essential part of our role as the independent third party. We start our journey through the manufacturing process at the steel mill, continue",
+  "css": true,
+  "elementorId": "1242"
+ },
+ {
+  "path": "sectors/manufacturing/pressure-vessels-and-boilers",
+  "key": "sectors__manufacturing__pressure-vessels-and-boilers",
+  "title": "Pressure vessels and boilers | KLL Global Resources, LLC",
+  "description": "Pressure vessels and boilers | PRESSURE VESSELS AND BOILERS From design to delivery, we know pressure. Trust us with your certification process. Bid, quote and sell your pressure vessels and boilers with confidence. Boiler and pressure equipment inspection and certification requirements are different around the world. We have the knowledge and global approvals you need to make sure your equipment",
+  "css": true,
+  "elementorId": "1247"
+ },
+ {
+  "path": "sectors/marine-shipping/commercial",
+  "key": "sectors__marine-shipping__commercial",
+  "title": "Commercial | KLL Global Resources, LLC",
+  "description": "Commercial | COMMERCIAL SHIPS Helping you reduce risk and improve efficiency. Independent assurance of safety, technical and environmental compliance to improve the integrity, reliability and success of your operations. Why work with us We understand that a day’s downtime could cost you a six-figure sum, and that marginal gains in efficiency can transform your bottom line. As",
+  "css": true,
+  "elementorId": "1255"
+ },
+ {
+  "path": "sectors/marine-shipping",
+  "key": "sectors__marine-shipping",
+  "title": "Marine & Shipping | KLL Global Resources, LLC",
+  "description": "Marine & Shipping | MARINE & SHIPPING A class apart. KLL is a leading international provider of classification, compliance and consultancy services to the marine and offshore industries, helping our clients design, construct and operate their assets to the highest levels of safety and performance. Why KLL? We’re shaping the industry’s future through the development of novel and innovative",
+  "css": true,
+  "elementorId": "1061"
+ },
+ {
+  "path": "sectors/marine-shipping/naval",
+  "key": "sectors__marine-shipping__naval",
+  "title": "Naval | KLL Global Resources, LLC",
+  "description": "Naval | NAVAL SHIPS Flying the flag around the world. Providing classification and consultancy services to the world's navies. Why work with us Our services for naval, military and auxiliary vessels start at the conceptual design stage of a newbuild project and extend to design approvals, classification rules and other prescribed requirements, such as safety and pollution.",
+  "css": true,
+  "elementorId": "1271"
+ },
+ {
+  "path": "sectors/marine-shipping/offshore",
+  "key": "sectors__marine-shipping__offshore",
+  "title": "Offshore | KLL Global Resources, LLC",
+  "description": "Offshore | OFFSHORE Flexible, capable and global solutions. We have extensive experience in the conventional and renewable energy sectors, extending right through the supply chain and asset lifecycle. Why work with us At the top of your list is managing risk – to your assets, people, business, reputation and the environment – and complying with relevant local",
+  "css": true,
+  "elementorId": "1279"
+ },
+ {
+  "path": "sectors/marine-shipping/passenger",
+  "key": "sectors__marine-shipping__passenger",
+  "title": "Passenger | KLL Global Resources, LLC",
+  "description": "Passenger | PASSENGER SHIPS Ensuring a smooth journey. Helping you achieve the best performance from your passenger ships. Why work with us Today’s market is challenging. Complex regulations, rising energy costs and ever-present competition mean your ships must perform more efficiently than ever before. We help you design, build and operate safer, more sustainable ferries and cruise",
+  "css": true,
+  "elementorId": "1261"
+ },
+ {
+  "path": "sectors/marine-shipping/specialised",
+  "key": "sectors__marine-shipping__specialised",
+  "title": "Specialised | KLL Global Resources, LLC",
+  "description": "Specialised | SPECIALISED SHIPS Service as unique as your vessel. Tailored expertise making us the right partner at every stage in your ship’s lifecycle. Why work with us In the public mind, global shipping is all about the big vessels – oil tankers, bulk carriers, container ships, cruise liners, etc. What’s less appreciated is the vast and",
+  "css": true,
+  "elementorId": "1275"
+ },
+ {
+  "path": "sectors/oil-gas",
+  "key": "sectors__oil-gas",
+  "title": "Oil & Gas | KLL Global Resources, LLC",
+  "description": "Oil & Gas | OIL & GAS Keeping your business flowing across every stream. Optimise your operations from design to decommissioning, from reservoir to refinery and beyond. How we can help The dust has settled and hope is on the horizon. As our Oil and Gas industry moves forward following a significant period of readjustment, you require trusted superior",
+  "css": true,
+  "elementorId": "1064"
+ },
+ {
+  "path": "sectors/transport-and-logistics",
+  "key": "sectors__transport-and-logistics",
+  "title": "Transport and Logistics | KLL Global Resources, LLC",
+  "description": "Transport and Logistics | TRANSPORT & LOGISTICS Make the journey from assurance to performance. From shipping to ports, cranes, containers and railways - KLL has a unique breadth of sector expertise helping to anticipate regulatory challenges and driving efficiencies for operators and suppliers. Why work with us KLL Global has a long history of providing a whole range of",
+  "css": true,
+  "elementorId": "1067"
+ },
+ {
+  "path": "sectors/utilities",
+  "key": "sectors__utilities",
+  "title": "Utilities | KLL Global Resources, LLC",
+  "description": "Utilities | UTILITIES Assuring a common level of competency. KLL's service provider assessment schemes help assure the public of competence and safety. Why KLL? We independently assess service providers working within the electricity, gas, and water sectors. By operating these assessment schemes, we help assure a common level of competency through technical assessments. What you can find",
+  "css": true,
+  "elementorId": "1072"
+ },
+ {
+  "path": "services/assurance/aquaculture",
+  "key": "services__assurance__aquaculture",
+  "title": "Aquaculture | KLL Global Resources, LLC",
+  "description": "Aquaculture | AQUACULTURE End to end solutions for safe and sustainable aquaculture Why choose KLL for your seafood assurance services? Consumer demand for sustainable fisheries and fish farming is rising. Alongside globalisation and the ‘blue revolution’, it’s clear that the complexity and potentialchallenges involved in the seafood industry are also increasing.KLL GLOBAL has been working with businesses",
+  "css": true,
+  "elementorId": "1551"
+ },
+ {
+  "path": "services/assurance/assurance-for-drilling-operators",
+  "key": "services__assurance__assurance-for-drilling-operators",
+  "title": "Assurance for drilling operators | KLL Global Resources, LLC",
+  "description": "Assurance for drilling operators | DRILLING INTEGRITY SERVICES Don't let drilling integrity issues impact success. We ensure the integrity, reliability and optimisation of your drilling, completions and Intervention equipment and campaigns. Overview At KLL we understand that for your drilling equipment and campaign to run smoothly and safely, you must avoid failure and mitigate factors that result in non-productive time.",
+  "css": true,
+  "elementorId": "1542"
+ },
+ {
+  "path": "services/assurance/assurance-for-rail-operators",
+  "key": "services__assurance__assurance-for-rail-operators",
+  "title": "Assurance for rail operators | KLL Global Resources, LLC",
+  "description": "Assurance for rail operators | ASSURANCE FOR RAILWAY OPERATORS Keep on the right tracks. KLL provides the whole range of third party assurance services to the railway sector. Overview KLL provide the whole range of third party assurance services to the railway sector. This includes Notified body (NoBo), Designated Body (DeBo), CSM RAE assessment Body (RAsBo) and independent assessor (ISA).",
+  "css": true,
+  "elementorId": "1533"
+ },
+ {
+  "path": "services/assurance/customised-assurance",
+  "key": "services__assurance__customised-assurance",
+  "title": "Customised assurance | KLL Global Resources, LLC",
+  "description": "Customised assurance | CUSTOMISED ASSURANCE Bespoke solutions to provide assurance and business improvement. Delivering confidence with a tailored approach to your assurance needs through systems improvement and training. Turn your organisation’s weaknesses into strengths Customised assurance and training addresses your organisation's specific needs through the creation of bespoke solutions and goes beyond certification. Our expertise covers supply chain",
+  "css": true,
+  "elementorId": "1515"
+ },
+ {
+  "path": "services/assurance/gas-supply-chain-assurance",
+  "key": "services__assurance__gas-supply-chain-assurance",
+  "title": "Gas supply chain assurance | KLL Global Resources, LLC",
+  "description": "Gas supply chain assurance | MARINE GAS SERVICES. Assurance across the gas supply chain. Helping you to achieve and maintain safe, efficient and sustainable operations. Overview As the world’s leading class society for liquefied natural gas (LNG) and liquefied petroleum gas (LPG) carriers, we work throughout the gas supply chain to help you to achieve safe, efficient and sustainable operations. We bring our experience,",
+  "css": true,
+  "elementorId": "1546"
+ },
+ {
+  "path": "services/assurance",
+  "key": "services__assurance",
+  "title": "Assurance | KLL Global Resources, LLC",
+  "description": "Assurance | ASSURANCE SERVICES Peace of mind for your stakeholders. Expert independent assurance services to make sure your investments tick all the boxes KLL Global has been supplying assurance services to many industries for 8 years. We have a reputation for ensuring assets and processes are optimised appropriately, often exceeding regulatory requirements, giving all stakeholders the assurance",
+  "css": true,
+  "elementorId": "1132"
+ },
+ {
+  "path": "services/assurance/management-systems-certification",
+  "key": "services__assurance__management-systems-certification",
+  "title": "Management Systems certification | KLL Global Resources, LLC",
+  "description": "Management Systems certification | MANAGEMENT SYSTEMS Take your management system from compliance to performance. Independent accredited certification can be a useful tool to add credibility, by demonstrating that your product or service meets the expectations of your customers. Learn from the past, manage the present and respond to the future. KLL GLOBAL RESOURCEs, LLC is a leading independent provider",
+  "css": true,
+  "elementorId": "1509"
+ },
+ {
+  "path": "services/assurance/quality-assurance",
+  "key": "services__assurance__quality-assurance",
+  "title": "Quality assurance | KLL Global Resources, LLC",
+  "description": "Quality assurance | QUALITY ASSURANCE The pursuit of excellence. Whether you have a contractual requirement, or want improved self-governance, implementing a robust quality management system can bring significant business benefits. Improve your business performance The implementation of an effective quality management system (QMS) offers a clearly structured, systematic approach to improving the customer experience, helping you meet organisational",
+  "css": true,
+  "elementorId": "1519"
+ },
+ {
+  "path": "services/assurance/remote-assurance",
+  "key": "services__assurance__remote-assurance",
+  "title": "Remote assurance | KLL Global Resources, LLC",
+  "description": "Remote assurance | KLL GLOBAL SECTORS Experts in your industry. Here to help your business grow without compromising safety or the environment Remote Assurance; a flexible approach to Certification and Inspection Services Our range of remote assurance services are efficient and flexible, providing you with technical expertise anytime you need it. From enabling the safer deployment of resources",
+  "css": true,
+  "elementorId": "1529"
+ },
+ {
+  "path": "services/assurance/risk-assurance",
+  "key": "services__assurance__risk-assurance",
+  "title": "Risk assurance | KLL Global Resources, LLC",
+  "description": "Risk assurance | RISK MANAGEMENT Take risk out of the equation. We help you manage risks throughout the asset lifecycle, whether related to life and environment, asset performance, market, or to contractual or regulatory requirements. Overview At KLL, we understand that risk straddles every element of your operation and that managing and reducing risk is crucial to maintaining",
+  "css": true,
+  "elementorId": "1524"
+ },
+ {
+  "path": "services/certification",
+  "key": "services__certification",
+  "title": "Certification | KLL Global Resources, LLC",
+  "description": "Certification | CERTIFICATION SERVICES Compliance? Covered with confidence. We help you to achieve and retain your licence to operate. We started out as a marine classification society. Today, we’re one of the world’s leading providers of engineering and technology-centric professional services – improving safety and increasing the performance of critical infrastructures for clients in over 75 countries",
+  "css": true,
+  "elementorId": "1125"
+ },
+ {
+  "path": "services/consulting/asset-integrity",
+  "key": "services__consulting__asset-integrity",
+  "title": "Asset Integrity | KLL Global Resources, LLC",
+  "description": "Asset Integrity | KLL GLOBAL SECTORS Avoid the failures and realise savings. Our risk-based approach to asset integrity and maintenance helps you cost effectively and safely manage the integrity, maintenance and performance of facilities and assets. Overview At KLL we understand the impact that asset integrity and maintenance can have on production, safety and ultimately your bottom line.",
+  "css": true,
+  "elementorId": "1417"
+ },
+ {
+  "path": "services/consulting/decommissioning",
+  "key": "services__consulting__decommissioning",
+  "title": "Decommissioning | KLL Global Resources, LLC",
+  "description": "Decommissioning | DECOMMISSIONING SERVICES Decommissioning that’s not detrimental. Whether you’re moving your operations into late life and decommissioning or a regulator looking to develop jurisdictional guidance, we help you navigate the regulatory and technical complexities. Overview At KLL, we recognise that the capital cost of decommissioning has little to no return on investment for you, so project",
+  "css": true,
+  "elementorId": "1425"
+ },
+ {
+  "path": "services/consulting/drilling-integrity",
+  "key": "services__consulting__drilling-integrity",
+  "title": "Drilling integrity | KLL Global Resources, LLC",
+  "description": "Drilling integrity | DRILLING INTEGRITY SERVICES Don't let drilling integrity issues impact success. We ensure the integrity, reliability and optimisation of your drilling, completions and Intervention equipment and campaigns. Overview At KLL we understand that for your drilling equipment and campaign to run smoothly and safely, you must avoid failure and mitigate factors that result in non-productive time.",
+  "css": true,
+  "elementorId": "1487"
+ },
+ {
+  "path": "services/consulting/engineering-dynamics",
+  "key": "services__consulting__engineering-dynamics",
+  "title": "Engineering Dynamics | KLL Global Resources, LLC",
+  "description": "Engineering Dynamics | ENGINEERING DYNAMICS Don’t sway under pressure, assure your assets from vibration. Our Engineering Dynamics services help prevent and solve problems in noise, vibration, instability and fatigue damage, optimising your operations. Overview At KLL we’re passionate about understanding dynamics and failure mechanisms, and assessing designs for wide spectrum of potential problems – noise, vibration, instability, fatigue",
+  "css": true,
+  "elementorId": "1409"
+ },
+ {
+  "path": "services/consulting/field-development-services",
+  "key": "services__consulting__field-development-services",
+  "title": "Field development services | KLL Global Resources, LLC",
+  "description": "Field development services | UPSTREAM EXPLORATION & PRODUCTION Extracting value and maximising opportunity. From brownfield to greenfield and new frontiers, we apply our engineering technical expertise, proven technology and innovative solutions to ensure you achieve and surpass your exploration and production goals. Why work with us? There’s a subsurface world full of untapped potential that we can help you",
+  "css": true,
+  "elementorId": "1479"
+ },
+ {
+  "path": "services/consulting/fuel-testing",
+  "key": "services__consulting__fuel-testing",
+  "title": "Fuel testing | KLL Global Resources, LLC",
+  "description": "Fuel testing | FUEL TESTING Providing confidence in marine fuels. Supporting you to source the fuel you need. Fuel accounts for up to 60% of a ship’s operational costs and quality is vitally important. Off-specification or contaminated fuel can adversely affect performance and cause serious damage. Globally fuel quality varies significantly and finding the right fuel will potentially",
+  "css": true,
+  "elementorId": "1444"
+ },
+ {
+  "path": "services/consulting/grid-connections",
+  "key": "services__consulting__grid-connections",
+  "title": "Grid connections | KLL Global Resources, LLC",
+  "description": "Grid connections | GRID CONNECTION SERVICES Helping you ensure compliance and efficiency across your grid. We provide power systems studies, and negotiate the connection and access standards of your generation projects to ensure a compliant but Overview As more and more renewable energy projects come online, the integration of such distributed generation of different scales has been challenging.",
+  "css": true,
+  "elementorId": "1497"
+ },
+ {
+  "path": "services/consulting/hull-renovation",
+  "key": "services__consulting__hull-renovation",
+  "title": "Hull renovation | KLL Global Resources, LLC",
+  "description": "Hull renovation | HULL RENOVATION SCHEME Turn back time – reverse the effects of age. If you have an older ship, KLL’s Hull Renovation Scheme (HRS) helps you to enhance the condition of your ship’s hull, making it comparable to younger ships. The extent of renovation varies, but there is the possibility of returning the condition to approximately",
+  "css": true,
+  "elementorId": "1448"
+ },
+ {
+  "path": "services/consulting/human-factors",
+  "key": "services__consulting__human-factors",
+  "title": "Human Factors | KLL Global Resources, LLC",
+  "description": "Human Factors | HUMAN FACTORS AND WORKING ENVIRONMENT SERVICES The human element. We help enhance operational up-time and achieve regulatory compliance while minimising the potential for human error and adverse health effects. Overview Combining expertise from ergonomics, psychology, physiology, sociology, anthropometrics and biomechanics our team provides both new build and in-service human factors support to enhance health, safety,",
+  "css": true,
+  "elementorId": "1431"
+ },
+ {
+  "path": "services/consulting",
+  "key": "services__consulting",
+  "title": "Consulting | KLL Global Resources, LLC",
+  "description": "Consulting | CONSULTING, ANALYSIS & ADVISORY SERVICES Evidence based advice you can trust. Expert advice to make sure your investments tick all the boxes KLL Global has been supplying consulting services to many industries for 200 years. We have a reputation for ensuring assets and processes are optimised appropriately, often exceeding regulatory requirements, giving all stakeholders the",
+  "css": true,
+  "elementorId": "1135"
+ },
+ {
+  "path": "services/consulting/maintenance-optimisation",
+  "key": "services__consulting__maintenance-optimisation",
+  "title": "Maintenance optimisation | KLL Global Resources, LLC",
+  "description": "Maintenance optimisation | ALLASSETS™ MAINTENANCE OPTIMISATION SOLUTION Mapping out your optimum maintenance strategy. Reduce costs and unnecessary maintenance tasks with of AllAssets™ Maintenance Optimisation. Overview Many critical assets such as oil refineries, chemical plants and offshore platforms are burdened with maintenance programs that are inefficient and ineffective. Furthermore, the digital intelligence of asset maintenance is often ignored- resulting",
+  "css": true,
+  "elementorId": "1421"
+ },
+ {
+  "path": "services/consulting/marine-environment",
+  "key": "services__consulting__marine-environment",
+  "title": "Marine environment | KLL Global Resources, LLC",
+  "description": "Marine environment | MARINE ENVIRONMENT REGULATORY COMPLIANCE Helping you comply with marine environmental regulations. We provide bespoke consultancy services to reduce the risk of non-compliance. Overview Compliance with future and emerging regulation is one of the biggest challenges the marine industry faces. There are many different solutions available, all at different levels of technological maturity and involving different",
+  "css": true,
+  "elementorId": "1452"
+ },
+ {
+  "path": "services/consulting/marine-failure-investigation",
+  "key": "services__consulting__marine-failure-investigation",
+  "title": "Marine failure investigation | KLL Global Resources, LLC",
+  "description": "Marine failure investigation | MARINE TECHNICAL AND FAILURE INVESTIGATION (TFI) When failure strikes, it's good to know you're in safe hands. Providing world-class Technical and Failure Investigation (TFI) services, KLL's Technical Investigation Department accurately assesses your failure and provides the correct solutions to get your ship back in service quickly and prevent recurrence. Overview Serious failure can often lead",
+  "css": true,
+  "elementorId": "1467"
+ },
+ {
+  "path": "services/consulting/risk-management",
+  "key": "services__consulting__risk-management",
+  "title": "Risk management | KLL Global Resources, LLC",
+  "description": "Risk management | RISK MANAGEMENT Take risk out of the equation. We help you manage risks throughout the asset lifecycle, whether related to life and environment, asset performance, market, or to contractual or regulatory requirements. Overview At KLL, we understand that risk straddles every element of your operation and that managing and reducing risk is crucial to maintaining",
+  "css": true,
+  "elementorId": "1405"
+ },
+ {
+  "path": "services/consulting/ship-emergency-response",
+  "key": "services__consulting__ship-emergency-response",
+  "title": "Ship emergency response | KLL Global Resources, LLC",
+  "description": "Ship emergency response | SHIP EMERGENCY RESPONSE SERVICE (SERS) If the unexpected happens, are you prepared? When you’re under pressure to make the right decisions, you can be confident that you’ve got the world’s most experienced team on your side with KLL’s Ship Emergency Response Service (SERS). Overview We understand that the probability of a serious incident happening to",
+  "css": true,
+  "elementorId": "1435"
+ },
+ {
+  "path": "services/consulting/ship-performance",
+  "key": "services__consulting__ship-performance",
+  "title": "Ship performance | KLL Global Resources, LLC",
+  "description": "Ship performance | SHIP PERFORMANCE Delivering performance that works for you. KLL’s Ship Performance team can help you gain improvements in your profitability, as well as in your ability to comply with the environmental regulations necessary to trade in today’s world and that of tomorrow. Overview Whether you are engaged in a new-build programme or are already operating,",
+  "css": true,
+  "elementorId": "1440"
+ },
+ {
+  "path": "services/consulting/ship-recycling-decommissioning",
+  "key": "services__consulting__ship-recycling-decommissioning",
+  "title": "Ship recycling & decommissioning | KLL Global Resources, LLC",
+  "description": "Ship recycling & decommissioning | SHIP RECYCLING CONSULTANCY Your partner for safe and environmentally sound ship recycling. Our ship recycling services offer peace of mind to shipowners, operators, recycling facilities and their clients to help demonstrate their commitment to safe and environmentally sound practices at the end of a ship’s life. Overview At KLL, we are committed to supporting safe",
+  "css": true,
+  "elementorId": "1470"
+ },
+ {
+  "path": "services/consulting/survey-geoengineering",
+  "key": "services__consulting__survey-geoengineering",
+  "title": "Survey & geoengineering | KLL Global Resources, LLC",
+  "description": "Survey & geoengineering | SURVEY AND GEOENGINEERING SERVICES Get to know your seabed. Our survey and geoengineering expertise helps you understand, and manage the seabed and sub-seabed, managing risk, and helping optimise development and operations, from concept to decommissioning. Overview At KLL we understand that for offshore engineering developments or operations to run smoothly this must start at the",
+  "css": true,
+  "elementorId": "1475"
+ },
+ {
+  "path": "services/consulting/well-operations-and-engineering",
+  "key": "services__consulting__well-operations-and-engineering",
+  "title": "Well operations and engineering | KLL Global Resources, LLC",
+  "description": "Well operations and engineering | WELL PROJECT MANAGEMENT AND WELL ENGINEERING EXPERTISE Your trusted partner in well delivery. Our well project management and engineering solutions helps reduce costs, bring savings of scale, and increase confidence to deliver projects on time and in budget. Overview We understand the complexities of well project management, ensuring project objectives are met, projects conducted in",
+  "css": true,
+  "elementorId": "1491"
+ },
+ {
+  "path": "services/digital-and-software/allassets-asset-performance-management-software",
+  "key": "services__digital-and-software__allassets-asset-performance-management-software",
+  "title": "AllAssets – Asset Performance Management software | KLL Global Resources, LLC",
+  "description": "AllAssets – Asset Performance Management software | KLL ALLASSETS: ASSET PERFORMANCE MANAGEMENT SOFTWARE A new approach to Asset Performance Management. Replace uncertainty with assurance. Drive performance, mitigate risk When it comes to industrial assets, performance and risk go hand in hand. You need confidence that any threats to productivity, safety and the environment are under control. At KLL GLOBAL, we should know;",
+  "css": true,
+  "elementorId": "1384"
+ },
+ {
+  "path": "services/digital-and-software/argonaut-thickness-measurement",
+  "key": "services__digital-and-software__argonaut-thickness-measurement",
+  "title": "Argonaut – thickness measurement | KLL Global Resources, LLC",
+  "description": "Argonaut – thickness measurement | ARGONAUT Fast, effective thickness measurement. A key tool in the marine software portfolio Overview Lloyd’s Register’s Argonaut Thickness Measurement Reporting Toolkit will help you carry out measurements more quickly and cost-effectively, to achieve compliance with a wide range of classification requirements. The software supports you at all stages of the process, as well as helping",
+  "css": true,
+  "elementorId": "1333"
+ },
+ {
+  "path": "services/digital-and-software/cloud-fleet-manager",
+  "key": "services__digital-and-software__cloud-fleet-manager",
+  "title": "Cloud Fleet Manager | KLL Global Resources, LLC",
+  "description": "Cloud Fleet Manager | CLOUD FLEET MANAGER Bringing digital transformation to the shipping industry. Increasing efficiency and reducing costs, Cloud Fleet Manager’s modular suite controls every aspect of shipping operations. Overview In today’s intensely competitive shipping market, fleet owners must innovate to deliver greater productivity and drive down costs.The Cloud Fleet Manager ERP platform is custom-built to serve this",
+  "css": true,
+  "elementorId": "1341"
+ },
+ {
+  "path": "services/digital-and-software/co2-verifier",
+  "key": "services__digital-and-software__co2-verifier",
+  "title": "CO2 Verifier | KLL Global Resources, LLC",
+  "description": "CO2 Verifier | CO2 VERIFIER CO2 Verifier: One simple way to comply with two regulations. Our solution saves you time and effort, enabling you to carry on with your day-to-day business. Overview In order to reduce emissions from shipping, the European Union (EU) has introduced the shipping monitoring, reporting and verification (MRV) regulation, which is designed to gather",
+  "css": true,
+  "elementorId": "1316"
+ },
+ {
+  "path": "services/digital-and-software/ic-well-visualisation",
+  "key": "services__digital-and-software__ic-well-visualisation",
+  "title": "IC – well visualisation | KLL Global Resources, LLC",
+  "description": "IC – well visualisation | IC OIL AND GAS WELL VISUALISATION SOFTWARE FROM KLL GLOBAL Helping you visualise your well data. Thinking like a geologist, IC integrates your oil and gas well data, then gives you the collaboration and visualisation functionality you need to exploit its insight. Overview Acquiring subsurface data can be costly and challenging. Once it’s in your",
+  "css": true,
+  "elementorId": "1358"
+ },
+ {
+  "path": "services/digital-and-software/im-inversion-modelling",
+  "key": "services__digital-and-software__im-inversion-modelling",
+  "title": "IM – inversion modelling | KLL Global Resources, LLC",
+  "description": "IM – inversion modelling | IM - INVERSION MODELLING SOFTWARE Enhance your data with Inversion Modelling for Resistivity and SP logs. IM is a suite of software tools which allows for the enhancement of both vintage and modern log data prior to Petrophysical analysis. Overview Todays E&P professionals are faced with declining production, complex lithologies and even unconventional reservoirs. They",
+  "css": true,
+  "elementorId": "1366"
+ },
+ {
+  "path": "services/digital-and-software/ip-petrophysics",
+  "key": "services__digital-and-software__ip-petrophysics",
+  "title": "IP – petrophysics | KLL Global Resources, LLC",
+  "description": "IP – petrophysics | INTUITIVE, ACCURATE, ROBUST AND SCALABLE: IP FOR RESERVOIR PERFORMANCE Delivering precise answers to tough questions. Intuitive, accurate, robust and scalable, IP helps you improve reservoir performance throughout the entire asset lifecycle. Overview How many hydrocarbons does a reservoir contain? What’s the porosity and water saturation? These are crucial questions in the oil and gas industry",
+  "css": true,
+  "elementorId": "1362"
+ },
+ {
+  "path": "services/digital-and-software/iris-real-time-project-management",
+  "key": "services__digital-and-software__iris-real-time-project-management",
+  "title": "IRIS – real-time project management | KLL Global Resources, LLC",
+  "description": "IRIS – real-time project management | IRIS PROJECT MANAGEMENT PLATFORM Bring your offshore projects into focus. IRIS delivers a clear, real-time view of project status and progress, helping you optimally manage offshore operations. Overview Whether it’s oil and gas platform maintenance or a windfarm installation, it is vital to keep crews and assets safe, productive and under complete control. Our IRIS",
+  "css": true,
+  "elementorId": "1397"
+ },
+ {
+  "path": "services/digital-and-software/kll-seasafe-loading-and-stability",
+  "key": "services__digital-and-software__kll-seasafe-loading-and-stability",
+  "title": "KLL SEASAFE – loading and stability | KLL Global Resources, LLC",
+  "description": "KLL SEASAFE – loading and stability | KLL SEASAFE Providing certainty for critical marine calculations. KLL SEASAFE is our loading and stability software. It delivers accurate, consistent results for vital statutory compliance calculations. Overview Safety and regulatory compliance demand accurate calculations for metrics like vessel longitudinal strength and stability. Rely on LR SEASAFE to deliver this across design, operations and cargo planning",
+  "css": true,
+  "elementorId": "1345"
+ },
+ {
+  "path": "services/digital-and-software/marine-and-offshore-structural-software",
+  "key": "services__digital-and-software__marine-and-offshore-structural-software",
+  "title": "Marine and Offshore Structural Software | KLL Global Resources, LLC",
+  "description": "Marine and Offshore Structural Software | MARINE AND OFFSHORE STRUCTURAL SOFTWARE Safeguarding vessel design and operation. Our Marine and Offshore Structural Software suite quickly and reliably verifies regulatory compliance and safe operation. Overview Shipbuilders, designers, marine equipment manufacturers, vessel operators and onboard crew, all need to plan and operate efficiently in a highly competitive market. Our Marine and Offshore Structural Software",
+  "css": true,
+  "elementorId": "1337"
+ },
+ {
+  "path": "services/digital-and-software/vendor-passport",
+  "key": "services__digital-and-software__vendor-passport",
+  "title": "Vendor Passport | KLL Global Resources, LLC",
+  "description": "Vendor Passport | SUPPLHI AND THE VENDOR PASSPORT Making it easier to connect buyers with qualified vendors. Not sure who can deliver the goods? Let our Vendor Passport be your guide. What is SupplHi? The SupplHi platform is unique in that it provides a detailed categorisation system for vendors. For buyers, that means finding specific vendors quickly, using a system of",
+  "css": true,
+  "elementorId": "1374"
+ },
+ {
+  "path": "services/digital-and-software/wells-project-management-wellscope",
+  "key": "services__digital-and-software__wells-project-management-wellscope",
+  "title": "Wells project management/ Wellscope | KLL Global Resources, LLC",
+  "description": "Wells project management/ Wellscope | WELLSCOPE The virtual test track for well engineering. Employing our patented Computational Fluid Dynamics (CFD) modelling to accurately predict fluid flow in reservoirs, wells and completions, Wellscope brings an additional level of confidence. Overview Every oil and gas well has unique characteristics, which deepens the challenge of designing the ideal completion for each one. Wellscope",
+  "css": true,
+  "elementorId": "1370"
+ },
+ {
+  "path": "services",
+  "key": "services",
+  "title": "Services | KLL Global Resources, LLC",
+  "description": "Services | SERVICES Focused problem solving. Whatever your challenge, we have the experience and knowledge to help you succeed Global services we offer Assurance Classification Consulting Digital & Software Inspection Product Certification Management Systems Training",
+  "css": true,
+  "elementorId": "978"
+ },
+ {
+  "path": "services/inspection/additive-manufacturing",
+  "key": "services__inspection__additive-manufacturing",
+  "title": "Additive manufacturing | KLL Global Resources, LLC",
+  "description": "Additive manufacturing | ADDITIVE MANUFACTURING With additive manufacturing, we go beyond R&D Our practical approach brings third-party assurance to your AM processes. Additive Manufacturing Resources Additive Manufacturing We can help you move additive manufacturing from theory to reality, with our path to market for certified parts. Only recently has the practice of metal additive manufacturing become a more",
+  "css": true,
+  "elementorId": "1631"
+ },
+ {
+  "path": "services/inspection/containers",
+  "key": "services__inspection__containers",
+  "title": "Containers | KLL Global Resources, LLC",
+  "description": "Containers | CONTAINER INSPECTION SERVICES Are your containers safe and compliant? No matter what the type, we can certify them. We provide you with a global view on container inspection and certification. KLL Global has been involved in making standards for container construction for more than 50 years. Today, millions of containers worldwide carry the KLL Global",
+  "css": true,
+  "elementorId": "1685"
+ },
+ {
+  "path": "services/inspection/cranes-lifting-equipment",
+  "key": "services__inspection__cranes-lifting-equipment",
+  "title": "Cranes & Lifting equipment | KLL Global Resources, LLC",
+  "description": "Cranes & Lifting equipment | CRANES AND LIFTING EQUIPMENT Elevate your crane quality. Use our years of experience with port cranes and lifting equipment to help make your project a success. Port cranes and lifting equipment have critical jobs in the shipping and logistics industry. We help make sure they're built correctly and safely.KLL Global has dedicated teams for design",
+  "css": true,
+  "elementorId": "1662"
+ },
+ {
+  "path": "services/inspection",
+  "key": "services__inspection",
+  "title": "Inspection | KLL Global Resources, LLC",
+  "description": "Inspection | INSPECTION SERVICES Safety and quality assured at each step. KNOW MORE. RISK LESS. Protecting the quality and integrity of high-value, safety-critical assets requires excellence from an assurance provider. From design to delivery, for the complete product lifecycle, inspection must be driven by a technical authority with a proven track record of success. At KLL Global,",
+  "css": true,
+  "elementorId": "1129"
+ },
+ {
+  "path": "services/inspection/iso-3834-certification",
+  "key": "services__inspection__iso-3834-certification",
+  "title": "ISO 3834 Certification | KLL Global Resources, LLC",
+  "description": "ISO 3834 Certification | ISO 3834 CERTIFICATION Prove your welding processes go beyond ISO 9001. We help you demonstrate your welding competence, which can open new markets. Overview ISO 3834 is the international standard for quality requirements for the fusion welding of metallic materials. ISO 9001 states that, where necessary, special processes shall be identified, and the ISO 3834",
+  "css": true,
+  "elementorId": "1649"
+ },
+ {
+  "path": "services/inspection/marine",
+  "key": "services__inspection__marine",
+  "title": "Marine | KLL Global Resources, LLC",
+  "description": "Marine | COMPONENTS AND SYSTEMS FOR VESSELS Meeting the requirements for Class and beyond. We not only help manufacturers produce equipment for KLL Classed vessels, we also provide design assurance for innovative technology. Product and design assurance for KLL GLOBAL Classification. Manufacturers whose products will be used on board a vessel classed with KLL Global must get",
+  "css": true,
+  "elementorId": "1679"
+ },
+ {
+  "path": "services/inspection/nuclear",
+  "key": "services__inspection__nuclear",
+  "title": "Nuclear | KLL Global Resources, LLC",
+  "description": "Nuclear | NUCLEAR POWER Safe and sound. We have supported the growth of safe and productive nuclear facilities from the beginning of civil nuclear power, developing a global footprint across more than 1000 projects. World class services across the lifecycle of your project With our extensive safety, licensing and regulatory expertise, we support facility owners, operators, vendors",
+  "css": true,
+  "elementorId": "1672"
+ },
+ {
+  "path": "services/inspection/pressure-vessels-boilers-and-accessories",
+  "key": "services__inspection__pressure-vessels-boilers-and-accessories",
+  "title": "Pressure vessels, boilers, and accessories | KLL Global Resources, LLC",
+  "description": "Pressure vessels, boilers, and accessories | PRESSURE VESSELS AND BOILERS From design to delivery, we know pressure. Trust us with your certification process. Bid, quote and sell your pressure vessels and boilers with confidence. Boiler and pressure equipment inspection and certification requirements are different around the world. We have the knowledge and global approvals you need to make sure your equipment",
+  "css": true,
+  "elementorId": "1666"
+ },
+ {
+  "path": "services/inspection/tq-projects",
+  "key": "services__inspection__tq-projects",
+  "title": "TQ projects | KLL Global Resources, LLC",
+  "description": "TQ projects | TECHNOLOGY QUALIFICATION Accelerate your technology development from concept to deployment. Even in a sector that is hungry for innovation, technology development can be difficult. We help you to quantify, qualify and communicate the deployment readiness of your novel technology, removing the barriers to acceptance. Overview Innovation is driven by new technologies that involve novel designs,",
+  "css": true,
+  "elementorId": "1626"
+ },
+ {
+  "path": "services/inspection/welding-and-welder-operator-qualification-services",
+  "key": "services__inspection__welding-and-welder-operator-qualification-services",
+  "title": "Welding and welder operator qualification services | KLL Global Resources, LLC",
+  "description": "Welding and welder operator qualification services | WELDER AND WELDING OPERATOR QUALIFICATION Demonstrate your welders are competent. Independent assurance, from KLL's welding experts. Overview The qualification of welders and welding operators by a third party organisation is required for most safety-critical, pressure-related manufacturing and fabrication. This is done through welder qualification tests. The tests allow welders to demonstrate their ability to follow",
+  "css": true,
+  "elementorId": "1645"
+ },
+ {
+  "path": "services/inspection/welding-procedure-qualification",
+  "key": "services__inspection__welding-procedure-qualification",
+  "title": "Welding procedure qualification | KLL Global Resources, LLC",
+  "description": "Welding procedure qualification | WELDING PROCEDURE QUALIFICATION Helping you demonstrate your welding experience. Our independence and experience bring value to your welding operations. Overview Welding procedure qualification tests are designed to show independent proof that if your welders follow a given set of parameters, then they will produce a joint that meets the design requirements. If procedures are followed,",
+  "css": true,
+  "elementorId": "1639"
+ },
+ {
+  "path": "services/training",
+  "key": "services__training",
+  "title": "Training | KLL Global Resources, LLC",
+  "description": "Training | TRAINING COURSES Helping businesses push forward. We help businesses and individuals across the globe continually improve with our scheduled and bespoke training courses What we provide to you Expert trainers Our team have a wealth of industry knowledge to share with you Flexibility You can attend a scheduled course or have bespoke training on site",
+  "css": true,
+  "elementorId": "1138"
+ },
+ {
+  "path": "solutions/asset-performance-optimisation",
+  "key": "solutions__asset-performance-optimisation",
+  "title": "Asset performance optimisation | KLL Global Resources, LLC",
+  "description": "Asset performance optimisation | ASSET PERFORMANCE SOLUTIONS Realise minimum whole-life cost through performance optimisation. We offer strategic maintenance and integrity management solutions. Key challenges Optimising the performance of critical infrastructure assets is a major investment driver for our customers, who want to balance the three key requirements: Protecting against risk through hazard analysis, safety lifecycle management and risk based",
+  "css": true,
+  "elementorId": "1087"
+ },
+ {
+  "path": "solutions/business-improvement-lean-operations",
+  "key": "solutions__business-improvement-lean-operations",
+  "title": "Business improvement & lean operations | KLL Global Resources, LLC",
+  "description": "Business improvement & lean operations | CUSTOMISED ASSURANCE Bespoke solutions to provide assurance and business improvement. Delivering confidence with a tailored approach to your assurance needs through systems improvement and training. Turn your organisation’s weaknesses into strengths Customised assurance and training addresses your organisation's specific needs through the creation of bespoke solutions and goes beyond certification. Our expertise covers supply chain",
+  "css": true,
+  "elementorId": "1090"
+ },
+ {
+  "path": "solutions/cyber-security",
+  "key": "solutions__cyber-security",
+  "title": "Cyber Security | KLL Global Resources, LLC",
+  "description": "Cyber Security | CYBER SECURITY Tackling an evolving threat. Failure to manage cyber risks leaves your organisation open to attacks and costly data breaches. The world we live in is adapting and becoming more reliant on technology and data. While this brings many positives to our personal and professional lives - it also leads us to a time",
+  "css": true,
+  "elementorId": "1083"
+ },
+ {
+  "path": "solutions/establishing-a-zero-harm-safety-mindset",
+  "key": "solutions__establishing-a-zero-harm-safety-mindset",
+  "title": "Establishing a ‘zero harm’ safety mindset | KLL Global Resources, LLC",
+  "description": "Establishing a ‘zero harm’ safety mindset | SAFETY SOLUTIONS Making 'zero harm' a reality. At KLL we are pioneering a holistic approach to safety with measurable results - we can help you achieve the same in your organisation. Key challenges Optimising the performance of critical infrastructure assets is a major investment driver for our customers, who want to balance the three key",
+  "css": true,
+  "elementorId": "1108"
+ },
+ {
+  "path": "solutions/field-development-solutions",
+  "key": "solutions__field-development-solutions",
+  "title": "Field development solutions | KLL Global Resources, LLC",
+  "description": "Field development solutions | FIELD DEVELOPMENT SOLUTIONS Develop your field to its best potential. Our field development solutions ensure you exceed your development plans, optimise operations, achieve acquisition security and safely decommission fields and assets.",
+  "css": true,
+  "elementorId": "1100"
+ },
+ {
+  "path": "solutions",
+  "key": "solutions",
+  "title": "Solutions | KLL Global Resources, LLC",
+  "description": "Solutions | SMART SOLUTIONS Tailored solutions for safer & smarter businesses. We help you transform, adapt and grow in an increasingly connected world Our customers' challenges might be similar, but no solution is ever the same By drawing on our extensive range of compliance, assurance, consulting and digital capabilities, LR can assemble the right set of services",
+  "css": true,
+  "elementorId": "965"
+ },
+ {
+  "path": "solutions/pipeline-solutions",
+  "key": "solutions__pipeline-solutions",
+  "title": "Pipeline solutions | KLL Global Resources, LLC",
+  "description": "Pipeline solutions | PIPELINE SOLUTIONS Ensure uninterrupted flow of your pipelines. We help you manage and improve the design, construction, operation and integrity of your onshore and offshore pipeline projects and network. Overview At KLL, we understand the significance of pipelines and the crucial role they play as a conduit across multiple phases of the lifecycle and transmission",
+  "css": true,
+  "elementorId": "1104"
+ },
+ {
+  "path": "solutions/safe-decommissioning-of-assets",
+  "key": "solutions__safe-decommissioning-of-assets",
+  "title": "Safe decommissioning of assets | KLL Global Resources, LLC",
+  "description": "Safe decommissioning of assets | DECOMMISSIONING SERVICES Decommissioning that’s not detrimental. Whether you’re moving your operations into late life and decommissioning or a regulator looking to develop jurisdictional guidance, we help you navigate the regulatory and technical complexities. Overview At KLL, we recognise that the capital cost of decommissioning has little to no return on investment for you, so project",
+  "css": true,
+  "elementorId": "1096"
+ },
+ {
+  "path": "supply-chain-inspection",
+  "key": "supply-chain-inspection",
+  "title": "Supply chain inspection | KLL Global Resources, LLC",
+  "description": "Supply chain inspection | SUPPLY CHAIN INSPECTION Safety and quality assured in every step of your supply chain. We help you optimise supply chain quality costs and mitigate risks. How sure are you about your supply chain quality? Today's supply chains are diverse, often spread across several countries. How do you make sure your vendors are qualified, complying with",
+  "css": true,
+  "elementorId": "1568"
+ },
+ {
+  "path": "supply-chain-inspection/remote-inspection",
+  "key": "supply-chain-inspection__remote-inspection",
+  "title": "Remote inspection | KLL Global Resources, LLC",
+  "description": "Remote inspection | REMOTE INSPECTION Safety and quality assurance. Anytime. Anywhere. Remove geographical boundaries and minimise disruption to your organisation. Introduction to Remote Inspection Our remote inspections are designed to provide you with the same level of technical expertise and insight in a safe, flexible and efficient way. With the ability to stream high-quality data with smart cameras,",
+  "css": true,
+  "elementorId": "1583"
+ },
+ {
+  "path": "supply-chain-inspection/smart-inspection",
+  "key": "supply-chain-inspection__smart-inspection",
+  "title": "SMART Inspection | KLL Global Resources, LLC",
+  "description": "SMART Inspection | SMART INSPECTION SERVICE FOR VENDOR SELECTION Choosing vendors? Be SMART. Our SMART inspection service helps cut down vendor selection risks. What is it? KLL GLOBAL believes in adding value to the vendor selection and control process - it shouldn't be a \"tick the box\" exercise. After all, you'll be depending on these vendors to deliver",
+  "css": true,
+  "elementorId": "1593"
+ },
+ {
+  "path": "supply-chain-inspection/supplhi-and-the-vendor-passport",
+  "key": "supply-chain-inspection__supplhi-and-the-vendor-passport",
+  "title": "SupplHi and the Vendor Passport | KLL Global Resources, LLC",
+  "description": "SupplHi and the Vendor Passport | SUPPLHI AND THE VENDOR PASSPORT Making it easier to connect buyers with qualified vendors. Not sure who can deliver the goods? Let our Vendor Passport be your guide. What is SupplHi? The SupplHi platform is unique in that it provides a detailed categorisation system for vendors. For buyers, that means finding specific vendors quickly, using a system of",
+  "css": true,
+  "elementorId": "1601"
+ },
+ {
+  "path": "supply-chain-inspection/vendor-assessments-and-audits",
+  "key": "supply-chain-inspection__vendor-assessments-and-audits",
+  "title": "Vendor assessments and audits | KLL Global Resources, LLC",
+  "description": "Vendor assessments and audits | VENDOR ASSESSMENTS AND AUDITS How do you choose your vendors? Your next project's success could depend on it. Overview We understand that your biggest concern with a new contract is your choice of vendor. Vendor assessments and audits give you crucial information about a vendors' capabilities, machinery, management systems, and other factors that can affect",
+  "css": true,
+  "elementorId": "1606"
+ },
+ {
+  "path": "supply-chain-inspection/vendor-site-inspection",
+  "key": "supply-chain-inspection__vendor-site-inspection",
+  "title": "Vendor site inspection | KLL Global Resources, LLC",
+  "description": "Vendor site inspection | VENDOR SITE INSPECTION Don't let your supply chain get you down. We make sure things are going as planned. What is it? Vendor site inspection is inspection performed at the site of your supplier, designed to make sure you're getting what you ordered. Sometimes called \"second-party inspection,\" it is inspection done on behalf of the",
+  "css": true,
+  "elementorId": "1610"
+ }
+]
