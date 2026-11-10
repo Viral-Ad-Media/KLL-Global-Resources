@@ -32,7 +32,9 @@ so existing links and search results keep working.
 | `components/Header.tsx` | Logo and mega menu (desktop hover panels, mobile accordion) |
 | `components/Footer.tsx` | Footer |
 | `components/ElementorBehaviors.tsx` | Makes the tabs/accordion blocks in page content interactive |
-| `content/pages.json` | List of pages with title and meta description |
+| `content/pages.json` | List of pages (path, name, file key) |
+| `content/seo.json` | Meta descriptions and title overrides for search engines |
+| `lib/seo.ts` | Site URL, titles, canonical URLs, Open Graph and structured data (JSON-LD) |
 | `content/html/*.html` | Body content of each page |
 | `content/css/*.css` | Page-specific styles |
 | `content/nav.json` | Menu structure |
@@ -43,7 +45,7 @@ so existing links and search results keep working.
 ## Editing content
 
 - Text on a page: edit the matching file in `content/html/`.
-- Page title or description: edit `content/pages.json`.
+- Page title or meta description for search results: edit `content/seo.json` (keyed by page path; a `title` there overrides the default "Page | KLL Global Resources, LLC").
 - Menu: edit `content/nav.json`.
 - New page: add an HTML file to `content/html/` and an entry in `content/pages.json`.
 
@@ -56,3 +58,15 @@ so existing links and search results keep working.
 - The contact form is the same embedded sign-up form the WordPress site used (an iframe from news.aplusmarketer.com).
 - Some images inside page content are loaded from lr.org rather than from this site.
 - Analytics and Facebook tracking scripts were not carried over.
+
+## SEO
+
+- Every page has its own title, meta description, canonical URL, Open Graph and X/Twitter tags, and
+  JSON-LD structured data (Organization, WebSite, WebPage and BreadcrumbList).
+- `/sitemap.xml` and `/robots.txt` are generated at build time from `content/pages.json`.
+  Bump `LAST_MODIFIED` in `app/sitemap.ts` when content changes.
+- The site address lives in `SITE_URL` in `lib/seo.ts`.
+- Link previews use `public/og-image.png` (1200x630); the favicon is `public/icon.png`.
+- After launch, add the site to Google Search Console and Bing Webmaster Tools (verify through DNS)
+  and submit `https://kllglobalresources.com/sitemap.xml`. Do not reuse the Google verification files
+  from the old WordPress backup: they were planted when that site was compromised.
