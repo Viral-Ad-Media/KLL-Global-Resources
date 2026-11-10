@@ -1,0 +1,211 @@
+{
+ "elementorId": "1087",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "boxed",
+   "id": "6aaa2173",
+   "ids": {
+    "column": "5e1c8830",
+    "inner": "6e41b894",
+    "card": "52e57432",
+    "spacer": "724b6b3f",
+    "eyebrow": "44304785",
+    "title": "1e13cf25",
+    "intro": "577017c0"
+   },
+   "eyebrow": "ASSET PERFORMANCE SOLUTIONS",
+   "title": "Realise minimum whole-life cost through performance optimisation.",
+   "intro": "We offer strategic maintenance and integrity management solutions.",
+   "image": "/wp-content/uploads/2020/04/2805_naval-force-8185369-dl-9.4.jpg"
+  },
+  {
+   "type": "section",
+   "id": "61adcd4c",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "3beb2267",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "144a58b3",
+       "tag": "h3",
+       "text": "Key challenges"
+      },
+      {
+       "type": "text",
+       "id": "3ca74d35",
+       "html": "<p>Optimising the performance of critical infrastructure assets is a major investment driver for our customers, who want to balance the three key requirements:</p>"
+      },
+      {
+       "type": "section",
+       "id": "0e8b822",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "85dc2d7",
+         "size": "33",
+         "elements": [
+          {
+           "type": "image-box",
+           "id": "66c156b",
+           "classes": [
+            "elementor-position-top"
+           ],
+           "image": {
+            "alt": "One",
+            "class": "attachment-full size-full wp-image-97",
+            "decoding": "async",
+            "height": "75",
+            "loading": "lazy",
+            "src": "/wp-content/uploads/2017/08/law-icon06-1-free-img.png",
+            "width": "75"
+           },
+           "titleTag": "h3",
+           "title": "Protecting against risk",
+           "description": "through hazard analysis, safety lifecycle management and risk based inspection."
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "6930f7c",
+         "size": "33",
+         "elements": [
+          {
+           "type": "image-box",
+           "id": "e522a71",
+           "classes": [
+            "elementor-position-top"
+           ],
+           "image": {
+            "alt": "",
+            "class": "attachment-full size-full wp-image-913",
+            "decoding": "async",
+            "height": "75",
+            "loading": "lazy",
+            "src": "/wp-content/uploads/2020/04/law-icon07-1-free-img.png",
+            "width": "75"
+           },
+           "titleTag": "h3",
+           "title": "Increasing economic value",
+           "description": "by improving reliability and availability, avoiding downtime and disruption of critical supply chains."
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "5023f2a",
+         "size": "33",
+         "elements": [
+          {
+           "type": "image-box",
+           "id": "e2decef",
+           "classes": [
+            "elementor-position-top"
+           ],
+           "image": {
+            "alt": "Three",
+            "class": "attachment-full size-full wp-image-99",
+            "decoding": "async",
+            "height": "75",
+            "loading": "lazy",
+            "src": "/wp-content/uploads/2017/08/law-icon08-1-free-img.png",
+            "width": "75"
+           },
+           "titleTag": "h3",
+           "title": "Reducing total life-time cost",
+           "description": "by balancing design options, operational procedures and maintenance plans for all assets against risk and reliability considerations."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "6f50287e",
+   "columns": [
+    {
+     "type": "column",
+     "id": "6b4d865d",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "1a08a7fc",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "128aee98",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "307d8ca6",
+           "tag": "h3",
+           "text": "Analyse, optimise &amp; realise the benefit"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "1ef67d10",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "5a004a7d",
+           "html": "<p>Our solution approach centres on providing maintenance and Integrity Management strategies and activities which are aligned with your commercial requirements.  </p><p>We tailor activities according to commercial and technical drivers, exploring ways to optimise whole-life cost.</p><p>By deploying bespoke maintenance and integrity schedules for their assets, customers can achieve savings of up to 30%. </p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "2e7ff100",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "34763d78",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "54df9eb2",
+           "tag": "h3",
+           "text": "Bringing together best in class capabilities"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "22477ec0",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "214276da",
+           "html": "<p>Our asset performance management solutions bring together industry-leading software, services, and business-process support &amp; consulting capabilities to give customers an enterprise-wide view of asset optimisation, helping them make decisions with confidence. Examples include providing visibility of real-time availability and reliability of machines and equipment, identifying potential failures early whilst ensuring compliance with changing regulatory requirements.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

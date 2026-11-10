@@ -1,0 +1,164 @@
+{
+ "elementorId": "1345",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "boxed",
+   "id": "6c421df9",
+   "ids": {
+    "column": "3f29e252",
+    "inner": "53b742fb",
+    "card": "7a52fa19",
+    "spacer": "5a82e78e",
+    "eyebrow": "1d9a17b1",
+    "title": "7a85e7a5",
+    "intro": "3e9c63b1"
+   },
+   "eyebrow": "KLL SEASAFE",
+   "title": "Providing certainty for critical marine calculations.",
+   "intro": "KLL SEASAFE is our loading and stability software. It delivers accurate, consistent results for vital statutory compliance calculations.",
+   "image": "/wp-content/uploads/2020/05/victor-xok-cx4qdpfMTw-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "383846d8",
+   "columns": [
+    {
+     "type": "column",
+     "id": "7a497381",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "63a4c184",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "16c625a7",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "686ffd35",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "2680a45f",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "a34fb7d",
+           "html": "Safety and regulatory compliance demand accurate calculations for metrics like vessel longitudinal strength and stability. Rely on LR SEASAFE to deliver this across design, operations and cargo planning for all types of vessels and offshore structures – from passenger ships, oil tankers and gas carriers to semi-submersibles and jack-up rigs."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "77b0982e",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "2dbfd479",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "2fe22acc",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "1ff80061",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "71f47572",
+           "html": "User-friendly and intuitive, LR SEASAFE makes critical data easy to retrieve, analyse and apply. It swiftly creates precise 3D vessel models, derives calculations and produces reports on a vessel or offshore structure’s attributes – ensuring designs and loading are completely compliant."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "60f0673",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "b65719a",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "74cc454",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "ad6e46d",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "cb58142",
+           "html": "Powered by a common software engine, LR SEASAFE comes in two versions. Click on the links below for more information about each version of the software."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "10fd50f",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "73247f8",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "e092770",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "96cede0",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "13393ec",
+           "html": "We are the leading international provider of classification, compliance and consultancy services to the marine industry. Our products, services and digital innovation help clients design, construct and operate their assets to the highest levels of safety and performance."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

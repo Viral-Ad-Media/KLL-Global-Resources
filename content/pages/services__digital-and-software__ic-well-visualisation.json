@@ -1,0 +1,164 @@
+{
+ "elementorId": "1358",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "boxed",
+   "id": "2f1ea569",
+   "ids": {
+    "column": "65bea1b8",
+    "inner": "150c3eda",
+    "card": "6484fcaf",
+    "spacer": "33a4a57b",
+    "eyebrow": "2869a28b",
+    "title": "5532b313",
+    "intro": "7d24bd2"
+   },
+   "eyebrow": "IC OIL AND GAS WELL VISUALISATION SOFTWARE FROM KLL GLOBAL",
+   "title": "Helping you visualise your well data.",
+   "intro": "Thinking like a geologist, IC integrates your oil and gas well data, then gives you the collaboration and visualisation functionality you need to exploit its insight.",
+   "image": "/wp-content/uploads/2020/05/ip-thinkstock-npa_092.jpg"
+  },
+  {
+   "type": "section",
+   "id": "66ca6860",
+   "columns": [
+    {
+     "type": "column",
+     "id": "48b7e951",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "2143edbe",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "566f8661",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "4452b326",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "4469d79b",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "6dc0665",
+           "html": "Acquiring subsurface data can be costly and challenging. Once it’s in your possession, you need to see the full scope of its insight. IC brings all your well data into one place, to visualise what it’s telling you and make the right decisions for well and field optimisation. \n\nDiscover how IC and IP work in harmony to help analyse your reservoir data:"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "650212b2",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "488a2b73",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "4bb905d8",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "35a34322",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "352e41cc",
+           "html": "Our modular IC software gives stratigraphers, geologists, petrophysicists, engineers and data managers a new view of their subsurface oil and gas data. Bringing all your data together, with tools to analyse it and visualise what it’s telling you."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "b559dd4",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "0c7e2c0",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "3b0c950",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "93d8db4",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "f3b4c0b",
+           "html": "With its robust, open database, IC can import data from anywhere, then combine and share it with ease. Intelligent well correlation, 2D display options, and cross-section building – IC has tools to tackle every analytic challenge.\n\nEven with missing information or unconformities, IC produces coherent results. As the only stratographically-aware software, you can incorporate geological time into interpretations through age/depth maps and stratigraphic hierarchies and sequences.\n\nThere’s powerful interactive mapping, charting and collaboration tools to tap too. Produce and share time-varying grids, live map montages and well path projections. Add production data to IC and zoom out to analyse the whole reservoir, predicting and monitoring well performance over time."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "059426d",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "25aad17",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "d4d939e",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "aef7f8b",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "fa112f0",
+           "html": "Our oil and gas software is built on deep experience of every part of the industry. Every day, we apply our independent expertise to help clients increase performance from their upstream and downstream operations and assets. We’re constantly developing and innovating to deliver solutions to the most complex challenges."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

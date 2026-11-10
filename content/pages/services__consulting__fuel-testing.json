@@ -1,0 +1,56 @@
+{
+ "elementorId": "1444",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "59376fbb",
+   "ids": {
+    "card": "4533baf5",
+    "side": "3570e45a",
+    "eyebrow": "69693ef4",
+    "title": "40864ed3"
+   },
+   "eyebrow": "FUEL TESTING",
+   "title": "Providing confidence in marine fuels.",
+   "image": "/wp-content/uploads/2020/05/daniel-olah-VS_kFx4yF5g-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "40fddad8",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "43cf1cb6",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "4fe1132",
+       "tag": "h3",
+       "text": "Supporting you to source the fuel you need."
+      },
+      {
+       "type": "text",
+       "id": "7df29012",
+       "html": "<p>Fuel accounts for up to 60% of a ship’s operational costs and quality is vitally important. Off-specification or contaminated fuel can adversely affect performance and cause serious damage.</p><p>Globally fuel quality varies significantly and finding the right fuel will potentially get<br/>more difficult, with the added pressure on supply from the current International Maritime Organization (IMO) sulphur 2020 regulation.</p><p>Our world-class fuel specialists can help you validate fuel quality and quantity.  We can also support you to manage fuel safely and optimise performance.</p>"
+      },
+      {
+       "type": "heading",
+       "id": "4f8d4bfa",
+       "tag": "h3",
+       "text": "What we offer"
+      },
+      {
+       "type": "text",
+       "id": "7da7867c",
+       "html": "<p>We offer technical support and advice at every stage, from supply and bunkering to fuel management and system performance. Our fuel database, LR Fuel Finder, is easily accessed online, enabling  informed choices about fuel purchasing and management. We carry out accurate and independent fuel surveys ensuring you receive the quality and quantity required.</p><p>Our fuel testing solutions can reduce the risk of potential problems. KLL’s specialist teams provide 24/7 support should poor quality fuel be detected, providing expert advice on managing it safely.</p><p>We provide practical training courses covering safe and effective marine fuel management, utilising our world-class expertise.</p>"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

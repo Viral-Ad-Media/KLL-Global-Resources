@@ -1,0 +1,58 @@
+{
+ "elementorId": "1072",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "38d24e9b",
+   "ids": {
+    "card": "179daa36",
+    "side": "9aad6a7",
+    "eyebrow": "43c68c21",
+    "title": "2d75f0f0",
+    "intro": "3e9efdc6"
+   },
+   "eyebrow": "UTILITIES",
+   "title": "Assuring a common level of competency.",
+   "intro": "<p>KLL’s service provider assessment schemes help assure the public of competence and safety.</p>",
+   "image": "/wp-content/uploads/2020/05/matthew-henry-yETqkLnhsUI-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "52934e4e",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "7b801a9d",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "9ea7263",
+       "tag": "h3",
+       "text": "Why KLL?"
+      },
+      {
+       "type": "text",
+       "id": "1e5a5523",
+       "html": "<p class=\"desktop-center\">We independently assess service providers working within the electricity, gas, and water sectors. By operating these assessment schemes, we help assure a common level of competency through technical assessments.</p>"
+      },
+      {
+       "type": "heading",
+       "id": "32eb312",
+       "tag": "h3",
+       "text": "What you can find here"
+      },
+      {
+       "type": "text",
+       "id": "1bbbdcb",
+       "html": "<p class=\"desktop-center\">Business owners and home owners can find service providers in the areas of electricity, gas and water. </p><p class=\"desktop-center\">Service providers can also find information about how to get accredited.</p>"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

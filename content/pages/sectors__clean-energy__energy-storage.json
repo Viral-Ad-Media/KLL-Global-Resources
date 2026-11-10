@@ -1,0 +1,82 @@
+{
+ "elementorId": "1205",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "1513a73c",
+   "ids": {
+    "card": "5af45572",
+    "side": "35cfe161",
+    "eyebrow": "3a7e572c",
+    "title": "57b17e7d"
+   },
+   "eyebrow": "ENERGY STORAGE",
+   "title": "Stored potential for low carbon energy.",
+   "image": "/wp-content/uploads/2020/05/hal-gatewood-OgvqXGL7XO4-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "d7f78b4",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "4b71bb0b",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "34f53f03",
+       "tag": "h3",
+       "text": "World class services to advance your project"
+      },
+      {
+       "type": "text",
+       "id": "2d631059",
+       "html": "As communities, businesses and organisations increasingly recognise and act on the urgent need to decarbonise economies, low carbon energy technologies are maturing. But unlocking the true potential depends on energy storage technologies \n\nWe have helped to shape and grow the Renewables sector through supporting client projects as well as technology advancement and research, such as the\nKLL Foundation’s Foresight Review on Energy Storage.\n\n Our team includes a number of renowned energy experts, who have worked on ground-breaking and complex projects for the industry’s most ambitious and successful organisations. We have expertise across the offshore &amp; onshore wind, solar, wave &amp; tidal and nuclear sectors, providing services including Technology qualification, Grid connections and Technical adjudication."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "1aa60f42",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "4d0d5fd3",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "6325095c",
+       "tag": "h2",
+       "text": "How we can help"
+      },
+      {
+       "type": "text",
+       "id": "171cd510",
+       "html": "We apply our expert solutions and independence to assure the integrity, reliability and success of every aspect of your operation. Helping maximise productivity and recovery, reduce operating costs, mitigate risk and demonstrate compliance with government regulations, industry codes and standards, many of which we have helped to develop."
+      },
+      {
+       "type": "button",
+       "id": "69433bfe",
+       "classes": [
+        "elementor-align-center",
+        "elementor-mobile-align-center"
+       ],
+       "text": "Read More",
+       "href": "#",
+       "size": "md"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

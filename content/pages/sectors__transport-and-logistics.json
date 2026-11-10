@@ -1,0 +1,47 @@
+{
+ "elementorId": "1067",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "31a56281",
+   "ids": {
+    "card": "4c3d89c",
+    "side": "6f7db0af",
+    "eyebrow": "42d4a4b9",
+    "title": "79b023b",
+    "intro": "75c9da83"
+   },
+   "eyebrow": "TRANSPORT &amp; LOGISTICS",
+   "title": "Make the journey from assurance to performance.",
+   "intro": "From shipping to ports, cranes, containers and railways – KLL has a unique breadth of sector expertise helping to anticipate regulatory challenges and driving efficiencies for operators and suppliers.",
+   "image": "/wp-content/uploads/2020/05/chuttersnap-fN603qcEA7g-unsplash-scaled.jpg"
+  },
+  {
+   "type": "section",
+   "id": "40adf0ab",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "246a6387",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "548ef899",
+       "tag": "h3",
+       "text": "Why work with us"
+      },
+      {
+       "type": "text",
+       "id": "6b44dba7",
+       "html": "<p class=\"desktop-center\">KLL Global has a long history of providing a whole range of  assurance  services to the transport sector. This includes Notified body (NoBo), Designated Body (DeBo), CSM RAE assessment Body (RAsBo) and independent assessor (ISA). </p><p class=\"desktop-center\">In addition we retain world leading experts in risk and safety to maximise reliability and availability for operators and manufacturers in this sector, driving business performance and project results. Our consultants ensure that from day one of a project, operational risks are understood and appropriate plans are in place to get things right first time.</p>"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

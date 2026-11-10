@@ -1,0 +1,287 @@
+{
+ "elementorId": "978",
+ "blocks": [
+  {
+   "type": "section",
+   "id": "3893d55e",
+   "overlay": true,
+   "columns": [
+    {
+     "type": "column",
+     "id": "690d3941",
+     "size": "50",
+     "background": true,
+     "elements": [
+      {
+       "type": "text",
+       "id": "1c6b2de4",
+       "html": "SERVICES"
+      },
+      {
+       "type": "heading",
+       "id": "172de1b3",
+       "tag": "h2",
+       "text": "Focused problem solving."
+      },
+      {
+       "type": "text",
+       "id": "60ece43d",
+       "html": "Whatever your challenge, we have the experience and knowledge to help you succeed"
+      }
+     ]
+    },
+    {
+     "type": "column",
+     "id": "3215f46d",
+     "size": "50",
+     "elements": []
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "159b274f",
+   "columns": [
+    {
+     "type": "column",
+     "id": "2b007d7c",
+     "size": "100",
+     "elements": [
+      {
+       "type": "spacer",
+       "id": "3de6f23"
+      },
+      {
+       "type": "heading",
+       "id": "73f834f",
+       "tag": "h3",
+       "text": "Global services we offer"
+      },
+      {
+       "type": "section",
+       "id": "246f69f8",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "72ac629d",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "2e745862"
+          },
+          {
+           "type": "heading",
+           "id": "3d1091b9",
+           "tag": "h5",
+           "text": "Assurance"
+          },
+          {
+           "type": "spacer",
+           "id": "529e698d"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "2ebcc59b",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "4b01be3a"
+          },
+          {
+           "type": "heading",
+           "id": "377648f2",
+           "tag": "h5",
+           "text": "Classification"
+          },
+          {
+           "type": "spacer",
+           "id": "460da6e"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "23af42fe",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "5cd30320"
+          },
+          {
+           "type": "heading",
+           "id": "12799085",
+           "tag": "h5",
+           "text": "Consulting"
+          },
+          {
+           "type": "spacer",
+           "id": "4a879790"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "532cdacc",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "2bd8482a",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "7df6c135"
+          },
+          {
+           "type": "heading",
+           "id": "6737ace6",
+           "tag": "h5",
+           "text": "Digital &amp; Software"
+          },
+          {
+           "type": "spacer",
+           "id": "f3db486"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "5f0d88bf",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "b531223"
+          },
+          {
+           "type": "heading",
+           "id": "763dfec1",
+           "tag": "h5",
+           "text": "Inspection"
+          },
+          {
+           "type": "spacer",
+           "id": "7717ff0a"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "10f5c2ed",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "6e9b0906"
+          },
+          {
+           "type": "heading",
+           "id": "43150e46",
+           "tag": "h5",
+           "text": "Product Certification"
+          },
+          {
+           "type": "spacer",
+           "id": "c12e9e5"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "550a5b85",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "2b466a84",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "393dae9b"
+          },
+          {
+           "type": "heading",
+           "id": "1a15d2e1",
+           "tag": "h5",
+           "text": "Management Systems"
+          },
+          {
+           "type": "spacer",
+           "id": "1e707993"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "7532052c",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "1bef27d1"
+          },
+          {
+           "type": "heading",
+           "id": "6f4df750",
+           "tag": "h5",
+           "text": "Training"
+          },
+          {
+           "type": "spacer",
+           "id": "5a91315"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "4cd95c63",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "f7666f9"
+          },
+          {
+           "type": "spacer",
+           "id": "1dbbf30e"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

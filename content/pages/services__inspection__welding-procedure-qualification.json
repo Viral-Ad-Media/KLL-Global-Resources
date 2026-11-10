@@ -1,0 +1,130 @@
+{
+ "elementorId": "1639",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "661b5e53",
+   "ids": {
+    "card": "6f8333bf",
+    "side": "1942178a",
+    "eyebrow": "42c5b46b",
+    "title": "335a6909",
+    "intro": "7f633160"
+   },
+   "eyebrow": "WELDING PROCEDURE QUALIFICATION",
+   "title": "Helping you demonstrate your welding experience.",
+   "intro": "<p>Our independence and experience bring value to your welding operations.</p>",
+   "image": "/wp-content/uploads/2020/05/glenn-hansen-VW4xiLRr-do-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "29aca195",
+   "columns": [
+    {
+     "type": "column",
+     "id": "35916a89",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "5bbf0889",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "214bf52",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "62134e47",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "2fdf3979",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "5b66825f",
+           "html": "<p>Welding procedure qualification tests are designed to show independent proof that if your welders follow a given set of parameters, then they will produce a joint that meets the design requirements. If procedures are followed, then the joint will also have the desired levels of weld quality and mechanical properties.</p><p>This independent validation is required by a code of construction, a regulation, or even by a contract with the end user.  </p><p>Even beyond an external requirement, code compliant welding procedures are not only important for a fabricator’s consistency, but also for the safety of their welders. Independent witness and review can also help refine the procedures to make sure safety-critical assets are welded to the proper level of quality.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "57593e48",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "32980f69",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "7a5865b",
+           "tag": "h3",
+           "text": "Need help with welding procedure qualification?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "74e11ff9",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "6b406581",
+           "html": "<p>As an independent, accredited and globally recognised third-party inspection agency, KLL can certify your welding procedures in accordance with many codes and standards.</p><p>In our 250+ years of history, we reviewed some of the first welding procedures used onboard steel ships. This has led to a wealth of knowledge that our customers use not only to refine their procedures, but also to show their stakeholders their commitment to quality.</p><p>As an ASME Authorised Inspection Agency and EU Notified Body for permanent joining approval, KLL has the expertise to assist you in the qualification of your welding procedures according to national, European and internationally recognised standards. This includes:</p><ul><li>ASME Section IX</li><li>AWS</li><li>EEMUA</li><li>NORSOK</li><li>BS 4515 </li><li>ISO 15614 series</li></ul>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "f480844",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "849e92c",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "d986a75",
+           "tag": "h3",
+           "text": "Why work with us?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "b1c86bd",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "25d72c9",
+           "html": "<div class=\"component content-block\"><div class=\"row\"><div class=\"pane base8 ml12\"><section class=\"component rich-text\"><h4>Client-focused and safety driven</h4><p>We strive to be your number one choice for welding qualification services. Our passion is to deliver a service of quality, integrity and a safety ethos, coupled with a technical wealth of experience, knowledge and professional academics; which in turn provides confidence for you and your stakeholders throughout the whole service.</p><h4>Technical expertise</h4><p>KLL’s technical experts can provide first-hand insights into the complex world of welding requirements, codes, and standards and the logic behind them. Our surveyors are chosen for their sector-specific knowledge and expertise, which means you can be confident that they’ll understand the manufacturing challenges you face.</p><p>Our expert assessment teams take a collaborative approach that understands the importance of a fast, efficient appraisal with minimal disruption to your business. </p><h4>Your business helps KLL to help others</h4><p>The profits we generate fund the Lloyd’s Register Foundation, a charity which supports science and engineering-related research, education and public engagement around everything we do. All of this helps us stand by the purpose that drives us every single day: Working together for a safer world.</p></section></div></div></div><div class=\"row\"><div class=\"block base12\"><section class=\"component rich-text\"><table border=\"1\"><tbody><tr><td> </td><td><a href=\"https://www.lr.org/en/inspection-services/\"><img alt=\"\" decoding=\"async\" height=\"34\" loading=\"lazy\" src=\"https://www.lr.org/49fb6e/globalassets/_shared-images/non-standard-social-tab-alt-opengraph-image-with-caption-alt-desktopmobile-rich-text-inline/inspection-services/is-kmrl-single-line.jpg\" width=\"500\"/></a></td></tr></tbody></table></section></div></div>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "elementorId": "1209",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "62bdda18",
+   "ids": {
+    "card": "52e03198",
+    "side": "54fa089b",
+    "eyebrow": "2f021b0b",
+    "title": "4c2a47f7",
+    "intro": "6c55a8bd"
+   },
+   "eyebrow": "NUCLEAR POWER",
+   "title": "Safe and sound.",
+   "intro": "We have supported the growth of safe and productive nuclear facilities from the beginning of civil nuclear power, developing a global footprint across more than 1000 projects.",
+   "image": "/wp-content/uploads/2020/05/frederic-paulussen-LWnD8U2OReU-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "27c10468",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "acf80bf",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "7e500d0d",
+       "tag": "h3",
+       "text": "World class services across the lifecycle of your project"
+      },
+      {
+       "type": "text",
+       "id": "6e98ca06",
+       "html": "With our extensive safety, licensing and regulatory expertise, we support facility owners, operators, vendors and national regulators worldwide.\n\nOur teams also have extensive experience of providing specialist techniques, such as probabalistic safety assessments, root-cause analyses, reliability-centred maintenance, plant-improvement solutions and operational experience feedback."
+      },
+      {
+       "type": "heading",
+       "id": "1700740a",
+       "tag": "h3",
+       "text": "How we can help"
+      },
+      {
+       "type": "text",
+       "id": "5db850fb",
+       "html": "<p>We apply our expert solutions and independence to assure the integrity, reliability and success of every aspect of your operation. Helping maximise productivity and recovery, reduce operating costs, mitigate risk and demonstrate compliance with government regulations, industry codes and standards, many of which we have helped to develop.</p>"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

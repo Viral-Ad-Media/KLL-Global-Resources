@@ -1,0 +1,75 @@
+{
+ "elementorId": "2033",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "plain",
+   "id": "e2ccfc5",
+   "ids": {
+    "card": "33d87ac2",
+    "eyebrow": "7449dd8f",
+    "title": "449cc72",
+    "intro": "5e4bff0f"
+   },
+   "eyebrow": "PROCURMENT",
+   "title": "Procurement and Supply of Materials and Equipment for Oil and Gas Industries",
+   "intro": "We provide an equipment and material procurement and supply service to the oil and gas industry throughout Africa and the rest of the world."
+  },
+  {
+   "type": "section",
+   "id": "67ae440c",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "7cb24913",
+     "size": "100",
+     "elements": [
+      {
+       "type": "text",
+       "id": "3b5f7ac7",
+       "html": "<div class=\"et_pb_row et_pb_row_0\"><div class=\"et_pb_column et_pb_column_2_3 et_pb_column_0 et_pb_css_mix_blend_mode_passthrough\"><div class=\"et_pb_module et_pb_text et_pb_text_0 et_pb_text_align_left et_pb_bg_layout_light\"><div class=\"et_pb_text_inner\"><p>Our role is to find and supply all the manufactured goods associated with the exploration and delivery of oil and gas. Our customers expect an exceptional level of service and we fulfil that expectation by delivering a reliable, honest, diligent and conscientious service that meets their specific demands.</p><p>With many years experience in the oil industry Worldwide Procurement Services has relationships with renowned manufacturers, major mills and suppliers in the UK, across Europe, USA, Far East and the Sub-Continent and are able to supply equipment to the correct specification, on time and within budget.</p><p>Working for oil and gas companies primarily in Nigeria, Cameroon, Ghana, Kenya, Angola and other African nations we can procure and ship all equipment and material used in exploration, drilling, marine services, production and oil product disciplines.</p></div></div></div></div>"
+      },
+      {
+       "type": "text",
+       "id": "9e06459",
+       "html": "<div class=\"et_pb_row et_pb_row_1\"><div class=\"et_pb_column et_pb_column_4_4 et_pb_column_2 et_pb_css_mix_blend_mode_passthrough et-last-child\"><div class=\"et_pb_module et_pb_text et_pb_text_1 et_pb_text_align_left et_pb_bg_layout_light\"><div class=\"et_pb_text_inner\"><h2 style=\"text-align: left;\">Oil &amp; Gas Industry Equipment</h2><p style=\"text-align: left;\">The following list provides typical examples of the type of equipment we are asked to supply:</p></div></div></div></div>"
+      },
+      {
+       "type": "section",
+       "id": "9db2e8d",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "b4256e1",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "2441005",
+           "html": "<div class=\"et_pb_row et_pb_row_1\"><div class=\"et_pb_column et_pb_column_4_4 et_pb_column_2 et_pb_css_mix_blend_mode_passthrough et-last-child\"><div class=\"et_pb_module et_pb_text et_pb_text_1 et_pb_text_align_left et_pb_bg_layout_light\"><div class=\"et_pb_text_inner\"><p style=\"text-align: left;\"><span style=\"font-size: 1.3em;\">General Equipment</span></p></div></div></div></div><div class=\"et_pb_row et_pb_row_2\" style=\"text-align: left;\"><div class=\"et_pb_column et_pb_column_1_2 et_pb_column_3 et_pb_css_mix_blend_mode_passthrough\"><div class=\"et_pb_module et_pb_text et_pb_text_2 et_pb_text_align_left et_pb_bg_layout_light\"><div class=\"et_pb_text_inner\"><ul><li>Valves, Actuators, Regulators</li><li>Pumps</li><li>Process Control Instrumentation</li><li>Hoses and Fluid Handling</li><li>Hose Fittings</li><li>Pipe Fittings and Flanges</li><li>Pipe and Tubular Products</li><li>Separators and Filters</li><li>Gauges and Meters</li><li>Pipeline accessories</li><li>Generators</li><li>Cranes and lifting equipment</li><li>Marine Services</li><li>Steelworks</li><li>Safety Equipment</li><li>Personal Safety Equipment</li><li>Coatings, resins, paints</li><li>Compressors</li><li>Lighting and Electrical Products</li><li>HVAC Equipment and Supplies</li><li>Subsea Pipes &amp; Fittings</li><li>Non Corrosive Fittings</li><li>Stainless Steel Fittings</li><li>Stainless Steel Pipe</li><li>Hazardous Area Electrical Equipment</li><li>ATEX Equipment</li><li>Non Sparking Tools</li><li>Inverter Welding Machines</li><li>Mastics</li><li>Sealants</li><li>Pipeline Adhesives</li><li>Welding inspection tools</li><li>Welding supplies</li><li>Bearings</li><li>Seals</li><li>Fibreglass piping  (flanges, pipes)</li></ul></div></div></div><div class=\"et_pb_column et_pb_column_1_2 et_pb_column_4 et_pb_css_mix_blend_mode_passthrough et-last-child\"><div class=\"et_pb_module et_pb_text et_pb_text_3 et_pb_text_align_left et_pb_bg_layout_light\"><div class=\"et_pb_text_inner\"> </div></div></div></div><div class=\"et_pb_row et_pb_row_3\"><div class=\"et_pb_column et_pb_column_4_4 et_pb_column_5 et_pb_css_mix_blend_mode_passthrough et-last-child\"><div class=\"et_pb_module et_pb_text et_pb_text_4 et_pb_text_align_left et_pb_bg_layout_light\"> </div></div></div>"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "1845406",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "ec724d6",
+           "html": "<div class=\"et_pb_row et_pb_row_1\"><div class=\"et_pb_column et_pb_column_4_4 et_pb_column_2 et_pb_css_mix_blend_mode_passthrough et-last-child\"><div class=\"et_pb_module et_pb_text et_pb_text_1 et_pb_text_align_left et_pb_bg_layout_light\"><div class=\"et_pb_text_inner\"><div class=\"et_pb_row et_pb_row_2\" style=\"text-align: left;\"><div class=\"et_pb_column et_pb_column_1_2 et_pb_column_4 et_pb_css_mix_blend_mode_passthrough et-last-child\"><div class=\"et_pb_module et_pb_text et_pb_text_3 et_pb_text_align_left et_pb_bg_layout_light\"><div class=\"et_pb_text_inner\"><h4>Maintenance Workshop Equipment</h4><ul><li>Lathes</li><li>Mills</li><li>Drills</li><li>Shaping machines</li></ul><h4>Well Head Equipment</h4><ul><li>Well Heads</li><li>Pack-off Flanges</li><li>Slips &amp; Secondary Seals</li><li>Casing Spools</li><li>Casing Head Housings</li><li>Tubing Heads</li><li>Well Head Christmas Trees</li><li>All types of valves</li></ul><h4>Drilling Equipment</h4><ul><li>Drawworks, from complete systems to spare parts, including<ul><li>Crown Blocks</li><li>Hook Blocks</li><li>Swivels</li><li>Rotary Tables</li></ul></li><li>Desanders</li><li>Shale Shakers</li><li>Mud Pumps &amp; Systems</li><li>Rotary Drilling and Vibrator Hoses</li><li>Unions, including<ul><li>Non Aligned Screwed Unions (RON)</li><li>Quick Unions</li><li>Swivel Unions</li></ul></li><li>Blowout Preventer’s and Manifolds of all types</li><li>Hydraulic Control Units</li><li>Cementing and Fracturing Units</li></ul></div></div></div></div><div class=\"et_pb_row et_pb_row_3\"><div class=\"et_pb_column et_pb_column_4_4 et_pb_column_5 et_pb_css_mix_blend_mode_passthrough et-last-child\"><div class=\"et_pb_module et_pb_text et_pb_text_4 et_pb_text_align_left et_pb_bg_layout_light\"><div class=\"et_pb_text_inner\"><p style=\"text-align: left;\"> </p></div></div></div></div></div></div></div></div>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

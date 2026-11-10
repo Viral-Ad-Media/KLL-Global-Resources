@@ -1,0 +1,47 @@
+{
+ "elementorId": "1031",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "4dbf3ef",
+   "ids": {
+    "card": "7d79c39d",
+    "side": "318fb62a",
+    "eyebrow": "5d1a7910",
+    "title": "74b64c5",
+    "intro": "13a9d09a"
+   },
+   "eyebrow": "<p>KLL GLOBAL SECTORS</p>",
+   "title": "Building confidence in construction.",
+   "intro": "<p>Here to help your business grow without compromising safety or the environment</p>",
+   "image": "/wp-content/uploads/2020/05/scott-blake-x-ghf9LjrVg-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "465ac755",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "9b45ed7",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "75c424be",
+       "tag": "h3",
+       "text": "From the realm of digital construction to a very real-world housing crisis, we're helping the industry advance."
+      },
+      {
+       "type": "text",
+       "id": "14833398",
+       "html": "<p class=\"desktop-center\">For new technologies to be adopted, often they need the assurance of a third-party. We saw this need in construction, and are now using our decades of expertise assessing systems and products to help the industry in the same way.</p><p class=\"desktop-center\">From our industry-leading Building Information Modelling Level 2 certification, to our innovative Buildoffsite Property Assurance scheme (BOPAS), KLL is focused on helping construction companies assure their stakeholders of performance and safety.</p>"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

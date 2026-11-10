@@ -1,0 +1,62 @@
+{
+ "elementorId": "1199",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "4ceaed05",
+   "ids": {
+    "card": "4ad5a27f",
+    "side": "523d6979",
+    "eyebrow": "39df946c",
+    "title": "6d404358",
+    "intro": "2ea9becb"
+   },
+   "eyebrow": "WAVE &amp; TIDAL",
+   "title": "Harnessing power from the sea.",
+   "intro": "We’ve been actively involved in developing and deploying some of the sector’s most innovative projects",
+   "image": "/wp-content/uploads/2020/05/adam-azim-Ed2Fq0VXsCA-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "67f1a5b3",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "66b16df1",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "582973",
+       "tag": "h3",
+       "text": "World class expertise to advance your project"
+      },
+      {
+       "type": "text",
+       "id": "62d00cbe",
+       "html": "Wave and tidal energy technologies have great potential, and benefit from abundance and predictability. Although much of the technology has not yet matured, a number of projects are being commercialised and recent developments have been encouraging. \n\nWe have been actively involved in developing and deploying some of the sector’s most innovative projects, through research and client projects. Our team includes a number of renowned Renewables experts, who have worked on ground-breaking and complex projects for the industry’s most ambitious and successful organisations. \n\nIntegrating technical and commercial disciplines is one of the key factors in our successful track record of delivery. We also offer maximum expertise by retaining in-house skills common to all projects (commercial, electrical, survey, geological, geophysical, geotechnical) and partnering for expertise specific to certain technologies. \n\nOur services include Technology qualification, Site assessment, Risk management, Grid connections, Certification &amp; inspection, Performance optimisation and Technical adjudication."
+      },
+      {
+       "type": "spacer",
+       "id": "8656b62"
+      },
+      {
+       "type": "heading",
+       "id": "6fff0e5f",
+       "tag": "h3",
+       "text": "How we can help"
+      },
+      {
+       "type": "text",
+       "id": "37795879",
+       "html": "We apply our expert solutions and independence to assure the integrity, reliability and success of every aspect of your operation. Helping maximise productivity and recovery, reduce operating costs, mitigate risk and demonstrate compliance with government regulations, industry codes and standards, many of which we have helped to develop."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

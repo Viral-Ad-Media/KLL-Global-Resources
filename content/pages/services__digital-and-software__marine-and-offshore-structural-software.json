@@ -1,0 +1,132 @@
+{
+ "elementorId": "1337",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "boxed",
+   "id": "28f634f2",
+   "ids": {
+    "column": "7000a98a",
+    "inner": "348b69e5",
+    "card": "5bce58a5",
+    "spacer": "43104c9c",
+    "eyebrow": "754af337",
+    "title": "32eec048",
+    "intro": "680cbc5c"
+   },
+   "eyebrow": "MARINE AND OFFSHORE STRUCTURAL SOFTWARE",
+   "title": "Safeguarding vessel design and operation.",
+   "intro": "Our Marine and Offshore Structural Software suite quickly and reliably verifies regulatory compliance and safe operation.",
+   "image": "/wp-content/uploads/2020/05/marine-structural-suite-bmkmp7.jpg"
+  },
+  {
+   "type": "section",
+   "id": "52ddfd4f",
+   "columns": [
+    {
+     "type": "column",
+     "id": "3bd9197d",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "76e8d25b",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "8ec6eae",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "e481123",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "750c2c93",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "48e9629",
+           "html": "Shipbuilders, designers, marine equipment manufacturers, vessel operators and onboard crew, all need to plan and operate efficiently in a highly competitive market. Our Marine and Offshore Structural Software suite applies sophisticated digital technology to help them safely comply with relevant standards, while optimising vessel performance and minimising costs."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "784c72f0",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "5527da85",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "35ebd148",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "16a27e0f",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "4c6d5ad8",
+           "html": "Our powerful team of five Marine and Offshore Structural Software applications has the skills to help verify ship design and operations comply with KLL Rules and other industry regulations. Incorporating sophisticated technology like Finite Element Analysis, they replace traditional manual methods with automated digital processes."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "d753e8d",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "bdeb7ac",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "43c9e05",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "4a9f0d6",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "b38a477",
+           "html": "We are the leading international provider of classification, compliance and consultancy services to the marine industry. Our products, services and digital innovation help clients design, construct and operate their assets to the highest levels of safety and performance."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

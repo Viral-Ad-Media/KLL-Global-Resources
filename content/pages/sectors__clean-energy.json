@@ -1,0 +1,47 @@
+{
+ "elementorId": "1034",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "7102935e",
+   "ids": {
+    "card": "62257419",
+    "side": "49ca7a2e",
+    "eyebrow": "155751b1",
+    "title": "44a98ee8",
+    "intro": "19520fa1"
+   },
+   "eyebrow": "CLEAN ENERGY",
+   "title": "Powering the growth of low carbon energy.",
+   "intro": "We have expertise across the sector, including nuclear power, offshore wind, onshore wind, solar, wave &amp; tidal and energy storage.",
+   "image": "/wp-content/uploads/2020/05/appolinary-kalashnikova-WYGhTLym344-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "12cb9956",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "28f8b469",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "25ac5c46",
+       "tag": "h3",
+       "text": "World class services across the lifecycle of your project"
+      },
+      {
+       "type": "text",
+       "id": "88ceae9",
+       "html": "<p class=\"desktop-center\">We are uniquely placed to support your energy project. Along with our marine industry heritage, we draw on decades of experience in energy. We have helped to shape and grow the energy sector through supporting client projects as well as research and technology advancement.</p><p class=\"desktop-center\">Our team includes a number of renowned energy experts, who have worked on ground-breaking and complex projects for the industry’s most ambitious and successful organisations. We have expertise across the sector, including nuclear power, offshore wind, onshore wind, solar, wave &amp; tidal and energy storage.</p><h3 style=\"text-align: left;\">Services</h3><ul><li style=\"text-align: left;\">Site assessment</li><li style=\"text-align: left;\">Bid support</li><li style=\"text-align: left;\">Energy resource assessment</li><li style=\"text-align: left;\">Risk management</li><li style=\"text-align: left;\">Grid connections</li><li style=\"text-align: left;\">Certification &amp; classification</li><li style=\"text-align: left;\">Performance optimisation &amp; failure analysis</li><li style=\"text-align: left;\">Owner’s engineer</li><li style=\"text-align: left;\">Technology qualification</li><li style=\"text-align: left;\">Nuclear safety assessment &amp; licensing</li><li style=\"text-align: left;\">Nuclear decommissioning &amp; waste management</li><li style=\"text-align: left;\">Nuclear Academy (training)</li></ul>"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,160 @@
+{
+ "elementorId": "1440",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "plain",
+   "id": "788498ac",
+   "ids": {
+    "card": "50b039bf",
+    "eyebrow": "20657c87",
+    "title": "82fde70",
+    "intro": "674ce9e4"
+   },
+   "eyebrow": "SHIP PERFORMANCE",
+   "title": "Delivering performance that works for you.",
+   "intro": "KLL’s Ship Performance team can help you gain improvements in your profitability, as well as in your ability to comply with the environmental regulations necessary to trade in today’s world and that of tomorrow."
+  },
+  {
+   "type": "section",
+   "id": "2eb82293",
+   "columns": [
+    {
+     "type": "column",
+     "id": "255e7659",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "6c4b27f",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "7536ef09",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "ef4b19b",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "222654e8",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "51783fb6",
+           "html": "<p>Whether you are engaged in a new-build programme or are already operating, your ships do not need to be classed with us to benefit from our expertise in providing solutions that optimise the energy efficiency and sustainability of your ships and give you the biggest possible return in improved performance, whatever your ship type.</p><p>Challenge us with your energy efficiency and sustainability targets and our Ship Performance team will work with you, providing a range of consultancy services to improve ship energy efficiency and sustainability through design, deployment of technology and changes in operation.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "722788be",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "15a21772",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "c81fe95",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "356a0a61",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "386fff6d",
+           "html": "<p>Our experienced team of naval architects, engineers and data analysts employs a range of state-of-the-art software tools, such as advanced numerical modelling, onboard data acquisition and data analytics – backed by LR’s extensive performance database – to deliver solutions that are targeted precisely to your specific challenges in order to deliver maximum value. </p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "23dc28f",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "ba7ed3d",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "8195663",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "0e0a7c6",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "ae07b24",
+           "html": "<p>We can help you make the right choices by providing an understanding of the challenges, combined with a deep knowledge of the regulatory and commercial issues that can affect practical solution deployment.</p><p>Our independent experts offer you the confidence that the solutions developed will deliver the stated return on investment.</p><p>Solutions are backed by LR’s comprehensive network of engineers, naval architects and surveyors located around the world, so you are never far from a local and responsive service. </p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "699d266",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "cb1318a",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "89c7aa5",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "e759ad4",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "68b7a40",
+           "html": "<p>We have a unique set of capabilities in the area of ship efficiency and sustainability developed over years of serving the international shipping industry. From 70 years of experience attending ships to undertake investigations and perform targeted measurement campaigns, to a highly respected reputation in Computational Fluid Dynamics (CFD) simulations and being in a leading position in ship-scale CFD.</p><p>Our Ship Performance team meets your challenges of ship energy efficiency and sustainability with a holistic approach. Integrating efficient processes, effective information exchange and innovative thinking alongside leading-edge technology such as; advanced computer simulation (CFD and FEA), optimisation, remote performance monitoring, data analytics, software development, model testing and 3D ship design. All of which is underpinned by access to KLL’s extensive database of ship performance.</p><p>This means we can develop individual solutions appropriate to any ship, at any stage of its lifecycle, and deliver them rapidly and with maximum value to you.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

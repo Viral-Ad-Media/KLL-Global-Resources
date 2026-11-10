@@ -1,0 +1,38 @@
+[
+ {
+  "from": "services/assurance/risk-assurance",
+  "to": "services/consulting/risk-management"
+ },
+ {
+  "from": "services/assurance/assurance-for-drilling-operators",
+  "to": "services/consulting/drilling-integrity"
+ },
+ {
+  "from": "services/inspection/pressure-vessels-boilers-and-accessories",
+  "to": "sectors/manufacturing/pressure-vessels-and-boilers"
+ },
+ {
+  "from": "services/inspection/nuclear",
+  "to": "sectors/clean-energy/nuclear-power"
+ },
+ {
+  "from": "services/digital-and-software/vendor-passport",
+  "to": "supply-chain-inspection/supplhi-and-the-vendor-passport"
+ },
+ {
+  "from": "solutions/safe-decommissioning-of-assets",
+  "to": "services/consulting/decommissioning"
+ },
+ {
+  "from": "solutions/business-improvement-lean-operations",
+  "to": "services/assurance/customised-assurance"
+ },
+ {
+  "from": "services/inspection/cranes-lifting-equipment",
+  "to": "sectors/manufacturing/cranes-and-lifting-equipment"
+ },
+ {
+  "from": "services/inspection/marine",
+  "to": "sectors/manufacturing/components-and-systems-for-vessels"
+ }
+]

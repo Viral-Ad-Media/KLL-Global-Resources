@@ -1,0 +1,160 @@
+{
+ "elementorId": "1467",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "plain",
+   "id": "456b84f9",
+   "ids": {
+    "card": "6526c689",
+    "eyebrow": "7a23f42e",
+    "title": "2c714efc",
+    "intro": "52491292"
+   },
+   "eyebrow": "MARINE TECHNICAL AND FAILURE INVESTIGATION (TFI)",
+   "title": "When failure strikes, it's good to know you're in safe hands.",
+   "intro": "Providing world-class Technical and Failure Investigation (TFI) services, KLL’s Technical Investigation Department accurately assesses your failure and provides the correct solutions to get your ship back in service quickly and prevent recurrence."
+  },
+  {
+   "type": "section",
+   "id": "3bdf4b5a",
+   "columns": [
+    {
+     "type": "column",
+     "id": "9c21d3",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "30df0bfc",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "5dd597da",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "4bc398ca",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "8e0db6d",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "38d4a23c",
+           "html": "<p>Serious failure can often lead to unplanned periods off-hire and inability to meet contractual terms. Many ship repair yards do not have the necessary equipment or knowledge and experience to carry out the engineering assessments and evaluation of systems and component failures to help you minimise the downtime.</p><p>Choosing our Technical Investigation Department (TID) to carry out the investigation means access to highly qualified engineers and a department with over 60 years of experience dealing with numerous types of failure investigations throughout the world.</p><p>Our Technical and Failure Investigation (TFI) utilises core engineering skills to identify and understand the root cause of failure, providing you with customised solutions that allow recovery back to operation as part of a rapid response service.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "10dad138",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "728b9246",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "7f754fbb",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "4b52e271",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "5322eb2e",
+           "html": "<p>Our independent experts will attend your ship to investigate the failure first-hand and collect evidence. Shore-side, we undertake further analytical investigation of the collected information, including metallurgical examination of components and desktop analyses as appropriate.</p><p>We are typically involved with work that includes main propulsion shaft alignment and other machinery such as diesel engines, electric motors, shafting, gearing, dampers, couplings and propellers, noise and vibration investigations, as well as a wide range of technical investigations using computer-based analytical methods.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "87286ed",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "dddf8f5",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "082da4a",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "90f3bc8",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "031caf3",
+           "html": "<p>Depending on the criticality of a component, failure can cause costly repairs and downtime. Establishing the cause and identifying remedial action allows you to return your ship to a fully operational state as quickly as possible, reducing downtime. Identifying the root cause of failure also enables us to outline how to prevent recurrence, saving you further time and money.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "bc6b439",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "da09662",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "a687818",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "50acd65",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "ab7098b",
+           "html": "<p>Our TID’s reputation and expertise is unrivalled in the marine industry, with over 60 years of accumulated knowledge of failures and experience in interpretation using established engineering principles.</p><p>With engineers based in Miami, Busan and Southampton, as well as our own metallurgical testing laboratories and a highly skilled, mobile team of engineers we can respond to your urgent needs, wherever you are in the world, and provide timely and expert assistance.</p><p>To provide you and your stakeholders assurance that associated hazards and risks have been identified and mitigation incorporated into the design, bringing the risks to an acceptable level, we also have a Risk Team section to complement our TFI service. Our Risk Team has over 20 years of experience in carrying out various types of risk assessments including HAZID, HAZOP, FMEA, RCM, RCA with particular emphasis on LNG related technologies. Our team carries out qualitative and quantitative risk assessments for various projects including LNG plant infrastructure, LNG bunkering facilities, FSRU’s, alternative fuel technologies, cyber-enabled technologies and various other marine and offshore related infrastructure.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

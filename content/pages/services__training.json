@@ -1,0 +1,125 @@
+{
+ "elementorId": "1138",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "plain",
+   "id": "3bbb45eb",
+   "ids": {
+    "card": "7037b434",
+    "eyebrow": "68abd73d",
+    "title": "55badbd3",
+    "intro": "30bef847"
+   },
+   "eyebrow": "TRAINING COURSES",
+   "title": "Helping businesses push forward.",
+   "intro": "We help businesses and individuals across the globe continually improve with our scheduled and bespoke training courses"
+  },
+  {
+   "type": "section",
+   "id": "119cd98",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "19804c6c",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "6ef533b0",
+       "tag": "h3",
+       "text": "What we provide to you"
+      },
+      {
+       "type": "section",
+       "id": "2477a057",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "5e6daa68",
+         "size": "33",
+         "elements": [
+          {
+           "type": "image-box",
+           "id": "1f6e0595",
+           "classes": [
+            "elementor-position-top"
+           ],
+           "image": {
+            "alt": "One",
+            "class": "attachment-full size-full wp-image-97",
+            "decoding": "async",
+            "height": "75",
+            "loading": "lazy",
+            "src": "/wp-content/uploads/2017/08/law-icon06-1-free-img.png",
+            "width": "75"
+           },
+           "titleTag": "h3",
+           "title": "Expert trainers",
+           "description": "Our team have a wealth of industry knowledge to share with you"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "6a733a93",
+         "size": "33",
+         "elements": [
+          {
+           "type": "image-box",
+           "id": "645d6e14",
+           "classes": [
+            "elementor-position-top"
+           ],
+           "image": {
+            "alt": "",
+            "class": "attachment-full size-full wp-image-913",
+            "decoding": "async",
+            "height": "75",
+            "loading": "lazy",
+            "src": "/wp-content/uploads/2020/04/law-icon07-1-free-img.png",
+            "width": "75"
+           },
+           "titleTag": "h3",
+           "title": "Flexibility",
+           "description": "You can attend a scheduled course or have bespoke training on site"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "12425fd",
+         "size": "33",
+         "elements": [
+          {
+           "type": "image-box",
+           "id": "40a0af19",
+           "classes": [
+            "elementor-position-top"
+           ],
+           "image": {
+            "alt": "Three",
+            "class": "attachment-full size-full wp-image-99",
+            "decoding": "async",
+            "height": "75",
+            "loading": "lazy",
+            "src": "/wp-content/uploads/2017/08/law-icon08-1-free-img.png",
+            "width": "75"
+           },
+           "titleTag": "h3",
+           "title": "Support",
+           "description": "As part of any training you will receive supporting material and regular updates"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

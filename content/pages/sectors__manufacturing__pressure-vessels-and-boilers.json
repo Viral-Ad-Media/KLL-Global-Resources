@@ -1,0 +1,47 @@
+{
+ "elementorId": "1247",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "555ea9ca",
+   "ids": {
+    "card": "436b964c",
+    "side": "3517cfba",
+    "eyebrow": "506c7707",
+    "title": "7029ef04",
+    "intro": "78aa7286"
+   },
+   "eyebrow": "PRESSURE VESSELS AND BOILERS",
+   "title": "From design to delivery, we know pressure.",
+   "intro": "Trust us with your certification process.",
+   "image": "/wp-content/uploads/2020/05/is-gas-boilers-1920x785-1.jpg"
+  },
+  {
+   "type": "section",
+   "id": "3cb6a09",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "74b9d5ba",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "67720ac4",
+       "tag": "h3",
+       "text": "Bid, quote and sell your pressure vessels and boilers with confidence."
+      },
+      {
+       "type": "text",
+       "id": "3f22adcf",
+       "html": "Boiler and pressure equipment inspection and certification requirements are different around the world. We have the knowledge and global approvals you need to make sure your equipment is ready to ship.\n\nYou can explore our services by country and region of destination, or by the code, standard or regulation itself."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

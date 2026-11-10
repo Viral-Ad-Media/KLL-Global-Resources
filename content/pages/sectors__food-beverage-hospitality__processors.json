@@ -1,0 +1,47 @@
+{
+ "elementorId": "1222",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "210537ef",
+   "ids": {
+    "card": "775fa833",
+    "side": "54538508",
+    "eyebrow": "40927952",
+    "title": "39e229e5",
+    "intro": "1924fd6"
+   },
+   "eyebrow": "PROCESSORS",
+   "title": "Customised assurance &amp; brand protection for processors.",
+   "intro": "With consumer and retailer demands for safe, high quality food produced in a sustainable and ethical way driving change across the supply chain, ensuring your business has the right compliance partner is more important than ever.",
+   "image": "/wp-content/uploads/2020/05/mike-kenneally-TD4DBagg2wE-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "43994025",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "279e1f47",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "337a1b7",
+       "tag": "h2",
+       "text": "Your food supply chain is only as strong as its weakest link."
+      },
+      {
+       "type": "text",
+       "id": "12275125",
+       "html": "ears ago, food safety was the primary concern on the factory floor. Today, the ever-evolving nature of the global supply chain means sustainability, traceability and ethical trading all need to be addressed to satisfy stakeholders.\n\nSimilarly, in an age where social media can drive global trends or destroy reputations almost immediately, ensuring you operate in an environment where you are able to reduce risk to the lowest level possible is essential for your brand and business.\n\nMeeting these requirements isn’t easy, but if you partner with the right assurance provider your business can reduce its audit burden and benefit from a more robust audit programme."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

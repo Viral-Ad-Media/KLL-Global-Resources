@@ -1,0 +1,162 @@
+{
+ "elementorId": "1425",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "4a5636a1",
+   "ids": {
+    "card": "6d800fd1",
+    "side": "809724b",
+    "eyebrow": "767e858f",
+    "title": "5c1776b2",
+    "intro": "6ee6f5c5"
+   },
+   "eyebrow": "DECOMMISSIONING SERVICES",
+   "title": "Decommissioning that’s not detrimental.",
+   "intro": "Whether you’re moving your operations into late life and decommissioning or a regulator looking to develop jurisdictional guidance, we help you navigate the regulatory and technical complexities.",
+   "image": "/wp-content/uploads/2020/05/adam-azim-Ed2Fq0VXsCA-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "3fc697a6",
+   "columns": [
+    {
+     "type": "column",
+     "id": "52b615b8",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "6cf18604",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "79ccf673",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "341cd7c",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "5f97c91e",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "673ea930",
+           "html": "<p>At KLL, we recognise that the capital cost of decommissioning has little to no return on investment for you, so project efficiency, regulatory compliance and achieving cost certainty in execution activities is fundamental. </p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "28ada41",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "3508a5af",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "2e32bdcf",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "1144e76c",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "6efcecb1",
+           "html": "<p>After years of production, the move from late life management to the decommissioning of assets can be a daunting prospect, with the challenges of project scale, cost, capability and regulatory compliance. </p><p>We help you navigate the regulatory and technical complexities of late life operations and decommissioning of offshore and onshore assets and pipelines, from CoP preparation, planning and surveys, to plug and abandonment, waste management and monitoring post removal. </p><p>Whether you’re looking to evaluate decommissioning liability, identify the best environmental option for removal, or at ship recycling, our unrivalled expertise spans the entire decommissioning process.  We help you drive significant cost savings, improve project efficiency, reduce risk and safely decommission assets and facilities.</p><p>We’ve also formed a global decommissioning consortium, with WorleyParsons and Ardent. Bringing together 350 years of collective experience to reduce the interfaces, costs and risks of decommissioning. Discover more on the consortium here.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "9589713",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "9b716ff",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "6a892cc",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "88e7f6f",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "d37f266",
+           "html": "<ul>\n<li>Optimise operational efficiency</li>\n<li>Informed decommissioning strategies and schedules</li>\n<li>Minimise operational (OPEX) and capital (CAPEX) expenditure</li>\n<li>Optimise decommissioning spend</li>\n<li>Project efficiency</li>\n<li>Best practice adherence</li>\n<li>Understand and reduce risk</li>\n<li>Regulatory compliance</li>\n</ul>\n "
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "40d3547",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "d2d1327",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "0b4b193",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "6e3b216",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "b17341a",
+           "html": "<p>Our engineering and technical prowess and expertise in legislation and regulatory compliance allows us to deliver late life management and decommissioning solutions that ensure you don’t over spend, over-engineer, over-run or expose yourself to long-term unknown liabilities and risk. We’re experts in subsurface engineering, wells engineering, asset integrity and risk management and have a track record in late life management and decommissioning that spans both oil &amp; gas and nuclear.</p><p>We have also formed a new consortium with industry leaders WorleyParsons and Ardent to deliver you a fully managed end to end solution. Underpinned by our unrivalled expertise and unique ability to take well operatorship, duty holdership and title, we help you reduce the risk and cost of decommissioning whilst safeguarding your reputation. Discover more on how we can help you reduce your decommissionig burden  <a href=\"https://www.lr.org/en/latest-news/new-decommissioning-consortium/\" title=\"Decom consortium\">here</a>.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

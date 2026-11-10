@@ -1,0 +1,58 @@
+{
+ "elementorId": "1172",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "213db6af",
+   "ids": {
+    "card": "206c9790",
+    "side": "2ef65dbf",
+    "eyebrow": "20709502",
+    "title": "65bef5e0",
+    "intro": "1189a6b5"
+   },
+   "eyebrow": "OFFSHORE WIND",
+   "title": "Transformation is in the wind.",
+   "intro": "<p>There is no single answer to our global energy, efficiency and environmental needs. But what is inarguable is the urgent need to accelerate our transition into a low carbon world.</p>",
+   "image": "/wp-content/uploads/2020/05/nicholas-doherty-I40IxW_BUjU-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "48dc304d",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "426b06f4",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "708f4ee7",
+       "tag": "h3",
+       "text": "Why KLL GLOBAL?"
+      },
+      {
+       "type": "text",
+       "id": "63fe0b72",
+       "html": "<p class=\"desktop-center\">Offshore wind has seen dramatic growth in recent years – and will continue to be a critical part of the energy mix for decades to come. </p><p class=\"desktop-center\">We solve complex problems for offshore wind investors, developers and operators of fixed and floating wind farms. With our broad range of expertise, we can reduce technical, operational and commercial risks while enhancing asset performance.</p>"
+      },
+      {
+       "type": "heading",
+       "id": "97b264b",
+       "tag": "h3",
+       "text": "Services"
+      },
+      {
+       "type": "text",
+       "id": "45016eb",
+       "html": "<p style=\"text-align: left;\">Site assessment<br/>Bid support<br/>Energy resource assessment<br/>Risk management<br/>Grid connections<br/>Certification &amp; classification<br/>Performance optimisation &amp; failure analysis<br/>Owner’s engineer<br/>Technology qualification</p>"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
