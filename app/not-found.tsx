@@ -1,4 +1,7 @@
+import type { Metadata } from 'next';
 import Link from 'next/link';
+
+export const metadata: Metadata = { title: 'Page not found | KLL Global Resources, LLC' };
 
 export default function NotFound() {
   return (

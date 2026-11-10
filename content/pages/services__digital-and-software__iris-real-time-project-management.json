@@ -1,0 +1,162 @@
+{
+ "elementorId": "1397",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "4a31059b",
+   "ids": {
+    "card": "6dfd0cd5",
+    "side": "170e4bf2",
+    "eyebrow": "1f2ba4e",
+    "title": "72397082",
+    "intro": "2d49f31e"
+   },
+   "eyebrow": "IRIS PROJECT MANAGEMENT PLATFORM",
+   "title": "Bring your offshore projects into focus.",
+   "intro": "IRIS delivers a clear, real-time view of project status and progress, helping you optimally manage offshore operations.",
+   "image": "/wp-content/uploads/2020/05/jason-blackeye-nyL-rzwP-Mk-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "7e2afaf4",
+   "columns": [
+    {
+     "type": "column",
+     "id": "39336485",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "7e189852",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "11e6f150",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "43b17cd1",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "16b6bf87",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "307b3972",
+           "html": "Whether it’s oil and gas platform maintenance or a windfarm installation, it is vital to keep crews and assets safe, productive and under complete control. Our IRIS project management platform makes your remote offshore operations visible. It brings a wealth of reference data together with your own information to give the most complete picture of every project."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "4d2dcadf",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "6559e322",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "65352b6f",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "10512e07",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "4db1100a",
+           "html": "IRIS’s browser-accessed portal securely gathers and stores all your current and historical project data. From vessel tracking to weather forecasts, its real-time reports and dashboards keep your finger on your project’s pulse."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "2bf4bf3",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "b11c807",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "940f621",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "e8edcf9",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "67f6f63",
+           "html": "<p>Global marine mapping compiled from over 600 data sets lies at IRIS’s heart, supporting live vessel tracking for marine coordination. There’s rich global metocean data – current observations, marine forecasts and a decade’s worth of legacy information. IRIS takes care of your information – updating and rebuilding reference data nightly.</p><p>IRIS absorbs and displays streams of client data from asset sensors, whether it’s helicopter tracking, kilometres surveyed or the speed of a cable trencher. Store and access anything from subsea infrastructure CAD files to pipeline inspection videos in the open database.</p><p>As your project data accumulates, analyse and report to build a clear picture of HSEQ statistics, costs and other performance metrics. By understanding what’s happened – and what’s happening right now – IRIS helps you see how to safeguard operations and make accurate and efficient decisions.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "83e0cee",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "ed2545f",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "71b9463",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "54424d9",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "9f8efb7",
+           "html": "We have been supporting offshore operations for more than two centuries. From specialist software to project management and compliance, we have a wealth of independent expertise and experience. Enhance that with our latest digital technologies and it gives us an unrivalled capability to help you deliver your projects."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

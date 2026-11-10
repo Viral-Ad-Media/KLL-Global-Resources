@@ -1,0 +1,194 @@
+{
+ "elementorId": "1601",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "77e2428b",
+   "ids": {
+    "card": "7c0a6f89",
+    "side": "752a9476",
+    "eyebrow": "7c7f0774",
+    "title": "270ca279",
+    "intro": "73a26703"
+   },
+   "eyebrow": "SUPPLHI AND THE VENDOR PASSPORT",
+   "title": "Making it easier to connect buyers with qualified vendors.",
+   "intro": "Not sure who can deliver the goods? Let our Vendor Passport be your guide.",
+   "image": "/wp-content/uploads/2020/05/science-in-hd-4F_EBY__6II-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "51a97aff",
+   "columns": [
+    {
+     "type": "column",
+     "id": "5fde3180",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "78a65e4f",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "7f2a53da",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "39951dea",
+           "tag": "h3",
+           "text": "What is SupplHi?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "1d450087",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "1952713b",
+           "html": "<p>The SupplHi  platform is unique in that it provides a detailed categorisation system for vendors.</p><p><strong>For buyers,</strong> that means finding specific vendors quickly, using a system of more than 2,000 categories of equipment and services.</p><p><strong>For vendors,</strong> that means more visibility  with global buyers, as well as access to  more opportunities.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "12ab516",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "78d79d8a",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "57f83a5e",
+           "tag": "h3",
+           "text": "What is the Vendor Passport?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "6da56beb",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "6a08f19",
+           "html": "<p>The Vendor Passport<sup>TM</sup> (VP) gives another level of assurance to buyers. Through this independent scheme, KLL surveyors personally visit and assess the vendor for their categories of equipment.</p><p><img alt=\"Vendor Passport logo\" decoding=\"async\" height=\"102\" loading=\"lazy\" src=\"https://www.lr.org/495f16/globalassets/_shared-images/non-standard-social-tab-alt-opengraph-image-with-caption-alt-desktopmobile-rich-text-inline/inspection-services/is-vendor-passport-logo-300.png\" width=\"300\"/></p><p>The VP is a standard assessment and qualification process . It’s based on international vendor qualification best practices, built through an intense benchmarking of more than 80 existing qualification processes by leading end-users, EPC’s and technology owners. </p><p>KLL inspectors assess vendors in several areas, including:</p><ul><li>Manufacturing/fabrication</li><li>Quality</li><li>Engineering</li><li>Procurement</li><li>Project management</li><li>Health, Safety and Environment factors (HSE)</li><li>Site activities</li><li>Logistics</li><li>Strategy</li><li>Risk and opportunity management</li><li>Organisation and HR</li><li>Finance</li><li>Corporate Social Responsibility and compliance </li></ul>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "749a13e",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "28c13be",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "0ff1bea",
+           "tag": "h3",
+           "text": "Benefits for buyers"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "e640718",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "613cdb1",
+           "html": "<p>The Vendor Passport<sup>TM </sup>simplifies your vendor management process, frees up time of your senior resources and ultimately saves you money.</p><p>Our VP can supplement your vendor registration process “out of the box.” For companies with specific needs, we can customise the VP, or design one for businesses without a standard supplier approval process. </p><p>The VPs are delivered online through SupplHi – a common digital platform available to your team around the world. It places vendors into more than 2,250 categories, producing a common “language” that makes it easier to find the exact vendor you need.</p><p>The combination of expertise and deep domain knowledge across LR and SupplHi gives customers access to valuable benefits which innovate the traditional purchase qualification process.</p><ul><li><strong>Comparability of suppliers</strong> – based on detailed and accurate categorisation of supplies</li><li><strong>Global scale</strong> – connecting buyers and vendors through a single digital platform</li><li><strong>Peace of mind</strong> – leveraging consistent quality assurance standards developed with LR</li><li><strong>Reduced cost</strong> across the entire purchasing process</li></ul>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "ac3ade3",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "ee44992",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "c78ad70",
+           "tag": "h3",
+           "text": "Benefits for vendors"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "55304ef",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "eae112f",
+           "html": "<ul><li><strong>Gain more opportunities</strong> – Vendors are visible to and qualified by multiple buyers on a global level. Vendors with the VP are marked as such on the SupplHi platform.</li><li><strong>Reduce costs on qualification processes </strong>–  Vendor reduce time and costs allocated to client qualifications and assessment visits. Each VP is valid for two years. </li><li><strong>Achieve higher performance </strong>– Vendors can assess their own capabilities, improving them and tracking their progress. The findings of a VP can be addressed by the vendor as part of its continuous improvement process, and are the focus of the Vendor Passport update that is delivered at the end of the first year,. </li><li><strong>Be recognised as an industry leader </strong>–<strong> </strong>Oil and gas, power, chemical, and shipbuilding industries require constant international visibility to benefit from opportunities available on a global level.</li><li><strong>VP as marketing tool</strong> – The final VP report is provided in two formats to vendors – a “marketing report” that can be used with prospective buyers outside the platform, and the full report that is made available on the SupplHi platform only to registered Buyers.</li></ul>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "b0e772d",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "b7c8be6",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "b586196",
+           "tag": "h3",
+           "text": "Talk to us if..."
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "7ce0fef",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "7ca5df6",
+           "html": "<ul><li>You need to enhance and enlarge your vendor base</li><li>You want to free up the time of senior resources</li><li>You are looking for sustained cost reduction for vendor assessment activities</li><li>You want to further mitigate risk in your vendor base and promote best practices</li><li>You want to satisfy vendor compliance requirements in your sector</li></ul>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

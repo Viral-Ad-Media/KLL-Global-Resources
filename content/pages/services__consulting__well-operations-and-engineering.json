@@ -1,0 +1,160 @@
+{
+ "elementorId": "1491",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "plain",
+   "id": "7aa7b1d6",
+   "ids": {
+    "card": "68435fa1",
+    "eyebrow": "28047fd",
+    "title": "226f45",
+    "intro": "1ff19ed3"
+   },
+   "eyebrow": "WELL PROJECT MANAGEMENT AND WELL ENGINEERING EXPERTISE",
+   "title": "Your trusted partner in well delivery.",
+   "intro": "<p>Our well project management and engineering solutions helps reduce costs, bring savings of scale, and increase confidence to deliver projects on time and in budget.</p>"
+  },
+  {
+   "type": "section",
+   "id": "72f2b620",
+   "columns": [
+    {
+     "type": "column",
+     "id": "72b3b6bc",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "10a19168",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "1b7b25b8",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "3168f7b0",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "66572de5",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "7595d2e3",
+           "html": "<p>We understand the complexities of well project management, ensuring project objectives are met, projects conducted in a safe and efficient way, and all within time and budgetary constraints. We’ll work with you to understand your individual project objectives and challenges, helping you achieve success across your well operations. </p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "3c4cec39",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "69be9da4",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "2f8d8768",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "491f390b",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "72a4e63",
+           "html": "<p>As market leaders in well project management  and engineering, we provide comprehensive well project management services and well engineering expertise, both on and offshore.</p><p>Our expert staff along with our global network allow us to deliver the support you need anywhere in the world, delivering projects on time, within budget and with reduced risk and cost.   We enhance the well planning and performance of well operations, from initial conceptual well design through to well construction and ultimate suspension or abandonment. By providing unique specialist knowledge, covering all aspects of well operations, we help realise your strategic commitments so that you meet your responsibilities to investors, partners and governments.   </p><p>Our well project management and engineering expertise is further enhanced with our wide range of in-house expertise in site survey and geoengineering, rig intake and inspection, reservoir expertise, drilling integrity and risk management. Meaning we can provide a fully comprehensive offering for your well projects.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "ff676de",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "db82c00",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "7aa0f0b",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "b960ac3",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "6789fb4",
+           "html": "<ul><li>Reduce costs and bring savings of scale</li><li>Minimise non-productive time</li><li>Asset and performance optimisation</li><li>Ensure projects are conducted in a safe and efficient way</li><li>Increase access to experienced personnel</li><li>Increase confidence to deliver projects on time and in budget</li><li>Access to a wide breadth of technical excellence</li><li>Access to an extensive global skills base</li><li>Risk mitigation</li><li>Contingency planning</li></ul>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "d8f026e",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "67ba5ae",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "6f3b897",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "1a95a4c",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "800e4fe",
+           "html": "<p>With over 8 years of technical and engineering expertise at your fingertips, we can ensure your  valuable assets are fully optimised while minimising capital and operational expenditure, reducing risk, and delivering increase performance throughout your well projects.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

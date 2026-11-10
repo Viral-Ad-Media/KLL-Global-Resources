@@ -1,0 +1,162 @@
+{
+ "elementorId": "1470",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "176028b7",
+   "ids": {
+    "card": "188eb8ad",
+    "side": "2656a94b",
+    "eyebrow": "1d38fdab",
+    "title": "5a86e0c9",
+    "intro": "1027ad80"
+   },
+   "eyebrow": "SHIP RECYCLING CONSULTANCY",
+   "title": "Your partner for safe and environmentally sound ship recycling.",
+   "intro": "Our ship recycling services offer peace of mind to shipowners, operators, recycling facilities and their clients to help demonstrate their commitment to safe and environmentally sound practices at the end of a ship’s life.",
+   "image": "/wp-content/uploads/2020/05/1920x785-ship-recyclingv2.jpg"
+  },
+  {
+   "type": "section",
+   "id": "490eea33",
+   "columns": [
+    {
+     "type": "column",
+     "id": "750e1de0",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "5e13e706",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "67f7421d",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "1db61291",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "4d250453",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "52c84744",
+           "html": "<p>At KLL, we are committed to supporting safe and environmentally sound ship recycling.</p><p>We have in-depth knowledge of ship recycling legislation, standards and practices through our work at IMO, IACS and the International Ship Recycling Association (ISRA). We have represented IACS on Ship Recycling legislation at the IMO, and have made significant and ongoing contributions to the EU Regulation.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "29bb00e6",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "492e6639",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "34dfc4e",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "5c0fb6c4",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "903981e",
+           "html": "<p>Our bespoke advisory and certification services have been provided for many sensitive ship recycling projects. We work with shipowners/operators and ship recycling facilities:</p><p><strong>For shipowners:</strong> our unique Audit During Recycling service helps to provide assurance that national and international standards are met, including the downstream handling of hazardous waste.</p><p>Furthermore, we can apply our expertise to support you with all aspects of the ICS Transitional Measures, including Final Survey in accordance with the Hong Kong Convention and EU Ship Recycling Regulation, Ship Recycling Plan approval and review of the Ship Recycling Facility Plan (SRFP), helping further promote your commitment to safe and environmentally sound ship recycling.</p><p><strong>For ship recycling facilities:</strong> our comprehensive recycling facility assessment and certification services are available only to responsible recyclers, further improve standards globally. See list of our verified facilities.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "5ff2273",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "2a9b328",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "2e5d60b",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "3cc52c7",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "7141b2c",
+           "html": "<p>We can help you follow best practice, attain independent assurance that agreed standards are upheld and regulatory requirements have been met, thereby minimising potential liabilities and adverse publicity at the end of your ship’s life.</p><p>Dozens of ‘beaching facilities’ have some form of certification, implying they meet acceptable standards – proof if ever it was needed that reputable accreditation and assurance is paramount. As part of our Ship Recycling services we want to help you stand out from the crowd and help you to give your clients full confidence that end of life ships are being recycled in compliance in a safe and environmentally sound manner.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "97f6486",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "ce86991",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "f7594b5",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "cb0f1be",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "38fa660",
+           "html": "<p>With more than 5 years of experience working on recycling projects in China, Turkey, and India and a proven track record providing comprehensive SRFP, ISO 30000 assessments and certification, our ship recycling services are unrivalled and offer peace of mind to shipowners, operators, reputable recycling facilities and to their clients.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

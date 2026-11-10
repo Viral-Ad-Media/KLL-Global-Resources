@@ -1,0 +1,162 @@
+{
+ "elementorId": "1497",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "5bc2f198",
+   "ids": {
+    "card": "2ea12e8e",
+    "side": "6520fe87",
+    "eyebrow": "23d87bc4",
+    "title": "e51472e",
+    "intro": "28487eb"
+   },
+   "eyebrow": "GRID CONNECTION SERVICES",
+   "title": "Helping you ensure compliance and efficiency across your grid.",
+   "intro": "We provide power systems studies, and negotiate the connection and access standards of your generation projects to ensure a compliant but",
+   "image": "/wp-content/uploads/2020/05/matthew-henry-yETqkLnhsUI-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "812befd",
+   "columns": [
+    {
+     "type": "column",
+     "id": "a6f4ed5",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "a2cb053",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "7cc8ef1",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "1cd321d5",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "2fe7f6e3",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "361f40c8",
+           "html": "<p>As more and more renewable energy projects come online, the integration of such distributed generation of different scales has been challenging. As a result, grid connectivity can be highly complex, from technical, project and regulatory perspectives. On top of that, there is likely to be a different set of factors in every territory you operate in. We can support you through this process, with a consultancy service that quickly identifies the key issues and the best way to solve them</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "2d79748c",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "4399db77",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "35b1abf8",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "70b63762",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "36d00287",
+           "html": "<p>Markets have their own requirements, and are developing those as they manage complex power systems and negotiate the inclusion of new generation technologies of varying forms. In Australia, for example, the market operator (AEMO) requires all new generators to meet a strict set of network access standards. KLL Global is an expert provider of power systems services, developing the required Generator Performance Standards required as a connection agreement.</p><p> Across the global sector, Lloyd’s Register provides expert advice in both commercial and technical matters, using its network of contacts across market operators, NSPs, wind and solar OEMs and EPC providers, to minimise risk, compress timescales and work towards the best outcome for each and every project.</p><h3>Power systems services</h3><p>Our team of power engineering experts can quickly understand your project and requirements and help you determine the best way to achieve your goals. This might include:</p><ul><li>Connection feasibility</li><li>Connection studies (R1)</li><li>Connection negotiation</li><li>Commissioning support, hold point testing and R2 testing</li><li>Power systems model development<br/>ISO study / coordination and ISO/RTO support</li></ul><p> </p><h3>Electrical design services</h3><ul><li>Design review</li><li>Due diligence</li><li>Project management and consultant coordination</li><li>Site and access evaluation and road design</li><li>Generation feasibility analysis</li><li>Evaluation of existing infrastructure</li><li>Substations design – Project and Utility<ul><li>Primary and secondary and protection</li><li>Control systems</li><li>Specification / procurement of equipment</li><li>Start-up / commissioning support</li></ul></li><li>High voltage transmission and collector design</li><li>Route selection</li><li>Permit and regulatory support</li><li>Construction monitoring</li><li>O&amp;M and recurring ongoing support</li></ul><p><br/>For equipment providers, we develop power systems models for use in network analysis, and can test models against AEMOs and other grid dynamic acceptance criteria, providing feedback and model update strategies to ensure compliance and market acceptance.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "d38f4e6",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "52fd811",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "9695a62",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "85ce028",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "8246cb2",
+           "html": "<p>Our expert power engineering team will ensure that your project is fully compliant with network rules and the regulatory environment.</p><p>For equipment providers, we can help you to model a development that complies. For developers, we will provide project access standards that meet the rules. For EPCs, we will evidence that your commissioned projects match the connection agreement.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "b7ef8d8",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "ee7af55",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "6926e46",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "154e272",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "ce42616",
+           "html": "<p>When you choose to work with KLL, you’ll be working with a team of highly respected power engineering experts with extensive industry experience and strong technical capability.</p><p>Our combined knowledge, skills set and track record represent decades’ worth of hands-on analytical and technical expertise in the international wind and solar industries. We have a global footprint, with offices and experts all over the world and can apply our experience developed in mature renewables energy markets to those which are at an earlier stage of development.</p><p>We have helped to shape and grow the renewable energy sector with our research and technology advancement activities and we remain committed to contributing to the low carbon future.</p><p> In 2013, we acquired SGC Engineering (with over 10 years designing power systems at that time), adding to our portfolio power system design, land survey and geographic data management services underpinned by extensive engineering expertise, allowing us to provide leading solutions that help you ensure connectivity and power your business.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

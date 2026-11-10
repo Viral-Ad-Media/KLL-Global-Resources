@@ -1,0 +1,337 @@
+{
+ "elementorId": "1165",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "6014b833",
+   "ids": {
+    "card": "1d14b0b",
+    "side": "a4429a8",
+    "eyebrow": "7220da26",
+    "title": "5c6b0b9a",
+    "intro": "34357301"
+   },
+   "eyebrow": "<p>KLL GLOBAL RESOURCE, LLC</p>",
+   "title": "KLL Remote Solutions. We’re here to help you",
+   "intro": "Keeping global supply chains moving, during challenging times.",
+   "image": "/wp-content/uploads/2020/05/chuttersnap-fN603qcEA7g-unsplash-scaled.jpg"
+  },
+  {
+   "type": "section",
+   "id": "6481a8e9",
+   "contentMiddle": true,
+   "columns": [
+    {
+     "type": "column",
+     "id": "5b6ddc32",
+     "size": "33",
+     "background": true,
+     "elements": [
+      {
+       "type": "image",
+       "id": "133e20f5",
+       "image": {
+        "alt": "Person checking a smartwatch",
+        "class": "attachment-full size-full wp-image-1176",
+        "decoding": "async",
+        "fetchpriority": "high",
+        "height": "296",
+        "loading": "lazy",
+        "sizes": "(max-width: 367px) 100vw, 367px",
+        "src": "/wp-content/uploads/2020/04/4.jpg",
+        "srcset": "/wp-content/uploads/2020/04/4.jpg 367w, /wp-content/uploads/2020/04/4-300x242.jpg 300w",
+        "width": "367"
+       }
+      },
+      {
+       "type": "image",
+       "id": "22edd931",
+       "image": {
+        "alt": "Two people holding hands",
+        "class": "attachment-large size-large wp-image-834",
+        "decoding": "async",
+        "height": "240",
+        "loading": "lazy",
+        "src": "/wp-content/uploads/2020/01/court-marriage-resize.jpg",
+        "width": "230"
+       }
+      }
+     ]
+    },
+    {
+     "type": "column",
+     "id": "af9e143",
+     "size": "33",
+     "background": true,
+     "elements": [
+      {
+       "type": "image",
+       "id": "46a3068b",
+       "image": {
+        "alt": "Colleagues reviewing notes at their laptops",
+        "class": "attachment-large size-large wp-image-1719",
+        "decoding": "async",
+        "height": "500",
+        "loading": "lazy",
+        "sizes": "(max-width: 230px) 100vw, 230px",
+        "src": "/wp-content/uploads/2020/05/helloquence-5fNmWej4tAA-unsplash-1.jpg",
+        "srcset": "/wp-content/uploads/2020/05/helloquence-5fNmWej4tAA-unsplash-1.jpg 230w, /wp-content/uploads/2020/05/helloquence-5fNmWej4tAA-unsplash-1-138x300.jpg 138w",
+        "width": "230"
+       }
+      }
+     ]
+    },
+    {
+     "type": "column",
+     "id": "4add4cb",
+     "size": "33",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "644e031c",
+       "tag": "h2",
+       "text": "Why Choose KLL Global"
+      },
+      {
+       "type": "image-box",
+       "id": "6deb4bf7",
+       "classes": [
+        "elementor-position-left",
+        "elementor-vertical-align-top"
+       ],
+       "image": {
+        "alt": "",
+        "class": "attachment-full size-full wp-image-912",
+        "decoding": "async",
+        "height": "75",
+        "loading": "lazy",
+        "src": "/wp-content/uploads/2020/04/law-icon06-1-free-img.png",
+        "width": "75"
+       },
+       "titleTag": "h3",
+       "title": "Excellent Track Record.",
+       "description": "We've demonstrated a strong track record of being very disciplined."
+      },
+      {
+       "type": "image-box",
+       "id": "480e6d3a",
+       "classes": [
+        "elementor-position-left",
+        "elementor-vertical-align-top"
+       ],
+       "image": {
+        "alt": "",
+        "class": "attachment-full size-full wp-image-913",
+        "decoding": "async",
+        "height": "75",
+        "loading": "lazy",
+        "src": "/wp-content/uploads/2020/04/law-icon07-1-free-img.png",
+        "width": "75"
+       },
+       "titleTag": "h3",
+       "title": "Transparent Fees",
+       "description": "We believe in keeping our fees competitive, as a way to provide greater value to our clients. In fact, our fees are some of the lowest in the industry."
+      },
+      {
+       "type": "image-box",
+       "id": "60f98cf6",
+       "classes": [
+        "elementor-position-left",
+        "elementor-vertical-align-top"
+       ],
+       "image": {
+        "alt": "",
+        "class": "attachment-full size-full wp-image-914",
+        "decoding": "async",
+        "height": "75",
+        "loading": "lazy",
+        "src": "/wp-content/uploads/2020/04/law-icon08-1-free-img.png",
+        "width": "75"
+       },
+       "titleTag": "h3",
+       "title": "Unparalleled Customer Service",
+       "description": "Everyone here goes the extra mile to ensures your requests and deadlines, pricing, manufacturing, logistics and final documentation have the personal touch."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "17dd77f7",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "1c02ab1",
+     "size": "100",
+     "background": true,
+     "elements": [
+      {
+       "type": "heading",
+       "id": "79883d30",
+       "tag": "h3",
+       "text": "Contact us for more information."
+      },
+      {
+       "type": "button",
+       "id": "590b1ef2",
+       "classes": [
+        "elementor-align-center",
+        "elementor-mobile-align-center"
+       ],
+       "text": "Get in touch",
+       "href": "#",
+       "size": "md"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "2a196f8b",
+   "background": true,
+   "columns": [
+    {
+     "type": "column",
+     "id": "6e3c165c",
+     "size": "50",
+     "elements": [
+      {
+       "type": "spacer",
+       "id": "1ed5b228"
+      },
+      {
+       "type": "heading",
+       "id": "64f49808",
+       "tag": "h2",
+       "text": "What we offer"
+      },
+      {
+       "type": "text",
+       "id": "2e0e6a27",
+       "html": "<p style=\"text-align: left;\">We’ve been helping our customers succeed for over 8 years. We believe it all starts with focusing on the little details, leaving no stone unturned, and then implementing the solutions that make a genuine difference.</p>"
+      }
+     ]
+    },
+    {
+     "type": "column",
+     "id": "533be2ee",
+     "size": "50",
+     "elements": [
+      {
+       "type": "spacer",
+       "id": "34a46bae"
+      },
+      {
+       "type": "section",
+       "id": "7ad7cb04",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "7ad5dd06",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "5806e549",
+           "html": "<h6>SECTORS</h6>"
+          },
+          {
+           "type": "icon-list",
+           "id": "20436ed3",
+           "classes": [
+            "elementor-icon-list--layout-traditional",
+            "elementor-list-item-link-full_width"
+           ],
+           "items": [
+            {
+             "icon": "fas fa-arrow-right",
+             "text": "Energy"
+            },
+            {
+             "icon": "fas fa-arrow-right",
+             "text": "Food, Beverage &amp; Hospitality"
+            },
+            {
+             "icon": "fas fa-arrow-right",
+             "text": "Marine &amp; Shipping"
+            },
+            {
+             "icon": "fas fa-arrow-right",
+             "text": "Manufacturing industry"
+            },
+            {
+             "icon": "fas fa-arrow-right",
+             "text": "Oil &amp; Gas"
+            },
+            {
+             "icon": "fas fa-arrow-right",
+             "text": "See all sectors"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "61ea1cd1",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "242013fe",
+           "html": "<h6>SERVICES</h6>"
+          },
+          {
+           "type": "icon-list",
+           "id": "363e1bbb",
+           "classes": [
+            "elementor-icon-list--layout-traditional",
+            "elementor-list-item-link-full_width"
+           ],
+           "items": [
+            {
+             "icon": "fas fa-arrow-right",
+             "text": "Certification"
+            },
+            {
+             "icon": "fas fa-arrow-right",
+             "text": "Consulting"
+            },
+            {
+             "icon": "fas fa-arrow-right",
+             "text": "Inspection"
+            },
+            {
+             "icon": "fas fa-arrow-right",
+             "text": "Training"
+            },
+            {
+             "icon": "fas fa-arrow-right",
+             "text": "Software &amp; Digital"
+            },
+            {
+             "icon": "fas fa-arrow-right",
+             "text": "See all services"
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "spacer",
+       "id": "2191c739"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

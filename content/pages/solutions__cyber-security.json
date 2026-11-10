@@ -1,0 +1,41 @@
+{
+ "elementorId": "1083",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "41a1934a",
+   "ids": {
+    "card": "5a5d7e3a",
+    "side": "7686048c",
+    "eyebrow": "55d98116",
+    "title": "50fb0bce",
+    "intro": "14e7378c"
+   },
+   "eyebrow": "CYBER SECURITY",
+   "title": "Tackling an evolving threat.",
+   "intro": "Failure to manage cyber risks leaves your organisation open to attacks and costly data breaches.",
+   "image": "/wp-content/uploads/2020/05/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "61bab9ed",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "227686a1",
+     "size": "100",
+     "elements": [
+      {
+       "type": "text",
+       "id": "468a127c",
+       "html": "<p>The world we live in is adapting and becoming more reliant on technology and data. While this brings many positives to our personal and professional lives – it also leads us to a time of unprecedented risk. </p><p>Cyber security is correctly on the agenda in every boardroom regardless of sector or location. For most, cyber breaches are a matter of ‘when’, not ‘if’. With cyber threats evolving and becoming more sophisticated – preparation through an effective cyber security strategy, combined with third-party assurance is the best route to a more cyber resilient operation.</p><p>Following the acquisition of award winning cyber security specialists Nettitude, Lloyd’s Register now offer a wide portfolio of cyber security assurance services designed to help clients identify, protect, detect, respond and recover from cyber threats. We help our clients to cut through their data noise, delivering ever-smarter risk management and intelligence to enhance cyber security. </p><p><img alt=\"Cyber security services diagram\" decoding=\"async\" fetchpriority=\"high\" height=\"500\" loading=\"lazy\" src=\"https://www.lr.org/4a16c8/globalassets/_shared-images/non-standard-social-tab-alt-opengraph-image-with-caption-alt-desktopmobile-rich-text-inline/business-assurance/nettitude-diagram-500px.jpg\" width=\"500\"/></p>"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

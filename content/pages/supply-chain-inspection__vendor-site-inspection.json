@@ -1,0 +1,128 @@
+{
+ "elementorId": "1610",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "plain",
+   "id": "193855fd",
+   "ids": {
+    "card": "158eee02",
+    "eyebrow": "3034712",
+    "title": "2c9e126f",
+    "intro": "17e2be4b"
+   },
+   "eyebrow": "VENDOR SITE INSPECTION",
+   "title": "Don't let your supply chain get you down.",
+   "intro": "We make sure things are going as planned."
+  },
+  {
+   "type": "section",
+   "id": "14f25c82",
+   "columns": [
+    {
+     "type": "column",
+     "id": "4d9751d2",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "3a859ded",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "432a8dcd",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "5dfc8b07",
+           "tag": "h3",
+           "text": "What is it?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "e7622bd",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "1b802902",
+           "html": "<p>Vendor site inspection is inspection performed at the site of your supplier, designed to make sure you’re getting what you ordered. Sometimes called “second-party inspection,” it is inspection done on behalf of the buyer, acting as their “eyes and ears” on the shop floor.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "558c3b6",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "6e9fe0d0",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "103a04cf",
+           "tag": "h3",
+           "text": "What we do."
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "4a808413",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "43d7b4f3",
+           "html": "<p>KLL can act as your on-site quality control team, giving you a coordinated, global approach to vendor site inspection in the upstream, downstream, power, marine and industrial manufacturing sectors.</p><p>We can work with you to develop customised inspection test plans (ITPs) that help you avoid common manufacturing risks that come with international miscommunicaton, unclear instructions, or time zone complications.</p><p> We deliver timely intelligence reports that help keep your project on time, or allow you to make adjustments to production schedules based on site manufacturing issues.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "59e6abd",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "d2de297",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "6994b1c",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "fb060e8",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "8bee463",
+           "html": "<div class=\"component content-block\"><div class=\"row\"><div class=\"pane base8 ml12\"><section class=\"component rich-text\"><p>Using a combination of LR surveyors and LR approved specialists, you get the benefit of our long history of providing third-party inspection services. Our teams have experience inspecting safety critical assets across the supply chain, including:</p><ul><li>Pressure vessels and boilers</li><li>Pressure equipment accessories</li><li>Piping and valves</li><li>Electrical systems</li><li>Rotating equipment and pumps</li><li>Machinery and mechanical equipment</li><li>Containers</li><li>Port cranes</li><li>Lifting equipment and appliances</li></ul></section></div></div></div><div class=\"row\"><div class=\"block base12\"><section class=\"component rich-text\"><table border=\"1\"><tbody><tr><td> </td><td><a href=\"https://www.lr.org/en/inspection-services/\"><img alt=\"\" decoding=\"async\" height=\"34\" loading=\"lazy\" src=\"https://www.lr.org/49fb6e/globalassets/_shared-images/non-standard-social-tab-alt-opengraph-image-with-caption-alt-desktopmobile-rich-text-inline/inspection-services/is-kmrl-single-line.jpg\" width=\"500\"/></a></td></tr></tbody></table></section></div></div>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

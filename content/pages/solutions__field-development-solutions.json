@@ -1,0 +1,55 @@
+{
+ "elementorId": "1100",
+ "blocks": [
+  {
+   "type": "section",
+   "id": "7f0f2c2d",
+   "overlay": true,
+   "columns": [
+    {
+     "type": "column",
+     "id": "73e22be3",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "780094a9",
+       "inner": true,
+       "background": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "5f7d179f",
+         "size": "100",
+         "elements": [
+          {
+           "type": "text",
+           "id": "2cedd11b",
+           "html": "FIELD DEVELOPMENT SOLUTIONS",
+           "as": "h1"
+          },
+          {
+           "type": "heading",
+           "id": "5c38c154",
+           "tag": "h2",
+           "text": "Develop your field to its best potential."
+          },
+          {
+           "type": "text",
+           "id": "393f3c99",
+           "html": "Our field development solutions ensure you exceed your development plans, optimise operations, achieve acquisition security and safely decommission fields and assets."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "spacer",
+       "id": "5e014301"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "elementorId": "1052",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "730ec449",
+   "ids": {
+    "card": "69964b7d",
+    "side": "35c5aa09",
+    "eyebrow": "184f397f",
+    "title": "3eef430d",
+    "intro": "243273a8"
+   },
+   "eyebrow": "HEALTHCARE &amp; MEDICAL",
+   "title": "Patient safety starts with compliance.",
+   "intro": "With significant regulatory changes and a number of environmental risks, compliance is more challenging and important than ever.",
+   "image": "/wp-content/uploads/2020/05/wendy-scofield-TjfQR3JgGG8-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "609ca6b3",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "5a4812dc",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "1c1a8a47",
+       "tag": "h3",
+       "text": "Stringent requirements need an experienced partner."
+      },
+      {
+       "type": "text",
+       "id": "69386722",
+       "html": "<p class=\"desktop-center\">The complex healthcare and medical landscape is adapting and changing constantly. The welcome introduction of new medical device regulations indicates one of the most significant developments within medical device manufacturing for a number of years. While this aims to address some medical device related issues, the sector as a whole faces several other significant challenges, many of which are centred around keeping patients safe and protecting their information in a period where technology continues to advance.</p><p class=\"desktop-center\">KLL Global offers a range of services to organisations operating within the medical devices industry including:</p><p class=\"desktop-center\">– Medical Device Regulation (MDR) training courses</p><p class=\"desktop-center\">– In Vitro Diagnostic Device Regulation (IVDR) training courses</p><p class=\"desktop-center\">– ISO 13485 accredited certification and training courses</p><p class=\"desktop-center\">– MDSAP certification and training courses</p>"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

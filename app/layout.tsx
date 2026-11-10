@@ -4,16 +4,20 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import ElementorBehaviors from '@/components/ElementorBehaviors';
 import { nav } from '@/lib/content';
+import { OG_IMAGE, SITE_NAME, SITE_URL } from '@/lib/seo';
 import './site.css';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://kllglobalresources.com'),
-  title: 'KLL Global Resources, LLC',
-  icons: { icon: '/wp-content/uploads/2020/04/cropped-KLL-Logo_Artboard-2-1.png' },
-  openGraph: {
-    siteName: 'KLL Global Resources, LLC',
-    images: ['/wp-content/uploads/2020/04/cropped-KLL-Logo_Artboard-2-1.png'],
+  metadataBase: new URL(SITE_URL),
+  title: SITE_NAME,
+  applicationName: SITE_NAME,
+  formatDetection: { telephone: false, email: false, address: false },
+  icons: {
+    icon: [{ url: '/icon.png', type: 'image/png', sizes: '512x512' }],
+    apple: '/apple-icon.png',
   },
+  openGraph: { siteName: SITE_NAME, locale: 'en_US', type: 'website', images: [OG_IMAGE] },
+  twitter: { card: 'summary_large_image' },
 };
 
 // Body classes carried over from the WordPress (Astra + Elementor) theme so the

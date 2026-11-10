@@ -1,0 +1,193 @@
+{
+ "elementorId": "994",
+ "blocks": [
+  {
+   "type": "section",
+   "id": "62aa77a6",
+   "columns": [
+    {
+     "type": "column",
+     "id": "6eba02f9",
+     "size": "100",
+     "elements": [
+      {
+       "type": "text",
+       "id": "310674ed",
+       "html": "OUR PARTNERS",
+       "as": "h1"
+      },
+      {
+       "type": "heading",
+       "id": "6f33b61e",
+       "tag": "h2",
+       "text": "Co-creation and collaboration with industry"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "22be6aed",
+   "columns": [
+    {
+     "type": "column",
+     "id": "710a144",
+     "size": "100",
+     "elements": [
+      {
+       "type": "spacer",
+       "id": "61111214"
+      },
+      {
+       "type": "heading",
+       "id": "d645f81",
+       "tag": "h3",
+       "text": "Group companies and Joint Ventures"
+      },
+      {
+       "type": "section",
+       "id": "4f9962d1",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "4d3bf20a",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "6edcc73b"
+          },
+          {
+           "type": "heading",
+           "id": "b4101e",
+           "tag": "h5",
+           "text": "Schlumberger"
+          },
+          {
+           "type": "spacer",
+           "id": "5351280d"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "7b857511",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "3270a0"
+          },
+          {
+           "type": "heading",
+           "id": "739a7783",
+           "tag": "h5",
+           "text": "Lloyd's Register"
+          },
+          {
+           "type": "spacer",
+           "id": "776215c7"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "5ec2b148",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "71dbdbff"
+          },
+          {
+           "type": "heading",
+           "id": "2f3bb17",
+           "tag": "h5",
+           "text": "Houston Metro"
+          },
+          {
+           "type": "spacer",
+           "id": "763475a1"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "77a218aa",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "50c6428e",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "71531c3f"
+          },
+          {
+           "type": "heading",
+           "id": "15c2c08c",
+           "tag": "h5",
+           "text": "Viral Ad Media"
+          },
+          {
+           "type": "spacer",
+           "id": "22979947"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "3ba8ab99",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "2d9c47e8"
+          },
+          {
+           "type": "spacer",
+           "id": "50ffd06a"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "1b0c5e93",
+         "size": "33",
+         "background": true,
+         "overlay": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "345e4c57"
+          },
+          {
+           "type": "spacer",
+           "id": "23d55253"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

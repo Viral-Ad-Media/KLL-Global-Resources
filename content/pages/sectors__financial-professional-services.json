@@ -1,0 +1,47 @@
+{
+ "elementorId": "1037",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "1075dd22",
+   "ids": {
+    "card": "6a6760cb",
+    "side": "c5fead0",
+    "eyebrow": "5a8576c",
+    "title": "5aa4298",
+    "intro": "3930b4c5"
+   },
+   "eyebrow": "FINANCIAL AND PROFESSIONAL SERVICES",
+   "title": "Translating technology and transparency into trust.",
+   "intro": "Open Banking, Blockchain and Cybersecurity are all contributing to unprecedented levels of both risk and opportunity within the financial services landscape.",
+   "image": "/wp-content/uploads/2020/05/m-b-m-ZzOa5G8hSPI-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "11948fe8",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "425b98f",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "61673040",
+       "tag": "h3",
+       "text": "Reduce your exposure to information security threats"
+      },
+      {
+       "type": "text",
+       "id": "4d392e59",
+       "html": "<p class=\"desktop-center\">Cyber security is the greatest risk facing the financial services industry and cyber crime continues to be one of the most common economic crimes impacting financial services organisations and their customers. As a result, your systems are under constant and continuous attack. To address this threat, compliance in the already highly regulated financial services industry is becoming more complex and includes additional measures to protect customer data and business-critical applications from costly breaches.</p><p class=\"large desktop-center\">At KLL, we understand your sector and the technologies that represent both opportunity and threat, ensuring that our range of services delivers a competitive advantage for your organisation.</p>"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

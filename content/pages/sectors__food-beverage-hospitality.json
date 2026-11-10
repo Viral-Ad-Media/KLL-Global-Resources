@@ -1,0 +1,49 @@
+{
+ "elementorId": "1045",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "boxed",
+   "id": "4fe66e71",
+   "ids": {
+    "column": "1d0cda07",
+    "inner": "52e4c23",
+    "card": "2a93fa14",
+    "spacer": "6fd9d2e1",
+    "eyebrow": "7c3ac30f",
+    "title": "319f08b",
+    "intro": "518c46d1"
+   },
+   "eyebrow": "FOOD, BEVERAGE &amp; HOSPITALITY",
+   "title": "Supply chain assurance from food sector specialists.",
+   "intro": "The food industry faces increasing environmental and social responsibility demands, tougher stakeholder and government requirements and rising food safety and traceability scrutiny as well as challenges in managing brand reputation and addressing profitability concerns.",
+   "image": "/wp-content/uploads/2020/05/dan-meyers-IQVFVH0ajag-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "2075e600",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "28eb5c3b",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "7cac8aa",
+       "tag": "h3",
+       "text": "Independent assurance; helping you manage food safety and sustainability risks."
+      },
+      {
+       "type": "text",
+       "id": "2ef9537f",
+       "html": "<p class=\"desktop-center\">Your supply chain is only as strong as its weakest link. As the food supply chain becomes more complex the challenges surrounding your brand, reputation and shareholder value inevitably increase.</p><p class=\"desktop-center\">At KLL, we work in partnership with our customers to deliver the exact service they require. Whether you have multiple sites or require combined audits, we’ll do our best to help you in a practical and cost-effective way.</p>"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

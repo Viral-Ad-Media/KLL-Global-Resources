@@ -1,0 +1,60 @@
+{
+ "elementorId": "1125",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "boxed",
+   "id": "72a88e77",
+   "ids": {
+    "column": "3937684e",
+    "inner": "2cc39728",
+    "card": "706e918f",
+    "spacer": "391051c4",
+    "eyebrow": "61ab7272",
+    "title": "66e4007f",
+    "intro": "7f62281b"
+   },
+   "eyebrow": "CERTIFICATION SERVICES",
+   "title": "Compliance? Covered with confidence.",
+   "intro": "We help you to achieve and retain your licence to operate.",
+   "image": "/wp-content/uploads/2020/04/customised-assurance-1280x720-1.jpg"
+  },
+  {
+   "type": "section",
+   "id": "4e16ddd1",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "4f3c348b",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "466c3e73",
+       "tag": "h3",
+       "text": "We started out as a marine classification society."
+      },
+      {
+       "type": "text",
+       "id": "3479666f",
+       "html": "<p>Today, we’re one of the world’s leading providers of engineering and technology-centric professional services – improving safety and increasing the performance of critical infrastructures for clients in over 75 countries worldwide. Operating both at a global level and with local expertise, we are accredited to certify that your products and services meet over 700 external or internal standards, schemes, rules, codes or directives.</p>"
+      },
+      {
+       "type": "heading",
+       "id": "cc5a1b6",
+       "tag": "h3",
+       "text": "The KLL Global promise"
+      },
+      {
+       "type": "text",
+       "id": "7b6b5eb",
+       "html": "<p>Our independence means that we provide reliable, impartial and informed advice that you can trust, free from compromise, free from prejudice.</p>"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "elementorId": "1233",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "52c84eac",
+   "ids": {
+    "card": "14b834c7",
+    "side": "212dff78",
+    "eyebrow": "1317cfb6",
+    "title": "126d84a2",
+    "intro": "539b1cce"
+   },
+   "eyebrow": "COMPONENTS AND SYSTEMS FOR VESSELS",
+   "title": "Meeting the requirements for Class and beyond.",
+   "intro": "<p>We not only help manufacturers produce equipment for KLL Classed vessels, we also provide design assurance for innovative technology.</p>",
+   "image": "/wp-content/uploads/2020/05/victor-xok-cx4qdpfMTw-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "41ceda43",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "6307e7f0",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "2658722a",
+       "tag": "h3",
+       "text": "Product and design assurance for KLL Classification."
+      },
+      {
+       "type": "text",
+       "id": "62208b4e",
+       "html": "<p>Manufacturers whose products will be used on board a vessel classed with KLL Global must get their products certified to meet the KLL Marine &amp; Offshore Rules.</p><p>These requirements can be found in the “KLL Rules and Regulations for the Classification of Ships” and in the relevant sections of “Rules for the Manufacture, Testing and Certification of Materials.”</p><p>KLL also helps manufacturers prove their technology meets recognised industry quality standards, international conventions and/or the KLL Rules. We do this using decades of expertise and a proven process.</p>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "009e8a7",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "8b841ff",
+     "size": "100",
+     "background": true,
+     "elements": [
+      {
+       "type": "heading",
+       "id": "3eecb9d",
+       "tag": "h3",
+       "text": "Contact us for more information."
+      },
+      {
+       "type": "button",
+       "id": "6f0be25",
+       "classes": [
+        "elementor-align-center",
+        "elementor-mobile-align-center"
+       ],
+       "text": "Get in touch",
+       "href": "#",
+       "size": "md"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

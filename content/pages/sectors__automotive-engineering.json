@@ -1,0 +1,58 @@
+{
+ "elementorId": "1028",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "186dfa2d",
+   "ids": {
+    "card": "2db23494",
+    "side": "2a03b1",
+    "eyebrow": "466e2cc8",
+    "title": "7bd75da9",
+    "intro": "5f868ae9"
+   },
+   "eyebrow": "AUTOMOTIVE &amp; ENGINEERING",
+   "title": "Fine-tune your supply chain.",
+   "intro": "<p>Today’s vehicles are safer and more technologically advanced than ever before. However, as technology continues to develop, new risks emerge which must be addressed through effective systems that focus on continual improvement.</p>",
+   "image": "/wp-content/uploads/2020/05/ant-rozetsky-io7dX_1EFCg-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "5144841a",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "39503d18",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "2d3e18f5",
+       "tag": "h3",
+       "text": "Independent assurance allows us to rely on the automotive and engineering industries to keep us safe."
+      },
+      {
+       "type": "text",
+       "id": "1c18abe9",
+       "html": "<p>In an industry that produces high-risk, high-cost products and services in a tightly controlled environment, it is absolutely crucial for organisations to demonstrate their commitment to compliance by manufacturing vehicles based on industry best practice. Independent quality management system (QMS) certification gives us confidence that the vehicles we drive every day are built to the highest specifications and standards in the world.</p>"
+      },
+      {
+       "type": "heading",
+       "id": "6590fa7",
+       "tag": "h3",
+       "text": "How we can help"
+      },
+      {
+       "type": "text",
+       "id": "54c0983",
+       "html": "<p>We apply our expert solutions and independence to assure the integrity, reliability and success of every aspect of your operation. This helps your organisation to maximise productivity, reduce operating costs, mitigate risk and demonstrate compliance with government regulations, industry codes and standards, many of which we have helped to develop.</p>"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

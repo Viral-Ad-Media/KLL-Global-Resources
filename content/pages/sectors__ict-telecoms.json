@@ -1,0 +1,58 @@
+{
+ "elementorId": "1055",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "5eef9bf4",
+   "ids": {
+    "card": "361ef9ed",
+    "side": "784a6ecf",
+    "eyebrow": "71a61c1e",
+    "title": "6b5f3b0a",
+    "intro": "64759bd"
+   },
+   "eyebrow": "ICT &amp; TELECOMS",
+   "title": "Making the connection.",
+   "intro": "Keeping up with rapid pace of change both in terms of customers and technology is a key challenge faced by the ICT and Telecoms sector.",
+   "image": "/wp-content/uploads/2020/04/nettitude-1280.jpg"
+  },
+  {
+   "type": "section",
+   "id": "632c7730",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "60174064",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "382d8057",
+       "tag": "h3",
+       "text": "Helping you deliver customer satisfaction in an evolving marketplace."
+      },
+      {
+       "type": "text",
+       "id": "2d2dc01e",
+       "html": "<p class=\"desktop-center\">Increasing complexity and technological leaps can make it difficult to ensure your people have the knowledge and skills they need to maintain and improve systems and to satisfy users and customers.</p><p class=\"desktop-center\">At KLL, our assessors and trainers have sector-specific expertise, so they understand the disruption that you face to enable strategic focus in times of ongoing and rapid change.</p>"
+      },
+      {
+       "type": "heading",
+       "id": "6eac697",
+       "tag": "h3",
+       "text": "How we can help"
+      },
+      {
+       "type": "text",
+       "id": "8eb9469",
+       "html": "<p class=\"desktop-center\">KLL offers a wide range of assurance and training services to support the ICT and Telecoms sector – to improve the performance of your operations and to manage risks – whether that is information security, business continuity management, or preparing for GDPR among many others. Our sector specialists will work with you to understand what you want to achieve and help you succeed.</p>"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

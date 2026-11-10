@@ -1,0 +1,160 @@
+{
+ "elementorId": "1593",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "plain",
+   "id": "16d62243",
+   "ids": {
+    "card": "15478bcb",
+    "eyebrow": "78bed67e",
+    "title": "1bba968b",
+    "intro": "6a0de369"
+   },
+   "eyebrow": "SMART INSPECTION SERVICE FOR VENDOR SELECTION",
+   "title": "Choosing vendors? Be SMART.",
+   "intro": "Our SMART inspection service helps cut down vendor selection risks."
+  },
+  {
+   "type": "section",
+   "id": "1595d1a7",
+   "columns": [
+    {
+     "type": "column",
+     "id": "27a40b6",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "39842702",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "771e8d06",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "28ddc553",
+           "tag": "h3",
+           "text": "What is it?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "488e1792",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "2e42e285",
+           "html": "<p>KLL GLOBAL believes in adding value to the vendor selection and control process – it shouldn’t be a “tick the box” exercise. After all, you’ll be depending on these vendors to deliver your equipment on time and as specified.</p><p>This is why we’ve developed the SMART inspection service. This is a vendor assessment and audit scheme to help end-users evaluate prospective or even current vendors. We do this by developing an evaluation tool based on leading best practice, as well as customised factors you specify.</p><p>This tool not only gives you an easy to read report showing each vendor’s weaknesses and strengths, but it also gives vendors a tool to target their own processes for improvement. All of this minimises risk, reduces uncertainty and improves safety, reliability and overall business performance.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "6fb3f23d",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "63d05435",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "ece190d",
+           "tag": "h3",
+           "text": "1. Assess equipment criticality."
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "7285abd0",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "68cb3e88",
+           "html": "<p>Any risk management approach requires a detailed identification of all equipment hazards, their probability of occurrence and the consequence of the successful completion of the asset, giving a resultant equipment criticality. Equipment consequence modelling takes the following into account then produces a ranking of the equipment in criticality:</p><ul><li>Cost of the equipment</li><li>Design capacity vs. required capacity</li><li>Redundancy</li><li>Schedule for equipment delivery and availability of vendors</li><li>Impact of equipment failing in-service</li></ul>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "d400bdf",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "247e394",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "fa57be1",
+           "tag": "h3",
+           "text": "2. Assess vendor risk."
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "349e47d",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "6708115",
+           "html": "<p>The question, ‘Which vendor to choose?’ is a complicated one. To simplify the process, we develop a set of questions for each vendor based on your requirements. The questions are designed to address aspects of the vendor’s capabilities, including its:</p><ul><li>organisation</li><li>quality management system</li><li>product inspection process</li><li>equipment required for inspections</li><li>procurement process</li><li>in-process inspections</li><li>workmanship</li><li>corrective actions</li><li>capability to deliver</li></ul><p>Each area is thoroughly evaluated and rated according to specific criteria. The results are presented in the form of a spider diagram, identifying the vendor’s strengths and weaknesses.</p><p><img alt=\"SMART inspection vendor spider diagram\" decoding=\"async\" loading=\"lazy\" src=\"https://www.lr.org/48d2d8/contentassets/5ee537c2aadb4d62af2d3fdf7387b5e2/is-smart_inspection-spider-chart-400.png\"/></p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "962cd76",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "2d3d75f",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "9498885",
+           "tag": "h3",
+           "text": "3. Create tailored Inspection Test Plans (ITPs)"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "2fe4912",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "9fcfe04",
+           "html": "<p>Once our client chooses vendors based on our SMART inspection results, the next step is to create plans to address the weaknesses discovered in the audit process.</p><p>These Inspection Test Plans are custom built to mitigate any possible risks with each vendor. They can be designed to intervene in certain areas of the manufacturing process with appropriate skill sets.</p><p>Putting the right people in the right place at the right time can be the key to keeping any major project on time and on budget.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

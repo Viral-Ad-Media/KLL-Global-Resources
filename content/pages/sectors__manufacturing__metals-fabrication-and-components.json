@@ -1,0 +1,47 @@
+{
+ "elementorId": "1242",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "72ad826a",
+   "ids": {
+    "card": "44752766",
+    "side": "46a72aea",
+    "eyebrow": "39bed3fc",
+    "title": "7f6d3fca",
+    "intro": "3552466"
+   },
+   "eyebrow": "METALS, FABRICATION AND COMPONENTS",
+   "title": "Our assurance starts at the beginning.",
+   "intro": "When your customers demand traceability, trust the experts in material assessment and inspection.",
+   "image": "/wp-content/uploads/2020/05/ant-rozetsky-io7dX_1EFCg-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "79d9cdb",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "788b9a7b",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "4ab7861",
+       "tag": "h3",
+       "text": "Traceability of material used in critical components is an essential part of our role as the independent third party."
+      },
+      {
+       "type": "text",
+       "id": "1cbd46a1",
+       "html": "We start our journey through the manufacturing process at the steel mill, continue through to the welders and the procedures they use, and also help component manufacturers meet the correct codes, standards and regulations.\n\nFrom the smallest bolt to larger fabrications, we help provide the confidence these parts form a safe, reliable whole. That assurance extends to the welders, welding processes and procedures used to fabricate safety-critical equipment and structures."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

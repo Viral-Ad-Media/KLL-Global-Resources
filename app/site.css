@@ -113,3 +113,18 @@ iframe.elementor-video { width: 100%; aspect-ratio: 16 / 9; height: auto; border
 
 .kll-404 { max-width: 760px; margin: 0 auto; padding: 100px 20px; text-align: center; }
 .kll-404 .elementor-button { display: inline-block; margin-top: 20px; }
+
+/* Fallback page left at the old URL of a merged page (Vercel answers these with a 301 instead). */
+.kll-moved { padding: 80px 20px; text-align: center; }
+
+/* Page title (h1): the small eyebrow text at the top of each page. Keeps the eyebrow's look
+   instead of the theme's large h1 style. */
+.elementor h1.kll-page-title {
+  font: inherit;
+  color: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit;
+  line-height: inherit;
+  margin: 0;
+  padding: 0;
+}

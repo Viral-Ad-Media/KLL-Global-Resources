@@ -1,0 +1,71 @@
+{
+ "elementorId": "1509",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "boxed",
+   "id": "23b5f0b7",
+   "ids": {
+    "column": "1f9e4e2d",
+    "inner": "3010a3d",
+    "card": "681640d5",
+    "spacer": "6a4b0f85",
+    "eyebrow": "4a8cf845",
+    "title": "a07b40b",
+    "intro": "778e9096"
+   },
+   "eyebrow": "MANAGEMENT SYSTEMS",
+   "title": "Take your management system from compliance to performance.",
+   "intro": "Independent accredited certification can be a useful tool to add credibility, by demonstrating that your product or service meets the expectations of your customers.",
+   "image": "/wp-content/uploads/2020/05/max-anderson-pBNTUF7hZlk-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "32663e67",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "274511af",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "1306bfb",
+       "tag": "h3",
+       "text": "Learn from the past, manage the present and respond to the future."
+      },
+      {
+       "type": "text",
+       "id": "b0da39",
+       "html": "KLL GLOBAL RESOURCEs, LLC is a leading independent provider of accredited certification services across a broad spectrum of standards and schemes as well as customised assurance programmes. We deliver our services to companies operating in all of the major sectors worldwide. Once a successful assessment is carried out and technical approval is given, we award you a certificate."
+      },
+      {
+       "type": "heading",
+       "id": "2c630d6",
+       "tag": "h3",
+       "text": "Why work with us?"
+      },
+      {
+       "type": "text",
+       "id": "3910a01",
+       "html": "<p>With recognition from over 50 accreditation authorities worldwide, independent certification provides credibility for your stakeholders through the globally recognised KLL brand. We help you focus on what matters to your organisation by adding value through the right assurance services.</p>"
+      },
+      {
+       "type": "heading",
+       "id": "f68ea2a",
+       "tag": "h3",
+       "text": "Management systems certification services"
+      },
+      {
+       "type": "text",
+       "id": "7c11a7c",
+       "html": "<p>At KLL, we work in partnership with our customers to deliver the exact service you require. Whether you have multiple sites, or require combined audits, we’ll do our best to help you in a practical cost-effective way.</p>"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

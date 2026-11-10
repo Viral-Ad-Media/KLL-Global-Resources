@@ -1,0 +1,160 @@
+{
+ "elementorId": "1409",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "plain",
+   "id": "47610573",
+   "ids": {
+    "card": "31ce5f87",
+    "eyebrow": "2736d1e7",
+    "title": "e84d17e",
+    "intro": "712f56e2"
+   },
+   "eyebrow": "ENGINEERING DYNAMICS",
+   "title": "Don’t sway under pressure, assure your assets from vibration.",
+   "intro": "Our Engineering Dynamics services help prevent and solve problems in noise, vibration, instability and fatigue damage, optimising your operations."
+  },
+  {
+   "type": "section",
+   "id": "54c36e3e",
+   "columns": [
+    {
+     "type": "column",
+     "id": "5647beeb",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "f617f2c",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "48942e53",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "3b62a0f5",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "62332cd6",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "12ad4f30",
+           "html": "<p>At KLL we’re passionate about understanding dynamics and failure mechanisms, and assessing designs for wide spectrum of potential problems – noise, vibration, instability, fatigue damage. Vibration can be a major cause of machine and plant downtime, as well as a significant safety concern, which is why we focus on solving and preventing problems, optimising and giving independent design advice, to increase your uptime and safety.</p><p>Our engineering dynamics consultancy services provide you with the assurance that your assets and components are running to their optimal performance. From ensuring the structural stability of your asset to multi-phase flow modelling of your subsea compressors, our expertise spans the oil and gas to renewables, power generation, marine and rail sectors.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "2bf3393c",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "13599985",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "31fb1b69",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "4e978306",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "72e94038",
+           "html": "<p>We solve and prevent problems related to dynamics for critical installations in Oil &amp; Gas, Marine, Wind power, Rail and related industries. This involves design-phase review, analysis and advice, as well as site consultancy and measurements for validation and troubleshooting.   </p><p>Disciplines include:</p><ul><li>Noise &amp; Vibration </li><li>Machinery Dynamics </li><li>Fluid Dynamics </li><li>Structural dynamics </li><li>Root Cause Analysis</li><li>Advanced Vibration Measurements </li></ul><p>Through our specific focus on failure investigation, a unique systematic approach to troubleshooting and the combined experience of many years’ solving mechanical failure mean that whatever your mechanical problem, we are uniquely well placed to help you find out what is going wrong, fix it and ensure it doesn’t happen again.  Our mechanical failure analysis can facilitate successful redesign and improved availability with up to 70-95%.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "b014fc9",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "2888135",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "0543273",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "ab6ff90",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "68162b8",
+           "html": "<ul><li>Mitigate risks up front</li><li>Achieve substantial savings</li><li>Enhanced safety of critical assets</li><li>Resume operations as quickly as possible if things do go wrong</li><li>Increased uptime and reduced OPEX for critical assets.</li></ul>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "b1311a9",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "699d249",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "98cd068",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "495ae17",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "ec44767",
+           "html": "<p>Our solutions draw on more than three decades of experience in noise &amp; vibration control, rotating machinery dynamics and dynamics of flows and structures.  Through our rare combination of short notice site investigation capabilities and advanced modelling and analysis skills, we provide assurance and peace of mind to ensure you can operate with confidence. Along with our versatility of field and office, this allows us to respond dynamically to challenges as they evolve and ensures the solutions we work out for you are as pragmatic as they are technically advanced.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

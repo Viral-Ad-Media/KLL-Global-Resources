@@ -1,0 +1,196 @@
+{
+ "elementorId": "1341",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "boxed",
+   "id": "64f5148f",
+   "ids": {
+    "column": "d3be027",
+    "inner": "59d4a0a1",
+    "card": "5f573c66",
+    "spacer": "4c8c39fa",
+    "eyebrow": "3ed42cc4",
+    "title": "13d66a1a",
+    "intro": "7f62a8af"
+   },
+   "eyebrow": "CLOUD FLEET MANAGER",
+   "title": "Bringing digital transformation to the shipping industry.",
+   "intro": "Increasing efficiency and reducing costs, Cloud Fleet Manager’s modular suite controls every aspect of shipping operations.",
+   "image": "/wp-content/uploads/2020/05/vidar-nordli-mathisen-RRzTBKhZumc-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "2b10f3c0",
+   "columns": [
+    {
+     "type": "column",
+     "id": "1167b07a",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "fa5760e",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "6a6aa5ea",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "bce5326",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "2aa5fd81",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "6b9268eb",
+           "html": "In today’s intensely competitive shipping market, fleet owners must innovate to deliver greater productivity and drive down costs.The Cloud Fleet Manager ERP platform is custom-built to serve this complex and safety-critical sector, giving you the digital infrastructure to improve everything from crewing to fuel consumption."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "cd550c4",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "b33318f",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "29412aa",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "4068d5b",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "c2731d5",
+           "html": "Cloud Fleet Manager (CFM) is the cloud-based all-in-one software solution for shipping companies. The system is web-based and can be used without any installation. It centralises all information by removing data silos and makes insights available for all employees as well as crews at sea.\nThe cloud-based design of the application gives you the freedom to use it anytime, anywhere and browser-independent. Even on your smartphone you always have access to the most important information. Cloud Fleet Manager offers applications that are optimised for all the different departments of your company and increases collaboration, streamlines processes and can be used intuitively."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "4b79458",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "fec60bf",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "7d66a19",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "519b8da",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "bfb48f2",
+           "html": "<p>Many international ship owners rely on <strong>Cloud Fleet Manager</strong> as their core information, communication and collaboration platform. Office employees and crews at sea share common processes and reliable data regardless of location to improve how the whole company does business.</p><p>Being <strong>cloud-based</strong>, there is no need to install anything in the office. Open your browser and you are all set. With a heavy focus on usability, the different <strong>apps for all departments</strong> ensure that the users are guided safely and over the shortest possible path through their daily tasks. The most relevant tasks are always highlighted on the dashboard of the solution and the portal ensures full transparency – letting everybody see the big picture.</p><p>With <strong>Cloud Fleet Manager</strong>, staff can work in interactive teams to e.g. simplify crew management. Seamlessly share, manage and resolve service requests. Or input inspection reports on tablets or mobiles, add photos and videos, then allocate them to colleagues for feedback.</p><p>From payroll to purchasing, <strong>Cloud Fleet Manager</strong> promotes higher productivity and economies at fleet rather than vessel scale. Whether it’s finding relevant data on vessels, crew members or employees or scheduling maintenance, all can be done with just a few clicks. It’s simple to integrate existing systems. Enhanced reporting and advanced analytics, paint a powerful picture. It ensures you comply with the 2018 EU MRV regulations and – most important of all – makes operations safer.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "8601642",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "2c96a50",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "7322efb",
+           "tag": "h3",
+           "text": "Apps and packages for all departments"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "2447d0f",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "eab11f7",
+           "html": "Our apps and packages are specially adapted to the requirements of the different departments of your company. Bundled premium apps ensure you have the tools at hand that are needed to handle your daily tasks. Providing Cloud Fleet Manager as a software as a service (SaaS) solution offers you the flexibility to simply choose the packages that are right for you. All you need to do is to open your browser and start working – no installation required, no new hardware or licenses. It’s that easy."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "5d21d291",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "7801d428",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "762f0a1b",
+           "tag": "h3",
+           "text": "Why KLL &amp; Hanseaticsoft?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "3529accd",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "2fbc3b1",
+           "html": "We have been supporting offshore operations for more than two centuries. From specialist software to project management and compliance, we have a wealth of independent expertise and experience. Enhance that with our latest digital technologies and it gives us an unrivalled capability to help you deliver your projects.\n\nThrough our partnership with Hanseaticsoft we can offer an end to end solution which is a true market first."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

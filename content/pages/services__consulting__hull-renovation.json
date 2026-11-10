@@ -1,0 +1,160 @@
+{
+ "elementorId": "1448",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "plain",
+   "id": "7f418ac7",
+   "ids": {
+    "card": "5aabecae",
+    "eyebrow": "1dac50a9",
+    "title": "5542e9ed",
+    "intro": "1ab4035f"
+   },
+   "eyebrow": "HULL RENOVATION SCHEME",
+   "title": "Turn back time – reverse the effects of age.",
+   "intro": "If you have an older ship, KLL’s Hull Renovation Scheme (HRS) helps you to enhance the condition of your ship’s hull, making it comparable to younger ships. The extent of renovation varies, but there is the possibility of returning the condition to approximately that of a typical ship at first special survey (5 years of age)."
+  },
+  {
+   "type": "section",
+   "id": "21947ec8",
+   "columns": [
+    {
+     "type": "column",
+     "id": "44452c72",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "4a5a388c",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "1d20c1e9",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "10daef82",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "6498d57d",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "4f438b72",
+           "html": "<p>Charterers want to know that your older ship is structurally sound and will usually require verification of its condition. Completing our scheme will put you in the position to be able to demonstrate that your ship’s hull meets our rigorous quality and safety standards.</p><p>When you enrol in our Hull Renovation Scheme, our surveyors will examine your classification records and conduct a full inspection of your ship’s structure, compiling a comprehensive report on its condition.<br/><br/>This enables them to make recommendations on any renovations and repairs that will be necessary to meet the requirements of the scheme. Where deficiencies are identified, our surveyors will then work closely with you to help you reach an informed decision about the next steps to take.</p><p>The extent of renovation varies between ships, depending on both the initial condition of your ship and the level of renovation you desire. LR’s HRS features two levels of renovation:<br/><br/>Level 1SS – your renovated hull is considered to be in a condition comparable to that of a typical ship at first special survey (5 years of age).<br/><br/>Level 2SS – your renovated hull is considered to be in a condition comparable to that of a typical ship at second special survey (10 years of age).</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "290b1e79",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "6e7b1d19",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "7619191b",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "43927ea0",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "2323e3fe",
+           "html": "<p>Our process is customised according to your particular needs, but typically comprises the following elements: a preliminary assessment survey to establish the basic feasibility of renovation; an optional reassessment of scantlings to current KLL Rules; a full assessment study to enable the extent of necessary renewals to be assessed; and a renovation survey to ensure the satisfactory completion of the scheme.</p><p>The scheme is suitable for all types and sizes of commercial ship, whatever their age, and usually involves a structural assessment of the complete hull, including the internal structure of all cargo tanks/holds, ballast tanks, machinery compartments and void spaces. It also normally includes thickness measurements of the deck and hull, all primary structure and representative secondary and tertiary structure in the examined spaces as well as assessment of the thickness measurements and deficiencies against a closely defined level above the classification levels for steel renewal.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "f5a9288",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "3e3de4c",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "683a7f4",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "0e8e60b",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "b7b40da",
+           "html": "<p>Upon completion of the hull renovation survey, we issue you with a certificate which is formal recognition of your ship’s condition. This can give you a distinct advantage in the competitive market of chartering, where ship condition, quality and reliability are all of paramount importance.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "0cc9fdc",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "60fdbe6",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "fa78072",
+           "tag": "h3",
+           "text": "Why choose LR?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "a31bc87",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "8e3065a",
+           "html": "<p>Surveys are conducted and reports compiled by senior ship surveyors who are specialists in hull condition assessment and renovation, meaning our HRS gives you assurance that your ship’s hull has been surveyed and renovated according to strict standards of quality and safety – an assurance that can translate to improved charter potential; reduced through-life maintenance costs and insurance premiums; longer ship life; and enhanced resale value. It could also help you to avoid port entry restrictions that apply more particularly to older ships.</p><p>Dedicated to helping you achieve your business objectives and maximise the availability and value of your ship, we can deploy our surveyors to your ship wherever it is in the world, and can provide a range of supporting services, tailoring a solution to your individual needs.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "elementorId": "1606",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "plain",
+   "id": "471bcd16",
+   "ids": {
+    "card": "7d0100b1",
+    "eyebrow": "67c6aa81",
+    "title": "23b99544",
+    "intro": "4e4a6f7f"
+   },
+   "eyebrow": "VENDOR ASSESSMENTS AND AUDITS",
+   "title": "How do you choose your vendors?",
+   "intro": "Your next project’s success could depend on it."
+  },
+  {
+   "type": "section",
+   "id": "188cb1ce",
+   "columns": [
+    {
+     "type": "column",
+     "id": "5eead2dc",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "4544fc61",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "1ac318bd",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "59efaddf",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "aeb6dba",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "114f7985",
+           "html": "<p>We understand that your biggest concern with a new contract is your choice of vendor.  Vendor assessments and audits give you crucial information about a vendors’ capabilities, machinery, management systems, and other factors that can affect whether you give them your business.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "19124640",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "322f7db9",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "33ed0c0f",
+           "tag": "h3",
+           "text": "What we do."
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "5a6a19e3",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "76462b43",
+           "html": "<div class=\"component content-block\"><div class=\"row\"><div class=\"pane base8 ml12\"><section class=\"component rich-text\"><p>We’ve developed a simple approach to vendor assessments and audits that makes the process as efficient as possible.</p><p>Our vendor assessments comprise a set of questions specific to your particular sector. These criteria audit threats to the following vendor processes:</p><ul><li>The vendor organisation</li><li>Quality management system</li><li>Product inspections</li><li>Equipment required for inspections</li><li>Procurement</li><li>In-process inspections</li><li>Workmanship</li><li>Corrective actions</li><li>Capability to deliver</li></ul><p> </p><p>We also have extensive experience running vendor risk assessments through our audits of vendors around the world. Our SMART inspection vendor assessment/audit scheme gives you the ability to assess vendors against leading practice. This also allows the vendors to identify their weaknesses. This minimises risk and reduces your uncertainty, which improves reliability, safety, and overall business performance across your supply chain.</p></section></div></div></div><div class=\"row\"><div class=\"block base12\"><section class=\"component rich-text\"><table border=\"1\"><tbody><tr><td> </td><td><a href=\"https://www.lr.org/en/inspection-services/\"><img alt=\"\" decoding=\"async\" height=\"34\" loading=\"lazy\" src=\"https://www.lr.org/49fb6e/globalassets/_shared-images/non-standard-social-tab-alt-opengraph-image-with-caption-alt-desktopmobile-rich-text-inline/inspection-services/is-kmrl-single-line.jpg\" width=\"500\"/></a></td><td> </td></tr></tbody></table></section></div></div>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

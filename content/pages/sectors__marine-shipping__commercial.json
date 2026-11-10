@@ -1,0 +1,209 @@
+{
+ "elementorId": "1255",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "13931a33",
+   "ids": {
+    "card": "15d5fcea",
+    "side": "5d8045ad",
+    "eyebrow": "3dfe9b0f",
+    "title": "71f36936",
+    "intro": "3b095904"
+   },
+   "eyebrow": "COMMERCIAL SHIPS",
+   "title": "Helping you reduce risk and improve efficiency.",
+   "intro": "Independent assurance of safety, technical and environmental compliance to improve the integrity, reliability and success of your operations.",
+   "image": "/wp-content/uploads/2020/05/chris-pagan-sfjS-FglvU4-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "3ac588c7",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "4eb95628",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "43450481",
+       "tag": "h3",
+       "text": "Why work with us"
+      },
+      {
+       "type": "text",
+       "id": "11bc484e",
+       "html": "We understand that a day’s downtime could cost you a six-figure sum, and that marginal gains in efficiency can transform your bottom line. As one of the world’s largest and most respected classification societies, we provide independent, third party assurance of safety, technical and environmental compliance. Our early involvement at every stage of the asset lifecycle can dramatically reduce risks, and improve efficiency, saving you time and money.\n\nBut in today’s industry, cost-conscious compliance alone isn’t enough to win, retain\nand reassure customers and stakeholders. Through our extensive consultancy services,\nsupported by excellent project management and working relationships, we address\nchallenges, achieve milestones, and help you maximise opportunities."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "566f82d0",
+   "background": true,
+   "columns": [
+    {
+     "type": "column",
+     "id": "f113b40",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "7c8e910e",
+       "inner": true,
+       "contentMiddle": true,
+       "minHeight": true,
+       "background": true,
+       "gap": "no",
+       "columns": [
+        {
+         "type": "column",
+         "id": "264dd7af",
+         "size": "33",
+         "background": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "41d77e20"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "44288c88",
+         "size": "33",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "51fa521c",
+           "tag": "h2",
+           "size": "large",
+           "text": "The regulatory deadline for IHM requirements is fast approaching."
+          },
+          {
+           "type": "text",
+           "id": "74428e8c",
+           "html": "Showcase your commitment to safety and sustainability."
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "5836ff50",
+         "size": "33",
+         "elements": [
+          {
+           "type": "button",
+           "id": "3345d8f4",
+           "classes": [
+            "elementor-align-center"
+           ],
+           "text": "Sign up",
+           "href": "#",
+           "size": "sm"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "spacer",
+       "id": "4c74453"
+      },
+      {
+       "type": "section",
+       "id": "ff159b3",
+       "inner": true,
+       "contentMiddle": true,
+       "minHeight": true,
+       "background": true,
+       "gap": "no",
+       "columns": [
+        {
+         "type": "column",
+         "id": "5cd1d42",
+         "size": "33",
+         "background": true,
+         "elements": [
+          {
+           "type": "spacer",
+           "id": "d98b7ef"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "123c8b2",
+         "size": "33",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "6638c35",
+           "tag": "h2",
+           "size": "large",
+           "text": "Transferring your vessels to LR class is a fast and simple process."
+          },
+          {
+           "type": "text",
+           "id": "a2e801a",
+           "html": "With an international network, we have an unrivalled view of the developments shaping the shipping industry."
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "0e436d9",
+         "size": "33",
+         "elements": [
+          {
+           "type": "button",
+           "id": "ec89328",
+           "classes": [
+            "elementor-align-center"
+           ],
+           "text": "Sign up",
+           "href": "#",
+           "size": "sm"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "34b77a59",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "43653058",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "5e15502",
+       "tag": "h3",
+       "text": "How we can help"
+      },
+      {
+       "type": "text",
+       "id": "6126748d",
+       "html": "We apply our expert solutions and independence to assure the integrity, reliability and success of every aspect of your operation. Helping maximise productivity and recovery, reduce operating costs, mitigate risk and demonstrate compliance with government regulations, industry codes and standards, many of which we have helped to develop."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

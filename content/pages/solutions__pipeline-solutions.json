@@ -1,0 +1,162 @@
+{
+ "elementorId": "1104",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "10f4c0cb",
+   "ids": {
+    "card": "48adeab2",
+    "side": "10cb3e78",
+    "eyebrow": "1888959c",
+    "title": "59eadb6c",
+    "intro": "5f7f0d0c"
+   },
+   "eyebrow": "PIPELINE SOLUTIONS",
+   "title": "Ensure uninterrupted flow of your pipelines.",
+   "intro": "We help you manage and improve the design, construction, operation and integrity of your onshore and offshore pipeline projects and network.",
+   "image": "/wp-content/uploads/2020/05/charlota-blunarova-oByYSqyETho-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "2fca6f1c",
+   "columns": [
+    {
+     "type": "column",
+     "id": "25b1de2",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "7b299dac",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "2c8eb32",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "53c33e6",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "6eec5c00",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "31a9fc0f",
+           "html": "<p>At KLL, we understand the significance of pipelines and the crucial role they play as a conduit across multiple phases of the lifecycle and transmission of oil and gas. It’s vital that flowlines, risers, subsea and onshore pipelines are designed properly, constructed appropriately, maintained according to regulations and to achieve maximum lifespan during operation then conscientiously decommissioned.</p><p>Failures and unnecessary repairs undoubtedly impact negatively on the environment, your production schedule, flow of materials, and project and operational costs, as pipeline experts, we help you mitigate this.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "1171eca3",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "5ef47385",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "4e76a7c2",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "3c4cce8d",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "177191cb",
+           "html": "<p>Our enviable suite of pipeline services and solutions promote conformance with standards, enhance productivity, identify and reduce risk associated with each phase of the pipeline lifecycle, reduce failures, unplanned shutdowns and costs and demonstrate regulatory compliance. Ultimately, we help you safeguard your revenue stream, whilst protecting the environment, lives, assets and your reputation. </p><p>We ensure the success of the early stages of your project, delivering design appraisals, surveys, and cost analysis. To help you achieve reliable operations and safely extend the life of your pipeline and system, we provide flow assurance; integrity and risk assessments; analysis of the pipeline, physical environment, stakeholder and regulatory requirements.</p><p>Whether you’re  planning or constructing new pipelines, addressing new delivery points or safely extending the life of an aging pipeline network, LR has the expertise:</p><ul><li>Concept evaluation and FEED study</li><li>Survey, data acquisition and management</li><li>Geospatial engineering</li><li>Design and construction</li><li>Material procurement, inspection and traceability</li><li>Risk management</li><li>Environmental assessments</li><li>Pipeline Integrity Management</li><li>24/7 pipeline repair and monitoring</li><li>Structural reliability</li><li>Supply chain inspection</li><li>Inspection, maintenance and repair</li><li>Flow assurance</li><li>Verification and compliance</li><li>Life extension and reuse</li><li>Decommissioning, removal and disposal</li></ul>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "16758a3",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "2fe3627",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "bb1aab0",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "4f61f9b",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "250555a",
+           "html": "<ul><li>Increase project plan accuracy</li><li>Reduce interventions</li><li>Reduce failures and shutdowns</li><li>Optimise maintenance regimes</li><li>Improve HSE performance</li><li>Identify cost and potential losses associated with failure and degradation</li><li>Identify technical weaknesses in the design or operational/maintenance practices</li><li>Reduce OPEX and CAPEX</li><li>Increased supply chain assurance</li><li>Regulatory compliance</li></ul>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "b28ae87",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "02a94a3",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "d07050c",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "1c3ca99",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "3fc065e",
+           "html": "<p>Our pipeline experience is extensive, covering the entire lifecycle from concept to decommissioning. We’ve delivered projects in ultradeep-water, across deserts, mountain ranges, city and urban areas, environmentally sensitive areas and to some of the world’s largest refineries. Following our acquisition of SGC Engineering in 2015 we further enhanced our capability for onshore pipeline route development, civil survey &amp; engineering. Geographic Information Systems and data management. As well as traditional survey methods we use innovative data gathering techniques and technology to guarantee accuracy and project success.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

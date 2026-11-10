@@ -1,0 +1,318 @@
+{
+  "contact": {
+    "description": "Contact KLL Global Resources, LLC in Houston, Texas. Call +1 877-646-4339 or email us about inspection, procurement, assurance and consulting services."
+  },
+  "": {
+    "description": "KLL Global Resources, LLC keeps global supply chains moving with inspection, procurement, assurance, certification and consulting services from Houston, Texas.",
+    "title": "KLL Global Resources | Inspection, Procurement & Assurance"
+  },
+  "partners": {
+    "description": "Co-creation and collaboration with industry. Meet the group companies, joint ventures and partners that KLL Global Resources works with."
+  },
+  "procurement": {
+    "description": "Procurement and supply of materials and equipment for the oil and gas industries, from sourcing and expediting to logistics and final documentation."
+  },
+  "sectors/aerospace-defence": {
+    "description": "Taking quality to new heights. In the highly regulated aerospace and defence sectors, assurance demonstrates a unilateral commitment to quality across global…"
+  },
+  "sectors/automotive-engineering": {
+    "description": "Fine-tune your supply chain. Today’s vehicles are safer and more technologically advanced than ever before."
+  },
+  "sectors/clean-energy/energy-storage": {
+    "description": "Stored potential for low carbon energy. As communities, businesses and organisations increasingly recognise and act on the urgent need to decarbonise…"
+  },
+  "sectors/clean-energy": {
+    "description": "Powering the growth of low carbon energy. We have expertise across the sector, including nuclear power, offshore wind, onshore wind, solar, wave & tidal and…"
+  },
+  "sectors/clean-energy/nuclear-power": {
+    "description": "Safe and sound. We have supported the growth of safe and productive nuclear facilities from the beginning of civil nuclear power, developing a global…"
+  },
+  "sectors/clean-energy/offshore-wind": {
+    "description": "Transformation is in the wind. There is no single answer to our global energy, efficiency and environmental needs."
+  },
+  "sectors/clean-energy/onshore-wind": {
+    "description": "Transforming energy across the land. We solve complex problems for onshore wind investors, developers and operators of onshore wind farms."
+  },
+  "sectors/clean-energy/solar": {
+    "description": "Powered by sunshine. Expert support for solar projects, from site assessment to grid connections, certification and performance optimisation."
+  },
+  "sectors/clean-energy/wave-tidal": {
+    "description": "Harnessing power from the sea. We’ve been actively involved in developing and deploying some of the sector’s most innovative projects"
+  },
+  "sectors/construction-industry": {
+    "description": "Building confidence in construction. Here to help your business grow without compromising safety or the environment"
+  },
+  "sectors/financial-professional-services": {
+    "description": "Translating technology and transparency into trust. Open Banking, Blockchain and Cybersecurity are all contributing to unprecedented levels of both risk and…"
+  },
+  "sectors/food-beverage-hospitality": {
+    "description": "Supply chain assurance from food sector specialists. The food industry faces increasing environmental and social responsibility demands, tougher stakeholder…"
+  },
+  "sectors/food-beverage-hospitality/primary-production": {
+    "description": "Safe & sustainable agriculture, farming & fishing. Assurance to the animal feed, agriculture, farming and fishing sector helps drive the safe supply of food…"
+  },
+  "sectors/food-beverage-hospitality/processors": {
+    "description": "Customised assurance & brand protection for processors. With consumer and retailer demands for safe, high quality food produced in a sustainable and ethical…"
+  },
+  "sectors/food-beverage-hospitality/retail": {
+    "description": "Tailored brand compliance for food retailers. Helping ensure your staff, suppliers and sites meet your own high standards and customer expectations"
+  },
+  "sectors/healthcare-and-medical": {
+    "description": "Patient safety starts with compliance. With significant regulatory changes and a number of environmental risks, compliance is more challenging and important…"
+  },
+  "sectors/ict-telecoms": {
+    "description": "Making the connection. Keeping up with rapid pace of change both in terms of customers and technology is a key challenge faced by the ICT and Telecoms sector."
+  },
+  "sectors": {
+    "description": "Experts in your industry. KLL supports energy, marine, manufacturing, oil and gas, food, transport and more, helping you grow safely and sustainably."
+  },
+  "sectors/manufacturing/components-and-systems-for-vessels": {
+    "description": "Meeting the requirements for Class and beyond. We not only help manufacturers produce equipment for KLL Classed vessels, we also provide design assurance for…"
+  },
+  "sectors/manufacturing/cranes-and-lifting-equipment": {
+    "description": "Elevate your crane quality. Use our years of experience with port cranes and lifting equipment to help make your project a success."
+  },
+  "sectors/manufacturing": {
+    "description": "Independent expertise at every manufacturing stage. Manufacturers of safety critical industrial equipment face increasing demand that their products meet the…"
+  },
+  "sectors/manufacturing/metals-fabrication-and-components": {
+    "description": "Our assurance starts at the beginning. When your customers demand traceability, trust the experts in material assessment and inspection."
+  },
+  "sectors/manufacturing/pressure-vessels-and-boilers": {
+    "description": "From design to delivery, we know pressure. Boiler and pressure equipment inspection and certification requirements are different around the world."
+  },
+  "sectors/marine-shipping/commercial": {
+    "description": "Helping you reduce risk and improve efficiency. Independent assurance of safety, technical and environmental compliance to improve the integrity, reliability…"
+  },
+  "sectors/marine-shipping": {
+    "description": "A class apart. KLL is a leading international provider of classification, compliance and consultancy services to the marine and offshore industries, helping…"
+  },
+  "sectors/marine-shipping/naval": {
+    "description": "Flying the flag around the world. Providing classification and consultancy services to the world’s navies."
+  },
+  "sectors/marine-shipping/offshore": {
+    "description": "Flexible, capable and global solutions. We have extensive experience in the conventional and renewable energy sectors, extending right through the supply…"
+  },
+  "sectors/marine-shipping/passenger": {
+    "description": "Ensuring a smooth journey. Classification, compliance and consultancy that help you achieve the best performance from your passenger ships."
+  },
+  "sectors/marine-shipping/specialised": {
+    "description": "Service as unique as your vessel. Tailored expertise making us the right partner at every stage in your ship’s lifecycle."
+  },
+  "sectors/oil-gas": {
+    "description": "Keeping your business flowing across every stream. Optimise your operations from design to decommissioning, from reservoir to refinery and beyond."
+  },
+  "sectors/transport-and-logistics": {
+    "description": "Make the journey from assurance to performance. From shipping to ports, cranes, containers and railways – KLL has a unique breadth of sector expertise…"
+  },
+  "sectors/utilities": {
+    "description": "Assuring a common level of competency. KLL’s service provider assessment schemes help assure the public of competence and safety."
+  },
+  "services/assurance/aquaculture": {
+    "description": "End to end solutions for safe and sustainable aquaculture. Consumer demand for sustainable fisheries and fish farming is rising."
+  },
+  "services/assurance/assurance-for-drilling-operators": {
+    "description": "Don't let drilling integrity issues impact success. We ensure the integrity, reliability and optimisation of your drilling, completions and Intervention…"
+  },
+  "services/assurance/assurance-for-rail-operators": {
+    "description": "Keep on the right tracks. KLL provides the whole range of third party assurance services to the railway sector."
+  },
+  "services/assurance/customised-assurance": {
+    "description": "Bespoke solutions to provide assurance and business improvement. Delivering confidence with a tailored approach to your assurance needs through systems…"
+  },
+  "services/assurance/gas-supply-chain-assurance": {
+    "description": "Assurance across the gas supply chain. Helping you to achieve and maintain safe, efficient and sustainable operations."
+  },
+  "services/assurance": {
+    "description": "Peace of mind for your stakeholders. Expert independent assurance services to make sure your investments tick all the boxes"
+  },
+  "services/assurance/management-systems-certification": {
+    "description": "Take your management system from compliance to performance. Independent accredited certification can be a useful tool to add credibility, by demonstrating…"
+  },
+  "services/assurance/quality-assurance": {
+    "description": "The pursuit of excellence. Whether you have a contractual requirement, or want improved self-governance, implementing a robust quality management system can…"
+  },
+  "services/assurance/remote-assurance": {
+    "description": "Remote assurance from KLL: flexible certification and inspection services delivered with digital technology, so you get expert support anytime, anywhere."
+  },
+  "services/assurance/risk-assurance": {
+    "description": "Take risk out of the equation. We help you manage risks throughout the asset lifecycle, whether related to life and environment, asset performance, market…"
+  },
+  "services/certification": {
+    "description": "Compliance? Covered with confidence. Today, we’re one of the world’s leading providers of engineering and technology-centric professional services …"
+  },
+  "services/consulting/asset-integrity": {
+    "description": "Avoid the failures and realise savings. Our risk-based approach to asset integrity and maintenance helps you cost effectively and safely manage the…"
+  },
+  "services/consulting/decommissioning": {
+    "description": "Decommissioning that’s not detrimental. Whether you’re moving your operations into late life and decommissioning or a regulator looking to develop…"
+  },
+  "services/consulting/drilling-integrity": {
+    "description": "Don't let drilling integrity issues impact success. We ensure the integrity, reliability and optimisation of your drilling, completions and Intervention…"
+  },
+  "services/consulting/engineering-dynamics": {
+    "description": "Don’t sway under pressure, assure your assets from vibration. Our Engineering Dynamics services help prevent and solve problems in noise, vibration…"
+  },
+  "services/consulting/field-development-services": {
+    "description": "Extracting value and maximising opportunity. From brownfield to greenfield and new frontiers, we apply our engineering technical expertise, proven technology…"
+  },
+  "services/consulting/fuel-testing": {
+    "description": "Providing confidence in marine fuels. Fuel accounts for up to 60% of a ship’s operational costs and quality is vitally important."
+  },
+  "services/consulting/grid-connections": {
+    "description": "Helping you ensure compliance and efficiency across your grid. We provide power systems studies, and negotiate the connection and access standards of your…"
+  },
+  "services/consulting/hull-renovation": {
+    "description": "Turn back time – reverse the effects of age. If you have an older ship, KLL’s Hull Renovation Scheme (HRS) helps you to enhance the condition of your ship’s…"
+  },
+  "services/consulting/human-factors": {
+    "description": "The human element. We help enhance operational up-time and achieve regulatory compliance while minimising the potential for human error and adverse health…"
+  },
+  "services/consulting": {
+    "description": "Evidence based advice you can trust. KLL's consulting, analysis and advisory services help make sure your investments tick all the boxes."
+  },
+  "services/consulting/maintenance-optimisation": {
+    "description": "Mapping out your optimum maintenance strategy. Reduce costs and unnecessary maintenance tasks with of AllAssets™ Maintenance Optimisation."
+  },
+  "services/consulting/marine-environment": {
+    "description": "Helping you comply with marine environmental regulations. We provide bespoke consultancy services to reduce the risk of non-compliance."
+  },
+  "services/consulting/marine-failure-investigation": {
+    "description": "When failure strikes, it's good to know you're in safe hands. Providing world-class Technical and Failure Investigation (TFI) services, KLL’s Technical…"
+  },
+  "services/consulting/risk-management": {
+    "description": "Take risk out of the equation. We help you manage risks throughout the asset lifecycle, whether related to life and environment, asset performance, market…"
+  },
+  "services/consulting/ship-emergency-response": {
+    "description": "If the unexpected happens, are you prepared? When you’re under pressure to make the right decisions, you can be confident that you’ve got the world’s most…"
+  },
+  "services/consulting/ship-performance": {
+    "description": "Delivering performance that works for you. KLL’s Ship Performance team can help you gain improvements in your profitability, as well as in your ability to…"
+  },
+  "services/consulting/ship-recycling-decommissioning": {
+    "description": "Your partner for safe and environmentally sound ship recycling. Our ship recycling services offer peace of mind to shipowners, operators, recycling…"
+  },
+  "services/consulting/survey-geoengineering": {
+    "description": "Get to know your seabed. Our survey and geoengineering expertise helps you understand, and manage the seabed and sub-seabed, managing risk, and helping…"
+  },
+  "services/consulting/well-operations-and-engineering": {
+    "description": "Your trusted partner in well delivery. Our well project management and engineering solutions helps reduce costs, bring savings of scale, and increase…"
+  },
+  "services/digital-and-software/allassets-asset-performance-management-software": {
+    "description": "A new approach to Asset Performance Management. When it comes to industrial assets, performance and risk go hand in hand."
+  },
+  "services/digital-and-software/argonaut-thickness-measurement": {
+    "description": "Fast, effective thickness measurement. The Argonaut thickness measurement reporting toolkit helps you carry out hull measurements more quickly and accurately."
+  },
+  "services/digital-and-software/cloud-fleet-manager": {
+    "description": "Bringing digital transformation to the shipping industry. Increasing efficiency and reducing costs, Cloud Fleet Manager’s modular suite controls every aspect…"
+  },
+  "services/digital-and-software/co2-verifier": {
+    "description": "CO2 Verifier: One simple way to comply with two regulations. Our solution saves you time and effort, enabling you to carry on with your day-to-day business."
+  },
+  "services/digital-and-software/ic-well-visualisation": {
+    "description": "Helping you visualise your well data. Thinking like a geologist, IC integrates your oil and gas well data, then gives you the collaboration and visualisation…"
+  },
+  "services/digital-and-software/im-inversion-modelling": {
+    "description": "Enhance your data with Inversion Modelling for Resistivity and SP logs. IM is a suite of software tools which allows for the enhancement of both vintage and…"
+  },
+  "services/digital-and-software/ip-petrophysics": {
+    "description": "Delivering precise answers to tough questions. Intuitive, accurate, robust and scalable, IP helps you improve reservoir performance throughout the entire…"
+  },
+  "services/digital-and-software/iris-real-time-project-management": {
+    "description": "Bring your offshore projects into focus. IRIS delivers a clear, real-time view of project status and progress, helping you optimally manage offshore…"
+  },
+  "services/digital-and-software/kll-seasafe-loading-and-stability": {
+    "description": "Providing certainty for critical marine calculations. KLL SEASAFE is our loading and stability software."
+  },
+  "services/digital-and-software/marine-and-offshore-structural-software": {
+    "description": "Safeguarding vessel design and operation. Our Marine and Offshore Structural Software suite quickly and reliably verifies regulatory compliance and safe…"
+  },
+  "services/digital-and-software/vendor-passport": {
+    "description": "Making it easier to connect buyers with qualified vendors. Not sure who can deliver the goods? Let our Vendor Passport be your guide."
+  },
+  "services/digital-and-software/wells-project-management-wellscope": {
+    "description": "The virtual test track for well engineering. Employing our patented Computational Fluid Dynamics (CFD) modelling to accurately predict fluid flow in…"
+  },
+  "services": {
+    "description": "Focused problem solving. Explore KLL's certification, consulting, inspection, training and digital services, built to help your business succeed."
+  },
+  "services/inspection/additive-manufacturing": {
+    "description": "With additive manufacturing, we go beyond R&D. Our practical approach brings third-party assurance to your AM processes."
+  },
+  "services/inspection/containers": {
+    "description": "Are your containers safe and compliant? KLL Global has been involved in making standards for container construction for more than 50 years."
+  },
+  "services/inspection/cranes-lifting-equipment": {
+    "description": "Elevate your crane quality. Use our years of experience with port cranes and lifting equipment to help make your project a success."
+  },
+  "services/inspection": {
+    "description": "Safety and quality assured at each step. From design to delivery, for the complete product lifecycle, inspection must be driven by a technical authority with…"
+  },
+  "services/inspection/iso-3834-certification": {
+    "description": "Prove your welding processes go beyond ISO 9001. We help you demonstrate your welding competence, which can open new markets."
+  },
+  "services/inspection/marine": {
+    "description": "Meeting the requirements for Class and beyond. We not only help manufacturers produce equipment for KLL Classed vessels, we also provide design assurance for…"
+  },
+  "services/inspection/nuclear": {
+    "description": "Safe and sound. We have supported the growth of safe and productive nuclear facilities from the beginning of civil nuclear power, developing a global…"
+  },
+  "services/inspection/pressure-vessels-boilers-and-accessories": {
+    "description": "From design to delivery, we know pressure. Boiler and pressure equipment inspection and certification requirements are different around the world."
+  },
+  "services/inspection/tq-projects": {
+    "description": "Accelerate your technology development from concept to deployment. Even in a sector that is hungry for innovation, technology development can be difficult."
+  },
+  "services/inspection/welding-and-welder-operator-qualification-services": {
+    "description": "Demonstrate your welders are competent. The qualification of welders and welding operators by a third party organisation is required for most…"
+  },
+  "services/inspection/welding-procedure-qualification": {
+    "description": "Helping you demonstrate your welding experience. Our independence and experience bring value to your welding operations."
+  },
+  "services/training": {
+    "description": "Helping businesses push forward. We help businesses and individuals across the globe continually improve with our scheduled and bespoke training courses"
+  },
+  "solutions/asset-performance-optimisation": {
+    "description": "Realise minimum whole-life cost through performance optimisation. We offer strategic maintenance and integrity management solutions."
+  },
+  "solutions/business-improvement-lean-operations": {
+    "description": "Bespoke solutions to provide assurance and business improvement. Delivering confidence with a tailored approach to your assurance needs through systems…"
+  },
+  "solutions/cyber-security": {
+    "description": "Tackling an evolving threat. Failure to manage cyber risks leaves your organisation open to attacks and costly data breaches."
+  },
+  "solutions/establishing-a-zero-harm-safety-mindset": {
+    "description": "Making 'zero harm' a reality. At KLL we are pioneering a holistic approach to safety with measurable results – we can help you achieve the same in your…"
+  },
+  "solutions/field-development-solutions": {
+    "description": "Develop your field to its best potential. Our field development solutions ensure you exceed your development plans, optimise operations, achieve acquisition…"
+  },
+  "solutions": {
+    "description": "Tailored solutions for safer & smarter businesses. We help you transform, adapt and grow in an increasingly connected world"
+  },
+  "solutions/pipeline-solutions": {
+    "description": "Ensure uninterrupted flow of your pipelines. We help you manage and improve the design, construction, operation and integrity of your onshore and offshore…"
+  },
+  "solutions/safe-decommissioning-of-assets": {
+    "description": "Decommissioning that’s not detrimental. Whether you’re moving your operations into late life and decommissioning or a regulator looking to develop…"
+  },
+  "supply-chain-inspection": {
+    "description": "Safety and quality assured in every step of your supply chain. We help you optimise supply chain quality costs and mitigate risks."
+  },
+  "supply-chain-inspection/remote-inspection": {
+    "description": "Safety and quality assurance. Anytime. Anywhere. Remove geographical boundaries and minimise disruption to your organisation."
+  },
+  "supply-chain-inspection/smart-inspection": {
+    "description": "Choosing vendors? Be SMART. Our SMART inspection service for vendor selection helps cut down vendor selection risks before you sign a contract."
+  },
+  "supply-chain-inspection/supplhi-and-the-vendor-passport": {
+    "description": "Making it easier to connect buyers with qualified vendors. Not sure who can deliver the goods? Let our Vendor Passport be your guide."
+  },
+  "supply-chain-inspection/vendor-assessments-and-audits": {
+    "description": "How do you choose your vendors? We understand that your biggest concern with a new contract is your choice of vendor."
+  },
+  "supply-chain-inspection/vendor-site-inspection": {
+    "description": "Don't let your supply chain get you down. Vendor site inspection is inspection performed at the site of your supplier, designed to make sure you’re getting…"
+  }
+}

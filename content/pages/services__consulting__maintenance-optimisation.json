@@ -1,0 +1,164 @@
+{
+ "elementorId": "1421",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "boxed",
+   "id": "1ea38fb0",
+   "ids": {
+    "column": "73d28a90",
+    "inner": "119b6c33",
+    "card": "38ac7dde",
+    "spacer": "1ef14c01",
+    "eyebrow": "99c38e8",
+    "title": "293d735f",
+    "intro": "4b058d3f"
+   },
+   "eyebrow": "ALLASSETS™ MAINTENANCE OPTIMISATION SOLUTION",
+   "title": "Mapping out your optimum maintenance strategy.",
+   "intro": "Reduce costs and unnecessary maintenance tasks with of AllAssets™ Maintenance Optimisation.",
+   "image": "/wp-content/uploads/2020/05/victor-xok-cx4qdpfMTw-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "cd3537a",
+   "columns": [
+    {
+     "type": "column",
+     "id": "521f81da",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "d3d7bf2",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "4e4bcaa4",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "5e5c17f0",
+           "tag": "h3",
+           "text": "Overview"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "255fd067",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "48a5096f",
+           "html": "Many critical assets such as oil refineries, chemical plants and offshore platforms are burdened with maintenance programs that are inefficient and ineffective. Furthermore, the digital intelligence of asset maintenance is often ignored- resulting in maintenance burdens that put unnecessary pressure on operatives and budgets. LR’s industry-leading AllAssets™ Maintenance Optimisation technology, allied with our unparalleled technical engineering capability and consultative services, quickly brings an expert view on vital infrastructure – reducing workloads, cutting spending and eliminating backlogs."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "1ef364f1",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "3677be4a",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "67d12b60",
+           "tag": "h3",
+           "text": "What we offer"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "72cd2e0b",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "1ddef308",
+           "html": "<p>AllAssets Maintenance Optimisation solution combines your facility-specific asset data with our technical engineering competence and industry-standard performance benchmarks to drive performance improvement. Sophisticated risk-based algorithms allow targeted maintenance performance improvement and improved facility OPEX and uptime.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "dca9fec",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "b082bc6",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "4d98e84",
+           "tag": "h3",
+           "text": "What are the benefits?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "c5df167",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "fb0a70e",
+           "html": "In work for Maersk, Total, BG Group, Shell and Centrica, AllAssets Maintenance Optimisation has reduced the cost of Planned Maintenance by up to 30%, helped materially extend asset life and demonstrate legislative compliance. Data integration, collaborative workshops and targeted maintenance optimisation are all delivered as part of our technology and services capability – so our clients see almost immediate results and rapid ROI.\n\nDynamic “what-if” scenario planning is integral to our work ensuring that full sensitivity analysis is carried out and Management of Change is easy.\n\nIrrespective of the asset type, our AllAssets Maintenance Optimisation software and suite of consultative services helps you optimise costs, increases availability and extends servicing intervals. It also enhances overall safety, not least by removing vulnerable staff from hazardous environments and demonstrating compliance of Safety and Environmentally Critical Equipment. Working with you to cut through your operational data noise, AllAssets Maintenance Optimisation guides you to find the optimum solution."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "e794328",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "8d94f35",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "afca758",
+           "tag": "h3",
+           "text": "Why choose KLL?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "fb6297b",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "e1ff4f6",
+           "html": "We take a unique approach to Asset Performance Management (APM). We are immersed in the world where asset-intensive industries thrive, like oil and gas, chemical, power, marine and pharmaceutical. This understanding of specialist industries brings multi-sector talents to our asset integrity software."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

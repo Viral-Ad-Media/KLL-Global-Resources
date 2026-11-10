@@ -1,0 +1,52 @@
+{
+ "elementorId": "1132",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "1d87461f",
+   "ids": {
+    "card": "1b600920",
+    "side": "1f2eeda5",
+    "eyebrow": "1728d162",
+    "title": "72f3c48e",
+    "intro": "1d3dd020"
+   },
+   "eyebrow": "ASSURANCE SERVICES",
+   "title": "Peace of mind for your  stakeholders.",
+   "intro": "Expert independent assurance services to make sure your investments tick all the boxes",
+   "image": "/wp-content/uploads/2020/05/saffu-FtqY6goIY14-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "7ed32c1d",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "689317fb",
+     "size": "100",
+     "elements": [
+      {
+       "type": "text",
+       "id": "2b63079a",
+       "html": "<p>KLL Global has been supplying assurance services to many industries for 8 years. We have a reputation for ensuring assets and processes are optimised appropriately, often exceeding regulatory requirements, giving all stakeholders the assurance they demand. </p>"
+      },
+      {
+       "type": "heading",
+       "id": "38b32946",
+       "tag": "h3",
+       "text": "How we can help"
+      },
+      {
+       "type": "text",
+       "id": "ac1d9d8",
+       "html": "<p>We help our clients in lots of different ways. And no matter what service you need us to partner you on, we’re with you every step of the way. Here are just some of our most frequently requested products and services</p>"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

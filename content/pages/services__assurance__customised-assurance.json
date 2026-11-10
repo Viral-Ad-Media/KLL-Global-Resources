@@ -1,0 +1,67 @@
+{
+ "elementorId": "1515",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "plain",
+   "id": "564656f1",
+   "ids": {
+    "card": "4c332fc1",
+    "eyebrow": "7a9a89a4",
+    "title": "d9c6c40",
+    "intro": "75d774ed"
+   },
+   "eyebrow": "CUSTOMISED ASSURANCE",
+   "title": "Bespoke solutions to provide assurance and business improvement.",
+   "intro": "Delivering confidence with a tailored approach to your assurance needs through systems improvement and training."
+  },
+  {
+   "type": "section",
+   "id": "1ea8e292",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "4e39542b",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "4b3a80d0",
+       "tag": "h3",
+       "text": "Turn your organisation’s weaknesses into strengths"
+      },
+      {
+       "type": "text",
+       "id": "5982c21a",
+       "html": "<p>Customised assurance and training addresses your organisation’s specific needs through the creation of bespoke solutions and goes beyond certification. Our expertise covers supply chain assurance &amp; supplier rating, governance, risk management &amp; compliance, performance &amp; process improvement and change management support.</p>"
+      },
+      {
+       "type": "heading",
+       "id": "ef28c06",
+       "tag": "h3",
+       "text": "Why work with us?"
+      },
+      {
+       "type": "text",
+       "id": "f665162",
+       "html": "<p>Our assessors and trainers are also sector specific experts, ensuring that we fully understand your business and the space you operate in. Our customised assurance solutions are deployed to improve both the effectiveness and efficiency of your organisation.  We operate globally and deliver tangible benefits through business improvement.</p>"
+      },
+      {
+       "type": "heading",
+       "id": "7f19a70",
+       "tag": "h3",
+       "text": "Turn your organisation’s weaknesses into strengths"
+      },
+      {
+       "type": "text",
+       "id": "ac61903",
+       "html": "We offer a range of customised assurance and bespoke training services, each of which starts with your organisation and needs.  We always invest time to fully understand and contextualise the need before working with you to co-develop a solution."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

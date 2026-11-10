@@ -1,0 +1,62 @@
+{
+ "elementorId": "1023",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "6d6e04a2",
+   "ids": {
+    "card": "50fcfcc6",
+    "side": "41e2cdf3",
+    "eyebrow": "51e2bb24",
+    "title": "f084931",
+    "intro": "43c43a54"
+   },
+   "eyebrow": "AEROSPACE &amp; DEFENCE",
+   "title": "Taking quality to new heights.",
+   "intro": "In the highly regulated aerospace and defence sectors, assurance demonstrates a unilateral commitment to quality across global supply chains.",
+   "image": "/wp-content/uploads/2020/05/stefan-fluck-twIzCL3YSRI-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "20f7acbc",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "628abf38",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "1e046f8f",
+       "tag": "h3",
+       "text": "Independent assurance helps us rely on the aerospace and defence industries to keep us safe"
+      },
+      {
+       "type": "text",
+       "id": "4f79c831",
+       "html": "<p class=\"desktop-center\">With certification systems in place, we know that when we take an aeroplane ride or an astronaut sets off for the space station, they do so safe in the knowledge that they are in a machine that is built to the highest specifications and standards in the world. Without quality assurance to regulate the industry, any company could create aeroplanes, build spaceships or manufacture for the defence sector and launch to market whether they were built using best practices or not.</p><p class=\"desktop-center\">At KLL, we work in partnership with our customers to deliver the exact service they require. Whether you have multiple sites or require combined audits, we’ll do our best to help you in a practical, cost-effective way.</p>"
+      },
+      {
+       "type": "spacer",
+       "id": "beee521"
+      },
+      {
+       "type": "heading",
+       "id": "6a9a692",
+       "tag": "h3",
+       "text": "How we can help"
+      },
+      {
+       "type": "text",
+       "id": "a1e97ef",
+       "html": "<p>We apply our expert solutions and independence to assure the integrity, reliability and success of every aspect of your operation. Helping maximise productivity and recovery, reduce operating costs, mitigate risk and demonstrate compliance with government regulations, industry codes and standards, many of which we have helped to develop.</p>"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

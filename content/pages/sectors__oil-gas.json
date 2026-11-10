@@ -1,0 +1,47 @@
+{
+ "elementorId": "1064",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "6762a789",
+   "ids": {
+    "card": "36787646",
+    "side": "16d12424",
+    "eyebrow": "66b3cd71",
+    "title": "5d3280c5",
+    "intro": "5c47218a"
+   },
+   "eyebrow": "OIL &amp; GAS",
+   "title": "Keeping your business flowing across every stream.",
+   "intro": "<p>Optimise your operations from design to decommissioning, from reservoir to refinery and beyond.</p>",
+   "image": "/wp-content/uploads/2020/05/daniel-olah-VS_kFx4yF5g-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "43b239d7",
+   "contentMiddle": true,
+   "gap": "no",
+   "columns": [
+    {
+     "type": "column",
+     "id": "18858360",
+     "size": "100",
+     "elements": [
+      {
+       "type": "heading",
+       "id": "1801da43",
+       "tag": "h3",
+       "text": "How we can help"
+      },
+      {
+       "type": "text",
+       "id": "d4bc329",
+       "html": "<p class=\"desktop-center\">The dust has settled and hope is on the horizon. As our Oil and Gas industry moves forward following a significant period of readjustment, you require trusted superior engineering expertise and innovative solutions to help you achieve your operational and commercial goals and strategic vision. </p><p class=\"desktop-center\">Our world class expertise allows us to resolve and share solutions to the most complex situations, ensuring you maximise productivity and recovery, reduce operating costs, make accurate decisions and mitigate risk.</p><p class=\"desktop-center\">We help you design, construct, operate and decommission critical assets, and deliver projects to their highest levels of safety and performance. </p><p class=\"desktop-center\">We apply our expert solutions and independence to assure the integrity, reliability and success of every aspect of your operation. Helping maximise productivity and recovery, reduce operating costs, mitigate risk and demonstrate compliance with government regulations, industry codes and standards, many of which we have helped to develop.</p>"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

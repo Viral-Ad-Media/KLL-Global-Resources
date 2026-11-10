@@ -1,0 +1,96 @@
+{
+ "elementorId": "1551",
+ "blocks": [
+  {
+   "type": "hero",
+   "layout": "split",
+   "id": "4d2597d6",
+   "ids": {
+    "card": "6a78efd0",
+    "side": "3441bf8",
+    "eyebrow": "6758a821",
+    "title": "31609c1b"
+   },
+   "eyebrow": "AQUACULTURE",
+   "title": "End to end solutions for safe and sustainable aquaculture",
+   "image": "/wp-content/uploads/2020/05/celine-haeberly-_i3K3-srQzQ-unsplash.jpg"
+  },
+  {
+   "type": "section",
+   "id": "4f3e0c2e",
+   "columns": [
+    {
+     "type": "column",
+     "id": "2c3b18df",
+     "size": "100",
+     "elements": [
+      {
+       "type": "section",
+       "id": "8b38f54",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "76e49cd0",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "7ea8cf04",
+           "tag": "h3",
+           "text": "Why choose KLL for your seafood assurance services?"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "1c786044",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "1d2aeecf",
+           "html": "<p>Consumer demand for sustainable fisheries and fish farming is rising. Alongside globalisation and the ‘blue revolution’, it’s clear that the complexity and potential<br/>challenges involved in the seafood industry are also increasing.<br/>KLL GLOBAL has been working with businesses throughout the aquaculture<br/>supply chain for more than 20 years, helping them cut through the complexity and<br/>manage the challenges more effectively.<br/>Combining the in-depth knowledge and technical expertise of our marine, offshore<br/>and food specialist teams, we can provide end-to-end solutions from fish farm concept, construction and operation through to fishery management, food processing, restaurants and hospitality.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "6525e0a1",
+       "inner": true,
+       "columns": [
+        {
+         "type": "column",
+         "id": "66caf192",
+         "size": "50",
+         "elements": [
+          {
+           "type": "heading",
+           "id": "6ace73b",
+           "tag": "h3",
+           "text": "Our credentials"
+          }
+         ]
+        },
+        {
+         "type": "column",
+         "id": "217d13a2",
+         "size": "50",
+         "elements": [
+          {
+           "type": "text",
+           "id": "280c792e",
+           "html": "<p>Our customer-friendly, scalable technology has been built by people who understand<br/>your industry; providing you with data analytics which enable you to quickly identify issues and solve problems. Robust assurance verification means you can visibly<br/>demonstrate that your business meets the safety, quality and social compliance<br/>requirements of both manufacturers and the public.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
