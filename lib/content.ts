@@ -4,6 +4,7 @@ import pagesJson from '@/content/pages.json';
 import navJson from '@/content/nav.json';
 import redirectsJson from '@/content/redirects.json';
 import type { PageContent } from '@/lib/blocks';
+import { addResponsiveCss } from './responsive';
 
 export type PageMeta = {
   path: string; // '' for the home page, otherwise e.g. 'services/training'
@@ -54,5 +55,5 @@ export function getPageContent(page: PageMeta): PageContent {
 
 export function getPageCss(page: PageMeta): string {
   const file = path.join(dir, 'css', `${page.key}.css`);
-  return fs.existsSync(file) ? fs.readFileSync(file, 'utf8') : '';
+  return fs.existsSync(file) ? addResponsiveCss(fs.readFileSync(file, 'utf8')) : '';
 }

@@ -2,10 +2,10 @@ import type { CSSProperties, ReactNode } from 'react';
 import type { ColumnBlock, SectionBlock } from '@/lib/blocks';
 import { cx } from './Widget';
 
-type SectionProps = Omit<SectionBlock, 'type' | 'columns'> & { style?: CSSProperties; children: ReactNode };
+type SectionProps = Omit<SectionBlock, 'type' | 'columns'> & { className?: string; style?: CSSProperties; children: ReactNode };
 
 /** A full-width row. Holds columns; its width is boxed by the theme container. */
-export function Section({ id, inner, background, overlay, contentMiddle, minHeight, gap = 'default', style, children }: SectionProps) {
+export function Section({ id, inner, background, overlay, contentMiddle, minHeight, gap = 'default', className, style, children }: SectionProps) {
   return (
     <section
       className={cx(
@@ -18,6 +18,7 @@ export function Section({ id, inner, background, overlay, contentMiddle, minHeig
         'elementor-section-boxed',
         'elementor-section-height-default',
         !minHeight && 'elementor-section-height-default',
+        className,
       )}
       data-id={id}
       data-element_type="section"
